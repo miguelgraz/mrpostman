@@ -1,0 +1,2 @@
+require './mrpostman'
+run Mrpostman

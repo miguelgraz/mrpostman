@@ -1,0 +1,5000 @@
+32423 Minden
+51373 Leverkusen
+Hermannstraße 158, 44263 DORTMUND-Hörde, Dortmund
+50354 Hürth
+Kurfürstenplatz 500, 53125 Bonn-Röttgen, Bonn
+40221 Düsseldorf
+40225 Düsseldorf / Bilk
+Tilsiter Straße 3, 52078 Aachen, Forst
+33619 Bielefeld
+48149 Münster
+Römerstraße 17, 40476 Düsseldorf, Derendorf
+Kölner Straße 0, 47805 Krefeld, Dießem/Lehmheide
+45701 Herten-Westerholt, Herten
+40667 Meerbusch
+44147 Dortmund
+50374 Erftstadt
+Seyengasse 3A, 50678 Köln, Altstadt & Neustadt-Süd
+32791 Lage
+53819 Neunkirchen-Seelscheid
+45307 Essen
+40670 Meerbusch
+40670 Meerbusch-Strümp
+51545 Waldbröl
+57076 Siegen
+53909 Zülpich
+51107 Köln
+51588 Nümbrecht
+Akazienweg 16, 52391 Vettweiß, Düren (Kreis)
+52074 Aachen
+44894 Bochum
+59075 Hamm
+41466 Neuss
+47798 Krefeld
+41352 Korschenbroich-Herrenshoff, Neuss (Rhein-Kreis)
+51580 Reichshof
+58455 Witten
+Henrich-Lübke-Straße 7, 58239 Schwerte, Unna (Kreis)
+Gerscheder Weiden 39, 45357 Essen, Gerschede
+Eugenstraße 6, 45661 Recklinghausen, Recklinghausen (Kreis)
+Salentinstraße 257, 45661 Recklinghausen, Recklinghausen (Kreis)
+Josef-Kleesattel-Str. 11, 40595 Düsseldorf, Garath
+Bahnhofstraße 39, 37688 Beverungen, Höxter (Kreis)
+Handelstr. 50, 42277 Wuppertal, Oberbarmen
+Oranienburgerstr. 90, 40599 Düsseldorf, Hassels
+Ursulinerstrasse 21, 52062 Aachen, Innenstadt
+41065 Mönchengladbach
+40489 Düsseldorf
+Hagener Straße 63, 58642 Iserlohn, Märkischer Kreis
+Veilchenweg 11, 44532 Lünen, Unna (Kreis)
+Donarstr. 16, 51107 Köln-Rath, Rath/Heumar
+Im Winkel 6, 58533 Halver, Märkischer Kreis
+Heerstr. 216, 47053 Duisburg, Hochfeld
+Am Haferkamp xx, 40591 Düsseldorf-Wersten, Düsseldorf
+Urbacher Weg 10, 51149 Köln, Porz
+51109 Köln
+33689 Bielefeld
+53343 Wachtberg
+48155 Münster
+50968 Köln
+58239 Schwerte
+52531 Übach-Palenberg
+53859 Niederkassel
+53604 Bad Honnef
+Abbentalsweg 13, 37671 Höxter, Höxter (Kreis)
+Am Kempschen Weg 84, 47804 Krefeld, Benrad-Nord
+Middendorfstraße 31, 59075 Hamm, Bockum-Hövel
+48231 Warendorf
+48431 Rheine
+33442 herzebrock - clarholz
+Bellstrasse 25, 47906 Kempen, St. Hubert, Kempen
+51465 Bergisch Gladbach
+52445 Titz
+47800 Krefeld
+40545 Düsseldorf-Oberkassel
+40883 Ratingen
+50668 Köln
+50969 Köln
+46414 Rhede
+Winkelmanstrasse 5, 40699 Erkrath, Mettmann (Kreis)
+Miltenberger Str. 8, 51103 Köln, Höhenberg
+Wörthstraße 76, 46045 Oberhausen, Altstadt-Süd
+Eichelkampstraße 23, 46145 Oberhausen, Sterkrade-Mitte
+50858 Köln
+In der Kreuzau 4, 51105 Köln, Poll
+Ortmannsweg 1-3 / Westring 42-48, 47918 Tönisvorst, Viersen (Kreis)
+50939 Köln
+Halweg 50-60, 45527 Hattingen, Ennepe-Ruhr-Kreis
+Rheinstrasse 48, 41564 Kaarst, Neuss (Rhein-Kreis)
+Moselstrasse 15, 41564 Kaarst, Neuss (Rhein-Kreis)
+Hambergerstrasse 71, 51381 Leverkusen, Lützenkirchen
+Deutz-Mülheimer-Straße 183, 51063 Köln, Mülheim
+Dampfmühlenweg 54-56, 47799 Krefeld, Cracau
+Florastraße 6, 42651 Solingen, Solingen-Mitte
+Oststraße 78, 40210 Düsseldorf, Stadtmitte
+Turmstr. bei 10, 47229 Duisburg, Friemersheim
+Am Bahnhof Tierpark bei 28/32, 44225 Dortmund, Renninghausen
+Saumstr. bei 45, 41063 Mönchengladbach, Eicken
+Im Böckenbusch bei 12-14, 45701 Herten, Recklinghausen (Kreis)
+42115 Wuppertal
+Rheinische Str. 2, 45468 Mülheim an der Ruhr, Mitte
+Jahnstraße 66-68, 41189 Mönchengladbach, Wickrath-Mitte
+Selikumer Str. 15, 41460 Neuss, Neuss (Rhein-Kreis)
+TG Aurinstraße 90-98, 41466 Neuss, Neuss (Rhein-Kreis)
+TG Alemannenstraße 31, 41462 Neuss, Neuss (Rhein-Kreis)
+Luxemburgerstr. 49, 50939 Köln, Altstadt & Neustadt-Süd
+Novesiastr. bei 5, 41564 Kaarst, Neuss (Rhein-Kreis)
+Ubierweg / Am Hochkreuz 1, 51149 Köln, Gremberghoven
+Gotenstr. bei 5 + 7, 51149 Köln, Gremberghoven
+Hermann-Grothe-Str. bei 100, 47279 Duisburg, Bissingheim
+Brückstr. Ecke Kreuzstr. bei 21, 40882 Ratingen, Mettmann (Kreis)
+Römerstr/Zum Engelshof bei 75, 50996 Köln, Rodenkirchen
+32584 Löhne
+42855 Remscheid
+53804 Much
+51688 Wipperfürth
+50169 Kerpen
+53347 Alfter
+33803 Steinhagen
+42629 Solingen
+42659 Solingen
+50188 Elsdorf
+50170 Kerpen, Rheinl
+Heuchterstr. 35, 41844 Wegberg - Arsbeck, Wegberg
+45721 Haltern am See
+Gilbergstr 29, 41446 Neuss, Neuss (Rhein-Kreis)
+Am Ballrth 3, 44227 Dortmund, Großholthausen
+57392 Schmallenberg-Unterstadt
+50827 Köln
+48607 Ochtrup
+Siegener Str. 33, 51580 Reichshof, Oberbergischer Kreis
+Freiherr-vom-Steinstr 386c, 45133 Essen, Bredeney
+51061 Köln
+50129 Berhgeim
+59955 Winterberg
+Franz-Felix-See, 48268 Greven, Steinfurt (Kreis)
+Littardweg, 47509 Rheurdt, Kleve (Kreis)
+46446 Emmerich-Praest
+41238 Mönchengladbach
+57462 Olpe
+42781 Haan
+52062 Aachen
+Richard-Wagner-Str. 2, 59227 Ahlen, Warendorf (Kreis)
+42277 Wuppertal
+Kesselsbergweg 22, 40489 Düsseldorf-Kaiserswerth, Düsseldorf
+46240 Bottrop
+44329 Dortmund
+42289 Wuppertal
+47799 Krefeld
+42697 Solingen
+Biwak 88, 47918 Tönisvorst, Viersen (Kreis)
+Nahestr. 30, 47051 Duisburg, Altstadt
+48712 Gescher
+42657 Solingen
+Blücherplatz 15-27, 52068 Aachen, Hansemannplatz-Jülicher Str.
+44388 Dortmund
+52353 Düren
+47877 Willich
+41836 Hückelhoven
+53894 Mechernich
+32425 Minden
+53227 Bonn
+58739 Wickede
+51766 Engelskirchen
+57258 Freudenberg
+44866 Bochum
+42389 Wuppertal
+47475 Kamp-Lintfort
+44879 Bochum
+51597 Morsbach
+Elisabeth-Emter-Str. 2, 79110 Freiburg, Mooswald
+Hauptstraße 41, 72221 Haiterbach-Oberschwandorf, Haiterbach
+Christophallee 1, 75177 Pforzheim, Nordstadt
+Schönblickstraße 20, 72221 Haiterbach-Oberschwandorf, Haiterbach
+77815 Bühl
+78713 Schramberg-Sulgen
+78727 Oberndorf
+68199 Mannheim
+Seestraße 71, 70174 Stuttgart, Nord
+An der alten Schule 4, 68809 Neulußheim, Rhein-Neckar-Kreis
+Schillerstr. 5/3, 73728 Esslingen, Esslingen am Neckar
+88085 Langenargen
+73431 Aalen
+72116 Mössingen-Öschingen
+Kreuzwiesenstraße 13/1, 74397 Pfaffenhofen, Heilbronn (Kreis)
+75394 Oberreichenbach
+70469 Stuttgart
+71134 Aidlingen-Deufringen
+72622 Nürtingen-Zizishausen
+89518 Heidenheim
+71063 Sindelfingen-Altstadt
+69412 Eberbach
+76227 Karlsruhe Durlach
+72622 Nürtingen
+78337 Aichhalden
+68542 Heddesheim
+79585 Steinen-Endenburg-Endenburg
+79868 Feldberg - Falkau
+97956 Dingolshausen
+89542 Herbrechtingen
+79733 Görwihl
+Kapellenweg 0, 79865 Grafenhausen, Waldshut (Kreis)
+77731 Willstätt
+Alte Rommelshäuser Str. 50, 71332 Waiblingen, Rems-Murr-Kreis
+Simon-Hayum-Straße 20, 72074 Tübingen, Tübingen (Kreis)
+Neustadter Straße 61, 68309 Mannheim, Käfertal
+72076 Tübingen
+71686 Remseck
+Barlachstraße 1, 69226 Nußloch, Rhein-Neckar-Kreis
+71088 Holzgerlingen
+Dossenheimer Landstraße 100, 69121 Heidelberg, Handschuhsheim
+75172 Pforzheim
+Barlachstraße 3, 69226 Nußloch, Rhein-Neckar-Kreis
+Ernsthaldenstr. 47, 70565 Stuttgart, Vaihingen
+D 20a, 75175 Pforzheim, Oststadt
+76437 Rastatt
+78464 Konstanz
+Schmitthennerstraße 66, 69124 Heidelberg, Kirchheim
+73760 Ostfildern
+Sechselbach 18, 97993 Creglingen, Main-Tauber-Kreis
+Bergblick 5, 88048 Friedrichshafen, Bodenseekreis
+Balingerstr. 14, 72348 Rosenfeld, Zollernalbkreis
+89160 Dornstadt
+72135 Dettenhausen
+Steetwiesen 26, 73269 Hochdorf, Esslingen (Kreis)
+71111 Waldenbuch
+71272 Renningen
+71116 Gärtringern
+88471 Laupheim
+68766 Hockenheim
+68799 Reilingen
+70184 Stuttgart
+Gartenstr. 16, 75233 Tiefenbronn-Mühlhausen, Tiefenbronn
+72636 Frickenhausen
+89081 Ulm-Jungingen
+72138 Kirchentellinsfurt
+73457 Essingen
+73269 Hochdorf
+79576 weil am rhein
+72461 Albstadt-Tailfingen
+88212 Ravensburg
+Murgtalstraße 0, 76571 Gaggenau, Rastatt (Kreis)
+74078 Heilbronn
+74233 Flein
+79761 Waldshut
+Reuchlinstraße 17, 70178 Stuttgart-West, Stuttgart
+Benninger Straße 72/74, 71336 Waiblingen - Neustadt, Waiblingen
+Weidenbrunnen 93 B+C, 70378 Stuttgart-Mühlhausen, Stuttgart
+Leni-Fischer-Str. 12, 74372 Sersheim, Ludwigsburg (Kreis)
+Richard-Wagner-Straße 21+23, 71686 Remseck-Pattonville, Remseck am Neckar
+John-F.-Kennedy-Allee 22, 71686 Remseck-Pattonville, Kornwestheim
+John-F.-Kennedy-Allee 24, 71686 Remseck-Pattonville, Kornwestheim
+73037 Göppingen
+Riedstraße 26/28, 72072 Tübingen-Hirschau, Tübingen
+Wennfelder Garten 15/17, 72072 Tübingen, Tübingen (Kreis)
+wagnerstr 1, 74357 bönnigheim, Bönnigheim
+72574 Bad Urach
+Brühlstr. 57, 71106 Magstadt, Böblingen (Kreis)
+Schwabstr. 46, 70197 Stuttgart, West
+Charlottenstraße 37, 72070 Tübingen, Tübingen (Kreis)
+John-F.-Kennedy-Allee 55, 71686 Remseck, Remseck am Neckar
+70176 Stuttgart
+Josef-Boschstr. bei 11/13, 78315 Radolfzell, Radolfzell am Bodensee
+Oppenheimer Str. bei 12-18, 70499 Stuttgart, Weilimdorf
+70193 Stuttgart
+Hoffmannstraße 6, 71229 Leonberg, Böblingen (Kreis)
+Simanowizweg 2, 71729 Erdmannhausen, Ludwigsburg (Kreis)
+Bahnstadt Parkhaus P7, 88214 Ravensburg, Ravensburg (Kreis)
+Am Bergwald 34, 70329 Stuttgart, Hedelfingen
+Bietigheimer Straße 23/1, 74321 Bietigheim-Bissingen, Ludwigsburg (Kreis)
+Weilerstraße 2/1, 71409 Schwaikheim, Rems-Murr-Kreis
+Alemannenstraße 18/20, 76532 Baden-Baden, Weststadt
+Gartenstraße 2, 76337 Waldbronn, Karlsruhe (Kreis)
+Klingenstr. 00, 70186 Stuttgart, Ost
+L 7 6-6a, 68161 Mannheim, Innenstadt / Jungbusch
+Malvenweg bei 35, 78224 Singen, Singen (Hohentwiel)
+70794 Filderstadt / Sielmingen
+71397 Leutenbach
+75365 Calw
+72108 Ergenzingen
+73614 Schorndorf
+75331 Engelsbrand
+73266 Bissingen an der Teck
+71540 Murrhardt
+Lindenstrasse, 74374 Zaberfeld, Heilbronn (Kreis)
+76646 Bruchsal
+73527 Schwäbisch Gmünd
+Westpreußenstr. 40/5, 73431 Aalen, Ostalbkreis
+73268 Erkenbrechtsweiler
+Enzberger Straße 16, 74363 Güglingen-Frauenzimmern, Güglingen
+71101 Schönaich
+76684 Östringen
+72393 Burladingen / Hausen im Killertal-Starze
+69168 Wiesloch
+68199 Mannheim-Neckarau
+Clara-Schumann-Str., 74889 Sinsheim, Rhein-Neckar-Kreis
+78224 Singen
+88326 Aulendorf
+79713 Bad Säckingen
+Grünstraße 18, 79232 march, March
+97980 Bad Mergentheim
+Jakobstraße, 72810 Gomaringen, Tübingen (Kreis)
+72766 Reutlingen
+73266 Bissingen/Teck
+74564 Crailsheim
+77790 Welschensteinach
+72181 Starzach-Bierlingen
+68165 Mannheim
+76297 Stutensee (Blankenloch)
+78269 Volkertshausen
+Schmiedgässle 8, 71634 Ludwigsburg, Ludwigsburg (Kreis)
+70199 Stuttgart
+74722 Buchen
+79804 Dogern
+Stuttgarter Straße 73, 70825 Korntal-Münchingen, Ludwigsburg (Kreis)
+Hauptstr. 84, 88348 Bad Saulgau, Sigmaringen (Kreis)
+71083 Oberjesingen
+71144 Steinenbronn
+Johann-Georg-Fahr-Straße 11, 78244 Gottmadingen, Konstanz (Kreis)
+Am Kirchplatz 4, 77876 Kappelrodeck, Ortenaukreis
+Langer Zaun 13, 74182 Obersulm, Heilbronn (Kreis)
+Hanauer Straße 26, 68305 Mannheim, Waldhof
+69242 Mühlhausen
+74078 Heilbronn-Neckargartach
+70190 Stuttgart
+74214 Schöntal
+73066 Uhingen
+97944 Boxberg
+73463 Westhausen
+75181 Pforzheim
+72458 Albstadt
+89077 Ulm
+72178 Waldachtal
+89191 Nellingen
+89537 Giengen
+75378 Bad Liebenzell
+72800 Eningen
+76149 Karlsruhe
+76297 Stutensee
+78658 Zimmern
+75175 Pforzheim
+72275 Alpirsbach
+79098 Freiburg
+89284 Pfaffenhofen an der
+91161 Hilpoltstein
+Kleinreuther Weg 56, 90425 Nürnbrg, Uhlandstraße
+86641 Rain
+90461 Nürnberg
+Zaunwiesenweg 0, 90482 Nürnberg, Laufamholz
+63814 Mainaschaff
+81675 München
+89443 Schwenningen
+91785 Pleinfeld
+86156 Augsburg
+94491 Hengersberg
+96103 Hallstadt
+Lenbachstr. 3, 86529 Schrobenhausen, Neuburg-Schrobenhausen (Kreis)
+84503 Altötting
+86561 Aresing
+82515 Wolfratshausen
+96271 Grub am Forst
+95138 Bad Steben
+63864 Glattbach
+84032 Altdorf
+95179 Geroldsgrün
+91180 Heideck
+97956 Dittelbrunn
+83358 Seeon-Seebruck
+96129 Strullendorf
+97720 Nüdlingen
+91726 Gerolfingen
+91077 Hetzles
+84508 Burgkirchen
+82140 Olching
+86916 Kaufering
+97737 Gemünden-Harrbach
+96117 Drosendorf
+93354 Siegenburg
+86420 Diedorf OT Biburg
+90425 Nürnberg
+86807 Buchloe
+Schwere-Reiter-Str. 27, 80797 München-Schwabing, Schwabing-West
+Hufelandstr. 50, 90419 Nürnberg, Bielingplatz
+90762 Fürth
+93047 Regensburg
+84416 Taufkirchen (Vils)
+Schloßweg 11, 95028 Hof, Innenstadt
+80796 München
+Domagkstr. 46, 80805 München, Schwabing
+85435 Erding
+96487 Dörfles-Esbach
+82041 Deisenhofen
+93073 Neutraubling
+91207 Lauf
+82467 Garmisch-Partenkirchen
+82467 Garmisch-P.
+Keferloher Weg 6, 85652 Pliening, Ebersberg (Kreis)
+82211 Herrsching
+82343 Pöcking
+86830 Schwabmünchen
+Hartmannstraße 13, 63739 Aschaffenburg, Stadtmitte
+91085 Weisendorf
+82234 Weßling
+Winterstr. 13, 82054 Sauerlach, München (Kreis)
+Friedastr. 27, 81479 München, Solln
+82266 inning
+82279 Eching
+Planegger Straße 21, 82061 Neuried, München (Kreis)
+97237 Altertheim
+84109 Wörth a.d.I.
+Kirschenstr. 28, 82024 Taufkirchen, München (Kreis)
+92249 Vilseck-Sorghof
+82256 Fürstenfeldbruck
+Alfred-Nobel-Straße x, 86807 Buchloe, Ostallgäu (Kreis)
+81543 München
+Birkenstraße x, 86899 Landsberg, Landsberg am Lech
+87435 Kempten
+Hiltlstraße 17, 80997 München, Untermenzing
+Johann-Strauss-Str. 00, 82008 Unterhaching, München (Kreis)
+Feldmochinger Str. 74, 80993 München, Moosach
+Ebersberger-/Wolfskeelstraße 3, 91126 Schwabach, Innenstadt
+91052 Erlangen
+Peter-Schegg-Str. 8-20, 87600 Kaufbeuren, Kaufbeuren (Kernstadt)
+Berchtesgadenerstr. 10, 81547 München, Untergiesing
+Kreillerstr. 13, 81673 München, Berg am Laim
+90491 Nürnberg
+90765 Fürth
+Saleggstr. 14, 81547 München, Untergiesing
+Hindenburgstraße 10, 89281 Altenstadt, Neu-Ulm (Kreis)
+Lützelsteiner Str. bei 30, 80939 München, Freimann
+Schwedenweg bei 21, 85560 Ebersberg, Ebersberg (Kreis)
+Altenhohenau 16, 83356 Griesstätt, Rosenheim (Kreis)
+Pillenreuther Str. 155b, 90459 Nürnberg, Hummelstein
+Blutenburgstraße 45, 80636 München, Neuhausen
+Hanauerstraße 1, 80992 München, Moosach
+80639 München
+Stielerstraße -, 80336 München, Ludwigsvorstadt-Isarvorstadt
+Maria-Josepha-Straße -, 80802 München, Schwabing
+Bahnhofsplatz 2, 90443 Nürnberg, Tafelhof
+Lustheimer Str. 4, 85386 Eching, Freising (Kreis)
+85570 Markt Schwaben
+Sarasatestr. Garage 1, 81247 München, Obermenzing
+Mozartring / Parkstraße 1, 89312 Günzburg, Günzburg (Kreis)
+80799 München
+93173 Wenzenbach
+93192 Wald
+93142 Maxhütte-Haidhof
+84069 Schierling
+93128 Regenstauf
+93346 Ihrlerstein
+92436 Nittenau
+93191 Rettenbach
+93083 Obertraubling
+93057 Regensburg
+82041 Oberhaching
+93149 Nittenau
+84559 Kraiburg
+83703 Gmund
+85551 Kirchheim
+85411 Hohenkammer
+81545 München
+89359 Kötz
+81677 München
+87448 Waltenhofen
+Wiesenäckerweg, 85658 Egmating, Ebersberg (Kreis)
+85737 Ismaning
+80993 München
+85716 Unterschleißheim
+89278 Nersingen
+84305 Altötting
+80331 München
+86199 Augsburg
+90763 Fürth
+90480 Nürnberg
+94086 Bad Griesbach
+86660 Tapfheim
+95028 Hof
+95163 Weißenstadt
+97833 Frammersbach
+95233 Helmbrechts
+84329 Wurmannsquick
+84435 Lengdorf
+80937 München
+96126 Maroldsweisach
+85622 Feldkirchen
+95488 Eckersdorf
+95466 Kirchenpingarten
+95131 Schwarzenbach a Wald
+91346 Wiesenttal
+95444 Bayreuth
+95119 Naila
+80999 München
+Wisbyer Str. 6, 10439 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Ostseestraße 44, 10409 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Wisbyerstr. 6, 10439 Berlin, Pankow (Pankow)
+Wisbyerstr. 6, 10439 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+10587 Berlin-Charlottenburg
+10589 Berlin-Charlottenburg
+13359 Berlin-Wedding
+10437 Berlin-Prenzlauer Berg
+13593 Berlin-Spandau
+10713 Berlin-Wilmersdorf
+10405 Berlin-Prenzlauer Berg
+12681 Berlin-Marzahn
+12163 Berlin-Steglitz
+14167 Berlin-Zehlendorf
+12489 Berlin-Treptow
+14165 Berlin-Zehlendorf
+13127 Berlin-Pankow
+14195 Berlin
+12623 Berlin-Mahlsdorf
+14193 Berlin
+13129 Berlin
+13467 Berlin
+13156 Berlin
+13591 Berlin
+Schragenfeldstr. -, 12685 Berlin, Marzahn (Marzahn)
+12207 Berlin
+13086 Berlin
+13469 Berlin
+13089 Berlin
+Bornitzstraße 92, 10365 Berlin-Lichtenberg, Lichtenberg (Lichtenberg)
+12355 Berlin
+Stadtrandstraße 549, 13589 Berlin, Spandau (Spandau)
+Lewishamstrasse 7, 10629 Berlin, Charlottenburg (Charlottenburg)
+Knesebeckstraße 11, 10623 Berlin, Charlottenburg (Charlottenburg)
+Amendestraße 81, 13409 Berlin, Reinickendorf (Reinickendorf)
+Wriezener Straße 21, 13359 Berlin, Wedding (Wedding)
+Wittstocker Str. 22, 10553 Berlin, Tiergarten (Tiergarten)
+10247 Berlin
+Niederstraße 1, 13158 Berlin, Rosenthal (Pankow)
+Rückertstraße 12, 10627 Berlin, Charlottenburg (Charlottenburg)
+14129 Berlin
+Friedrichsberger Straße 2, 10243 Berlin, Friedrichshain (Friedrichshain)
+Hobrechtsfelder Chaussee 174 D, 13125 Berlin, Buch (Pankow)
+12487 Berlin
+Rückertstraße 16, 10627 Berlin, Charlottenburg (Charlottenburg)
+Möllhausenufer 12, 12557 Berlin, Köpenick (Köpenick)
+Schönwalderstraße 29, 13347 Berlin, Wedding (Wedding)
+Berliner Allee 59, 13088 Berlin, Weißensee (Weißensee)
+Lyonel-Feininger-Straße 7, 12627 Berlin, Hellersdorf (Hellersdorf)
+Otto-von-Simson-Straße 25, 14195 Berlin, Dahlem (Zehlendorf)
+Bitterstr. 9, 14195 Berlin, Dahlem (Zehlendorf)
+Heerstraße 163 a, 14055 Berlin, Charlottenburg (Charlottenburg)
+12209 Berlin
+14167 Berlin
+Am Dominikusteich 2A, 13467 Berlin, Hermsdorf (Reinickendorf)
+Ungewitterweg 28, 13591 Berlin, Staaken (Spandau)
+14089 Berlin
+Preussenstraße 41 f, 12524 Alt-Glienicke, Altglienicke (Treptow)
+Preussenstraße 43 D, 12524 Alt-Glienicke, Altglienicke (Treptow)
+Rheinsberger Straße 11, 10115 Berlin, Mitte (Mitte)
+Tegernseestraße 8, 12527 Berlin, Grünau (Köpenick)
+10557 Berlin
+Krampnitzer Weg 37B, 14089 Berlin, Kladow (Spandau)
+Ruben-Wolf-Straße 36, 12524 Berlin, Altglienicke (Treptow)
+Brahmsstraße 12, 14193 Berlin, Grunewald (Wilmersdorf)
+13465 Berlin
+Kabelpfuhlweg 1, 12347 Berlin, Britz (Neukölln)
+10317 Berlin
+Ollenhauerstr 101, 13403 Berlin, Reinickendorf (Reinickendorf)
+Boyenstr. 42, 10115 Berlin, Mitte (Mitte)
+Seydelstraße 19, 10117 Berlin, Mitte (Mitte)
+10717 Berlin
+Auguste-Viktoria-Allee 18, 13403 Berlin, Reinickendorf (Reinickendorf)
+Charlottenburger Straße 24-25, 13086 Berlin, Weißensee (Weißensee)
+Pariser Straße 23-24, 10707 Berlin, Wilmersdorf (Wilmersdorf)
+Corneliusstr. 3, 10787 Berlin, Tiergarten (Tiergarten)
+Lückstraße 74, 10317 berlin, Lichtenberg (Lichtenberg)
+10119 Berlin
+12526 Berlin
+Fritz-Kühn-Strasse 46, 12526 Berlin, Bohnsdorf (Treptow)
+Dolziger Str. 31, 10247 Berlin, Friedrichshain (Friedrichshain)
+Dietzgenstr. 40, 13156 Berlin, Niederschönhausen (Pankow)
+13056 Berlin
+Platz des 4. Juli -, 14167 Berlin, Lichterfelde (Steglitz)
+12305 Berlin
+Riesaer Str. 59-79, 12627 Berlin, Hellersdorf (Hellersdorf)
+13187 berlin
+Glasower Str. 52 - 54, 12051 Berlin, Neukölln (Neukölln)
+Potsdamer Straße 152-154, 10783 Berlin, Schöneberg (Schöneberg)
+Südekumz 35-57/Zweiwinkel1-5, 13591 Berlin, Staaken (Spandau)
+Gorkistraße 186, 13467 Berlin, Wittenau (Reinickendorf)
+Zur Nachtheide 22/34, 12557 Berlin, Köpenick (Köpenick)
+Roedernallee 165, 13407 Berlin, Reinickendorf (Reinickendorf)
+Willestr. 7, 12623 Berlin, Mahlsdorf (Hellersdorf)
+Kiehlufer 133, 135 / Kelbraer Str. 2-10, 12059 Berlin, Neukölln (Neukölln)
+Georgenstraße 46-48, 10117 Berlin, Mitte (Mitte)
+13158 Berlin
+12559 Berlin
+Gravensteinstraße 50-56, 13127 Berlin, Französisch Buchholz (Pankow)
+Alberichstr. 130, 12683 Berlin, Biesdorf (Marzahn)
+12621 Berlin / Kaulsdorf Nord
+12103 Berlin
+12527 Berlin
+12557 Berlin
+12489 Berlin
+10999 Berlin
+13053 Berlin
+13088 Berlin
+12623 Berlin
+Wiebelskircher Weg 9, 12589 Berlin - Rahnsdorf, Rahnsdorf (Köpenick)
+Liliensteinweg 3, 13158 Berlin, Rosenthal (Pankow)
+14050 Berlin
+14057 Berlin
+13403 Berlin
+Springeberger Weg 11, 12589 Berlin, Rahnsdorf (Köpenick)
+12049 Berlin
+12351 Berlin
+12555 Berlin
+12359 Berlin
+12309 Berlin
+10245 Berlin
+12621 Berlin
+12623 Berlin / Mahlsdorf
+10969 Berlin
+14197 Berlin
+13359 Berlin
+13587 Berlin
+12524 Berlin
+10625 Berlin
+10318 Berlin
+13125 Berlin
+13437 Berlin
+10407 Berlin
+12529 Schönefeld
+Kemnitzer Straße 13-16, 14542 Werder, Werder (Havel)
+Hauptstraße 25b, 14641 Wustermark, OT Elstal, Dallgow-Döberitz
+Hauptstraße 25d, 14641 Wustermark, OT Elstal, Dallgow-Döberitz
+Am Hirschsprung 7, 16348 Wandlitz, Barnim (Kreis)
+Hauptstr. 14, 14641 Elstal, Dallgow-Döberitz
+14476 Potsdam
+Franz-Künstler-Strasse 4, 16816 Neuruppin, Ostprignitz-Ruppin (Kreis)
+Hauptstr. 16, 14641 Elstal, Dallgow-Döberitz
+15834 Rangsdorf
+15345 Eggersdorf
+Hermann-Kasack-Straße 3, 14469 Potsdam, Nauener Vorstadt
+15344 Straussberg
+15566 Schöneiche
+15234 Frankfurt
+Hauptstraße 25b, 14641 Wustermark, OT Elstal, Wustermark
+15528 Spreenhagen
+01979 Lauchhammer
+15344 Strausberg
+15366 Neuenhagen
+14612 Falkensee
+16798 Fürstenberg-Nähe
+16515 Oranienburg
+14542 Werder
+14624 Dallgow-Döberitz
+15757 Halbe
+16321 Bernau
+03042 Cottbus
+Musterstraße 1, 12345 Musterstadt, Niedergörsdorf
+Wildeberstr. 2a, 14480 Potsdam, Stern
+15831 Mahlow
+Gutenbergstr. 104, 14467 Potsdam, Nördliche Innenstadt
+Anne-Frank-Straße 26, 03050 Cottbus, Sachsendorf
+Prager Straße 26, 14772 Brandenburg, Hohenstücken
+Anne-Frank-Straße 39, 03050 Cottbus, Sachsendorf
+Brielower Straße 22, 14770 Brandenburg, Nord
+Kantstraße 26, 03050 Cottbus, Sachsendorf
+Tismarstraße 19, 14776 Brandenburg, Neustadt
+Luckenwalder Str. 76 - 84, 15711 Königs Wusterhausen, Dahme-Spreewald (Kreis)
+Rheinsberger Strasse 7, 16827 Alt Ruppin, Neuruppin
+Lazarettstraße 4, 14641 Nauen, Havelland (Kreis)
+Antaresstr. 12, 12529 Schönefeld, Dahme-Spreewald (Kreis)
+Hamburger Straße 29c, 14641 Nauen, Havelland (Kreis)
+Watstr. 3, 14770 Brandenburg an der Havel / Nord, Brandenburg an der Havel
+Kirchhofstrasse 10, 14477 Brandenburg, Altstadt
+14482 Potsdam
+03238 Finsterwalde
+Bahnhofstrasse 17, 01994 Annahütte, Schipkau
+14532 Kleinmachnow
+14641 Wustermark
+14641 Wustermark OT Elstal
+15741 Bestensee
+03046 Cottbus
+14552 Michendorf
+Wachtelberg 10 d - e, 15378 Hennickendorf, Rüdersdorf bei Berlin
+15738 Zeuthen
+Franz-Liszt-Straße 51, 14624 Dallgow, Dallgow-Döberitz
+Max-Klinger-Strasse 5, 14612 Falkensee, Havelland (Kreis)
+Berkowstr. 26, 16562 Hohen Neuendorf, Oberhavel (Kreis)
+15377 Bollersdorf
+Sputendorferstraße 51, 14532 Stahnsdorf, Potsdam-Mittelmark (Kreis)
+15713 Niederlehme
+14478 Potsdam
+Am Müggelpark 6, 15537 Gosen, Gosen-Neu Zittau
+Strasse des Friedens 81, 14943 Luckenwalde, Teltow-Fläming (Kreis)
+Hans-Klakow Straße 3, 14656 Brieselang, Havelland (Kreis)
+Ostrower Wohnpark 8-10, 03046 Cottbus, Stadtmitte
+Hans-Klakow Straße 2, 14656 Brieselang, Havelland (Kreis)
+Nansenstraße 3, 14471 Potsdam, Brandenburger Vorstadt
+Kanalstraße 6, 16515 Oranienburg, Oberhavel (Kreis)
+14772 Brandenburg an der Havel
+Heideweg 16, 17291 Prenzlau, Uckermark (Kreis)
+Heideweg 35, 17291 Prenzlau, Uckermark (Kreis)
+Neubrandenburger Straße 76, 17291 Prenzlau, Uckermark (Kreis)
+Georg-Dreke-Ring 1-7, 17291 Prenzlau, Uckermark (Kreis)
+Dr.-Wilhelm-Külz-Straße 27-35, 17291 Prenzlau, Uckermark (Kreis)
+Rosa-Luxemburg-Straße 13-17, 17291 Prenzlau, Uckermark (Kreis)
+F.-Engels-Str. 09b, 16225 Eberswalde, Barnim (Kreis)
+Ruhlsdorfer 78, 14532 Stahnsdorf, Potsdam-Mittelmark (Kreis)
+Leipziger Str. 67, 14612 Falkensee, Havelland (Kreis)
+Fürstenberger Str. 40, 15232 Frankfurt (Oder), Altberesinchen
+15232 Frankfurt (Oder)
+Bernauer Straße 111, 16515 Oranienburg, Oberhavel (Kreis)
+Attilastraße 14, 12529 Schönefeld, Dahme-Spreewald (Kreis)
+Tannenhof, 19348 Perleberg, Prignitz (Kreis)
+Am Wiesengrund 11, 16727 Oberkrämer OT Schwante, Oberkrämer
+Zeestower Weg 4, 14656 Brieselang, Havelland (Kreis)
+15907 Lübben
+15913 Märkische Heide OT Groß Leine
+12529 Dahme-Spreewald (Kreis)
+14542 Potsdam-Mittelmark (Kreis)
+14624 Dallgow
+15827 Blankenfelde-Mahlow
+16766 16766 Kremmen, OT Sommerfeld
+15913 Märkische Heide
+Emanuel-Lasker-Straße, 14959 Trebbin OT Thyrow, Trebbin
+15831 Diedersdorf
+15711 Zeesen
+Lindenallee 22, 15806 Zossen OT Neuhof, Zossen
+Hauptstraße 1c, 15295 Wiesenau, Oder-Spree (Kreis)
+16552 Mühlenbecker Land
+Zur Ziegelwiese 2, 16868 Wusterhausen/Dosse, Ostprignitz-Ruppin (Kreis)
+Blumenstrasse 12, 14624 Dallgow, Dallgow-Döberitz
+Am Hang, 15741 Bestensee OT Pätz, Bestensee
+14532 Stahnsdorf
+Pappelhain Brückenkopf, 14669 Ketzin/Havel OT- Brückenkopf, Ketzin
+Am Grimnitzsee 13, 16247 Althüttendorf, Barnim (Kreis)
+Kramnitzer Weg 23d, 16835 Klosterheide, Lindow (Mark)
+Lichtenbergstrasse 32, 14656 Brieselang, Havelland (Kreis)
+Kollwitzstrasse 50, 14656 Brieselang, Havelland (Kreis)
+Trebbiner Straße, 14480 Potsdam, Drewitz
+15749 Mittenwalde
+14669 Ketzin-Zachow
+16567 Mühlenbeck
+14469 Potsdam
+03159 Döbern
+15806 Zossen
+15370 Fredersdorf
+Adornostraße 20, 14612 Falkensee, Havelland (Kreis)
+14513 Teltow
+14947 Nuthe-Urstromtal
+04916 Schönewalde
+15236 Frankfurt (Oder)
+15537 Grünheide
+15234 Frankfurt (Oder)
+15732 Schulzendorf
+16835 Vielitzsee
+15910 Rietzneuendorf
+14641 Nauen
+16727 Oberkrämer
+14822 Brück
+14669 Ketzin
+14772 Brandenburg
+14480 Potsdam
+28207 Bremen
+28717 Bremen
+Parkallee 177, 28213 Bremen, Neu Schwachhausen
+28201 Bremen
+28779 Bremen
+27580 Bremerhaven
+28199 Bremen
+28357 Bremen
+Rembertistr. 30, 28203 Bremen, Ostertor
+28235 Bremen
+27570 Bremerhaven
+28719 Bremen
+28211 Bremen
+Kattenturmer Heerstr. -, 28277 Bremen, Kattenesch
+27578 Bremerhaven
+28355 Bremen
+28237 Bremen
+28219 Bremen
+28277 Bremen
+Schwachhauser Heerstr. 63, 28211 Bremen, Gete
+Bürgermeister-Spitta-Allee 10, 28329 Bremen, Radio Bremen
+27574 Bremerhaven
+28279 Bremen
+Habenhauser Windmühlenberg 56-58, 28279 Bremen, Habenhausen
+Hafenstraße 154, 27576 Bremerhaven, Lehe
+Heinrichstraße 23, 27576 Bremerhaven, Lehe
+Krüselstraße 18a, 27580 Bremerhaven, Lehe
+Lange Straße 96, 27580 Bremerhaven, Lehe
+28217 Bremen
+28757 Bremen
+Rablinghauser Landstr. 52a, 28197 Rablinghausen, Bremen
+Lehnstedter Str. 79, 28201 Bremen, Südervorstadt
+Freudenbergstr. 24 A, Riensberg, Bremen
+Toulerstr. 1, 28211 Bremen, Gete
+Rheinstr. 73, 28201 Bremen, Neustadt
+Faulenstr. 83, 28195 Bremen, Altstadt
+Höxterstraße 3, 28277 Bremen, Kattenesch
+Meyerstr. 94, 28201 Bremen, Buntentor
+28209 Bremen
+28307 Bremen
+Am Rüten 206, 28357 Bremen, Oberneuland
+Käthe-Kollwitz-Str. 28, 28717 Bremen-Lesum, Bremen
+28213 Bremen
+28329 Bremen
+Floraweg 10A, 28359 Bremen, Horn
+Ruschweide 1-5, 28719 Bremen, Burg-Grambke
+Heinrich-Heine-Straße 109, 28211 Bremen, Radio Bremen
+28195 Bremen
+Rosental 6, 28359 Bremen, Horn
+Lüder-von-Bentheim-Str. 8, 28209 Bremen, Schwachhausen
+Buddestraße 15, 28215 Bremen, Findorff-Bürgerweide
+28203 Bremen
+Mellumweg 47, 28197 Bremen, Woltmershausen
+Georgstraße 16, 27570 Bremerhaven, Geestemünde
+Millstätter Straße 15/17, 28359 Bremen, Lehe
+Osterholzer Landstr. 34, 28327 Bremen, Ellener Feld
+Wätjenstraße 1, 28213 Bremen, Riensberg
+Zur Vegesacker Fähre 45, 28757 Bremen, Vegesack
+Hinrich-Wriede-Straße 3-23, 28357 Bremen, Lehesterdeich
+Parkstr. 89, 28209 Bremen, Bürgerweide/Barkhof
+Habenhauserlandstraße 254, 28279 Bremen, Habenhausen
+Busestr. 42, 28213 Bremen, Neu Schwachhausen
+Villacher Str. 2, 28359 Bremen, Lehe
+Melchersstraße 2, 28213 Bremen, Riensberg
+Vahrer Straße 179, 28309 Bremen, Sebaldsbrück
+Süderstr. 26, 28199 Bremen, Alte Neustadt
+Anne-Conway-Straße 1, 28359 Bremen, Lehe
+Brookstr 8, 27580 Bremerhaven, Lehe
+Hinterm Grambker Dorfe 00, 28719 Bremen, Burg-Grambke
+Lüssumer Heide 1, 28777 Bremen, Lüssum-Bockhorn
+Steinkamp, 28717 Bremen, Lesum
+28777 Bremen
+28307 Bremen, Alt- Osterholz
+Lesumbroker Landstraße, 28719 Bremen, Burg-Grambke
+28755 Vegesack
+28355 Bremen-Oberneuland
+Meinert-Löffler-Straße, 28755 Bremen, Aumund-Hammersbeck
+28359 Bremen
+28197 Bremen
+Osterholzer Dorfstraße 17, 28309 Bremen, Osterholz
+28239 Bremen
+28259 Bremen
+Emslandstraße 10, 27568 Bremerhaven, Mitte
+Friedrich-Ebert-Str. 75-79, 27570 Bremerhaven, Geestemünde
+27576 Bremerhaven
+27568 Bremerhaven
+27572 Bremerhaven
+20249 Hamburg
+22453 Hamburg
+22457 Hamburg
+22083 Hamburg
+22159 Hamburg
+22767 Hamburg
+Owiesenstraße 36, 22177 Hamburg, Bramfeld
+Owiesenstraße 38, 22177 Hamburg, Bramfeld
+Nydamer Weg 13, 22145 Hamburg, Rahlstedt
+Owiesenstrasse 5, 22177 Hamburg / Bramfeld, Hamburg
+Owiesenstrasse 3, 22177 Hamburg / Bramfeld, Hamburg
+Owiesenstrasse 1, 22177 Hamburg / Bramfeld, Hamburg
+22587 Hamburg
+22175 Hamburg
+22419 Hamburg
+Schopbachweg 13c, 22527 Hamburg, Stellingen
+Sootweg 27, 22175 Hamburg, Bramfeld
+22609 Hamburg
+22145 Hamburg
+22397 Hamburg-Duvenstedt
+Mariusweg 11b, 22043 Hamburg, Jenfeld
+21149 Hamburg
+22523 Hamburg
+Grosse Bahnstrasse 42, 22525 Hamburg, Stellingen
+Grosse Bahnstrasse 42, 22525 Hamburg-Stelligen, Stellingen
+22339 Hamburg
+22085 Hamburg
+Rahlstedt, Hamburg
+22307 Hamburg
+22391 Hamburg
+20457 Hamburg
+Lisztstraße 1, 22763 Hamburg / Ottensen, Hamburg
+Willerstwiete 8, 22415 Hamburg, Langenhorn
+Willerstwiete 3, 22415 Hamburg, Langenhorn
+22303 Hamburg
+21107 Hamburg
+Am Klingenberg 24, 22587 Hamburg, Blankenese
+Schulstraße 20f, 21031 Hamburg Reinbek, Lohbrügge
+22335 Hamburg
+Am Klingenberg 28, 22587 Hamburg, Blankenese
+Robert-Koch-Stieg 8, 20249 Hamburg, Hoheluft-Ost
+Hasenhöhe 135, 22587 Hamburg, Sülldorf
+Schöneberger Str. 115, 22149 Hamburg, Rahlstedt
+Wendenstraße 431, 20537 Hamburg, Hamm-Süd
+22395 Hamburg
+22397 Hamburg
+Harderweg 28e, 22549 Hamburg, Osdorf
+22605 Hamburg
+22359 Hamburg
+22043 Hamburg Marienthal
+22143 Hamburg
+22119 Hamburg
+Borkenweg 28, 22523 Hamburg, Eidelstedt
+21077 Hamburg
+22043 Hamburg
+22525 Hamburg
+Jürgen-Töpfer-Straße 41-49, 22763 Hamburg, Othmarschen
+Öjendorfer Damm 42-44, 22043 Hamburg, Jenfeld
+Klosterhagen 1-7, 21029 Hamburg, Bergedorf
+21079 Hamburg
+Barenbleek 15 - 21, 22179 Hamburg, Bramfeld
+Stiftstraße 43, 20099 Hamburg, St. Georg
+Lokstedter Steindamm 1-3, 22529 Hamburg Lokstedt, Hamburg
+Beckerberg 18 A, 21073 Hamburg, Harburg
+Flerrentwiete bei 17, 22559 Hamburg, Rissen
+Wedeler Landstraße 111, 20354 Hamburg, Rissen
+Frohmestr. 46, 22457 Hamburg, Schnelsen
+Max-Zelck-Str. 20, 22459 Hamburg, Niendorf
+Alte Elbgaustr. 2, 22523 Hamburg, Eidelstedt
+Widukindstr. 11-17, 22529 Hamburg, Lokstedt
+Beimoorstraße 6, 22081 Hamburg, Barmbek-Süd
+Schenkendorfstraße / Ecke Hebbelstraße 27, 22085 Hamburg, Uhlenhorst
+Mutzenbecherweg 20-44, 22529 Hamburg, Lokstedt
+Dannerallee 19, 22119 Hamburg, Horn
+Hütten 95-95c, 20355 Hamburg, Neustadt
+Am Rissener Bahnhof 11-13, 22559 Hamburg, Rissen
+Anne-Barth-Weg 16, 22527 Hamburg, Stellingen
+Klaus-Groth-Straße 79-83, 20535 Hamburg, Borgfelde
+Walter-Rudolphi-Weg 8, 21035 Hamburg, Allermöhe
+Lübecker Str. 84, 22087 Hamburg, Hohenfelde
+Berner Stieg ., 22359 Hamburg, Rahlstedt
+Schwelmer Weg 6, 22419 Hamburg, Langenhorn
+22529 Hamburg
+22399 Hamburg
+22393 Hamburg
+Hainholzweg 12, 21077 Hamburg, Eißendorf
+22589 Hamburg
+Im Grünen Grunde 4a, 22337 Hamburg / Ohlsdorf, Hamburg
+Im Grünen Grunde 3a, 22337 Hamburg / Ohlsdorf, Hamburg
+Am Hasenberge 47, 22337 Hamburg / Ohlsdorf, Hamburg
+Im Grünen Grunde 3c, 22337 Hamburg / Ohlsdorf, Hamburg
+Jütlandring 45, 22419 Hamburg / Langenhorn, Hamburg
+Jütlandring 47, 22419 Hamburg / Langenhorn, Hamburg
+Jütlandring 43, 22419 Hamburg / Langenhorn, Hamburg
+Ochsenstieg 1, 22419 Hamburg / Langenhorn, Hamburg
+Fassbinderweg 26, 22419 Hamburg / Langenhorn, Hamburg
+Jütlandring 49, 22419 Hamburg / Langenhorn, Hamburg
+Fassbinderweg 28, 22419 Hamburg / Langenhorn, Hamburg
+22117 Hamburg
+21039 Hamburg
+22417 Hamburg
+22041 Hamburg
+22455 Hamburg
+21129 Hamburg
+22147 Hamburg
+22549 Hamburg
+22547 Hamburg
+22089 Hamburg
+21147 Hamburg
+21037 Hamburg
+63584 Gründau / Niedergründau
+65830 Kriftel
+Seehofstr. 20-30, 60594 Frankfurt, Sachsenhausen-Nord
+65719 Hofheim am Taunus
+60431 Frankfurt
+Talstr. 00, 60437 Frankfurt, Kalbach
+60596 Frankfurt
+63263 Neu-Isenburg
+60327 Frankfurt
+61130 Nidderau / Erbstadt
+65428 Rüsselsheim
+63179 Obertshausen
+61479 Glashütten
+Schöffenstraße 1, 65933 Frankfurt am Main, Griesheim
+Wiesbadener Str. 3a, 61462 Königstein, Königstein im Taunus
+60486 Frankfurt/Main
+65812 Bad Soden
+65451 Kelsterbach
+65388 Schlangenbad
+63599 Biebergemünd
+63322 Rödermark
+63512 Hainburg
+63457 Hanau / Großauheim
+60388 Frankfurt
+36217 Ronshausen
+69509 Mörlenbach
+65391 Lorch
+65520 Bad Camberg
+60599 Frankfurt
+61352 Bad Homburg v.d.H.
+64572 Büttelborn
+36323 Grebenau
+64846 Groß-Zimmern
+35633 Lahnau
+61389 Schmitten
+68623 Lampertheim
+Hermann-Ehlers-Straße 14, 63456 Hanau / Steinheim am Main, Hanau
+61250 Usingen
+63225 Langen
+60323 Frankfurt am Main
+Diesterwegstr. 24, 60594 Frankfurt am Main, Sachsenhausen-Nord
+60438 Frankfurt
+64367 Mühltal
+63128 Dietzenbach-Steinberg
+65183 Wiesbaden
+Södeler Straße 52, 61200 Wölfersheim, Wetteraukreis
+35418 Buseck
+Gartenstr. 27, 60596 Frankfurt, Sachsenhausen-Nord
+Im Dorfband 32, 65428 Bauschheim, Rüsselsheim
+Ravensteinstraße 10, 60385 Frankfurt am Main, Ostend
+Gräfstraße 98, 60486 Frankfurt am Main, Bockenheim
+Mittelseestraße 00, 60386 Frankfurt-Fechenheim, Frankfurt am Main
+Carl-Schurz Str. 34, 36041 Fulda, Fulda (Kreis)
+Carl-Schurz Str. 25, 36041 Fulda, Fulda (Kreis)
+Lichtenbergstr. 91, 64289 Darmstadt, Darmstadt-Nord
+Poststr. 22, 60329 Frankfurt am Main, Gallusviertel
+Lämmerspieler Weg 47, 63071 Offenbach, Stadtmitte
+69517 Gorxheimertal
+65343 Eltville
+64720 Michelstadt
+36093 Bachrain
+65193 Wiesbaden
+61348 Bad Homburg vor der Höhe
+64295 Darmstadt
+Schulzenstraße 4, 63486 Bruchköbel, Main-Kinzig-Kreis
+Jenaer Weg 0, 65931 Zeilsheim, Frankfurt am Main
+Im Münchsgraben 38, 61130 Nidderau, Main-Kinzig-Kreis
+60489 Frankfurt am Main
+xxx xx, 61476 Kronberg, Kronberg im Taunus
+61381 Friedrichsdorf
+61476 Kronberg
+65795 Hattersheim
+An der Gänsweide 0, 61130 Nidderau, Main-Kinzig-Kreis
+60388 Frankfurt am Main
+63165 Mühlheim
+65189 Wiesbaden
+Darmstädter Str. 1, 63225 Langen, Langen (Hessen)
+64625 Bensheim
+64546 Mörfelden-Walldorf
+Gerberstraße 16, 63065 Offenbach am Main, Stadtmitte
+Otto-Hahn-Strasse 10, 64546 Mörfelden Walldorf, Mörfelden-Walldorf
+61276 Weilrod
+61350 Bad Homburg
+Felsenstraße 43, 65199 Wiesbaden, Dotzheim
+63500 Seligenstadt
+Rheinallee 16-22, 65439 Flörsheim/Main, Flörsheim am Main
+65817 Eppstein
+Zum Weidbachtal 21, 65239 Hochheim am Main, Main-Taunus-Kreis
+60594 Frankfurt am Main
+63110 Rodgau
+Wibau Straße 10-12, 63584 Rothenberger, Gründau
+65205 Wiesbaden
+Baumweg 22, 60316 Frankfurt Nordend, Nordend-Ost
+61169 Friedberg
+61231 Bad Nauheim
+Daimlerstr 9, 61352 Bad Homburg, Bad Homburg vor der Höhe
+Schwarzerlenweg 92, 65933 Frankfurt, Griesheim
+Buzzistr. ( GA/ASTP ) 1, 60486 Frankfurt, Bockenheim
+Am Posthorn 1, 60486 Frankfurt, Bockenheim
+Behringstrasse 1, 63110 Rodgau, Offenbach (Kreis)
+Walter-Leiske-Straße 43-61, 60320 Frankfurt am Main, Dornbusch
+60594 Frankfurt
+Sonnenbergerstraße 82, 65193 Wiesbaden, Nordost
+Am Grün 00, 35037 Marburg, Marburg-Biedenkopf (Kreis)
+Wilhelm-Flögel-Ring 38-60, 60437 Frankfurt, Nieder-Eschbach
+Grethenweg 44-46, 60598 Frankfurt, Sachsenhausen-Süd
+Horexstraße 20, 61352 Bad Homburg v.d.H., Bad Homburg vor der Höhe
+Elisabethenstrasse 54, 64283 Darmstadt, Darmstadt-Mitte
+Grethenweg 78b, 60598 Frankfurt Sachsenhausen Süd, Sachsenhausen-Süd
+61137 Schöneck / Oberdorfelden
+61206 Wöllstadt / Nieder-Wöllstadt
+34128 Kassel / Harleshausen
+35745 Herborn
+61209 Echzell
+35410 Hungen
+64342 Seeheim-Jugenheim
+63526 Erlensee / Langendiebach
+63071 Offenbach am Main
+36381 Schlüchtern
+60599 Frankfurt am Main
+35713 Eschenburg
+36266 Heringen (Werra) / Kleinensee
+Marienstraße 16, 35606 Solms, Lahn-Dill-Kreis
+64404 Bickenbach
+65599 Dornburg-Dorndorf
+68647 Biblis
+36041 Fulda
+64853 Otzberg-Ober-Nauses
+65620 Waldbrunn-Lahr
+55246 Wiesbaden
+Grethenweg 145, 60598 Frankfurt, Sachsenhausen-Süd
+35716 Dietzhölztal- Ewersbach
+35510 Butzbach
+61200 Wölfersheim
+63679 Schotten
+64646 Heppenheim-Kirschhausen
+An der Gärtnerei 1, 63691 Ranstadt, Wetteraukreis
+63150 Heusenstamm
+65510 Idstein
+64859 Eppertshausen
+65549 Limburg
+35043 Marburg
+63691 Ober-Mockstadt
+64807 Dieburg
+34626 Neukirchen
+65527 Niedernhausen
+34582 Borken/Hessen
+36266 Heringen
+64832 Babenhausen
+37218 Witzenhausen
+61206 Wöllstadt
+63303 Dreieich
+34246 Vellmar
+64331 Weiterstadt
+63533 Mainhausen
+61197 Florstadt
+65933 Frankfurt am Main
+18546 Sassnitz
+Rosenstraße 10+11, 18546 Sassnitz, Rügen (Kreis)
+18586 Thiessow
+17235 Neustrelitz
+23946 Boltenhagen
+17454 Seebad Zinnowitz
+19057 Schwerin
+Puschkinring 44, 17491 Greifswald, Schönwalde II
+17034 Neubrandenburg
+23936 Grevesmühlen
+18311 Ribnitz-Damgarten
+Südring 72F, Südstadt, Rostock
+17392 Spantekow
+18279 Vietgest
+19089 Crivitz
+18445 Kramerhof
+23974 Boiensdorf
+18439 Stralsund
+Dorfstraße 9, 17398 Neu Kosenow OT Auerose bei Anklam, Dorfstraße 9f, Neu Kosenow
+18055 Rostock
+18195 Tessin
+17214 Alt Schwerin
+18184 Roggentin
+18435 Stralsund
+17498 Groß Petershagen
+17373 Ueckermünde
+18292 Krakow am See
+17255 Wesenberg
+17495 Züssow - Oldenburg
+17449 Trassenheide
+17449 Mölschow
+19069 Alt Meteln
+Hauptstraße 13, 17406 Liepe/Usedom, Rankwitz
+18374 Zingst
+23974 Neuburg
+Am Sportplatz 1a, 17392 Sarnow, Ostvorpommern (Kreis)
+19055 Schwerin
+18057 Rostock
+18069 Rostock
+23966 Wismar
+Straße des Friedens 5, 19230 Hagenow, Ludwigslust (Kreis)
+18184 Broderstorf
+18273 Güstrow
+Großschmiedestr. 18, 23966 Wismar, Altstadt
+18119 Rostock
+Neue Wallstr. 2, 23966 Wismar, Altstadt
+Speicherstraße 28, 18292 Hoppenrade, Güstrow (Kreis)
+Wolfgang-Heinze-Straße 8, 18437 Stralsund, Tribseer Vorstadt
+Breite Straße 40, 23966 Wismar, Altstadt
+Carl-von-Linne-Str. 11, 18106 Rostock, Evershagen
+Dorfstraße 6, 17129 Alt Tellin, Demmin (Kreis)
+19061 Schwerin
+23923 Selmsdorf
+Feldstr. 38, 18273 Güstrow, Güstrow (Kreis)
+Rostocker Straße 2B, 18190 Sanitz, Bad Doberan (Kreis)
+18211 Admannshagen bei Rostock
+Zessin 11b, 18569 Neuenkirchen, Rügen (Kreis)
+Hochzeitsberg 14a, 18556 Breege, Rügen (Kreis)
+Bahnhofstraße 37 C, 18246 Bützow, Güstrow (Kreis)
+Am Pruchtener WEg 39, 18356 Fuhlendorf-Bodstedt, Fuhlendorf
+18107 Elmenhorst
+17489 Greifswald
+Travemünder Weg 6c, 23942 Dassow, Nordwestmecklenburg (Kreis)
+Strandstr 23, 18445 Kinnbackenhagen Groß Mohrdorf, Nordvorpommern (Kreis)
+19065 Görslow
+Dorfstr. 30a, 18276 Spoitgendorf, Plaaz
+Küstergang 10, 18209 Bad Doberan, Bad Doberan (Kreis)
+Am Schloßberg 26a, 18184 Fresendorf, Roggentin
+17237 Neustrelitz
+Industriestraße 0, 18069 Rostock, Schmarl
+Am Markt 6a, 18209 Bad Doberan, Bad Doberan (Kreis)
+Schwarzer Weg 2, 18184 Broderstorf, Bad Doberan (Kreis)
+18119 Rostock - Warnemünde
+Ilja-Ehrenburg-Str. bei 14, 18147 Rostock, Toitenwinkel
+Schall-und-Schwencke-Weg 34, 19055 Schwerin, Schelfstadt
+Lortzingstr. 19, 18119 Rostock, Seebad Warnemünde
+Ebereschenstr. bei 1-5, 17033 Neubrandenburg, Lindenbergviertel
+Uhlenstrat bei 14, 18182 Rövershagen, Bad Doberan (Kreis)
+Carl-Struck-Straße 0, 17192 Waren (Müritz), Müritz (Kreis)
+Vossens Tannen 0, 19061 Schwerin, Göhrener Tannen
+Schiffbauerring 0, 18109 Rostock, Groß Klein
+Blockmacherring 0, 18109 Rostock, Groß Klein
+19053 Schwerin Marienplatz
+18059 Rostock
+Pferdemarkt 56, 18273 Güstrow, Güstrow (Kreis)
+Dorfstraße 4-5, 18528 Rappin, Rügen (Kreis)
+Lessingstraße 33C, 19059 Schwerin, Weststadt
+18230 Büttelkow
+Wylischstraße 4, 18609 Binz, Rügen (Kreis)
+18445 Klausdorf
+17419 Zirchow
+18573 Samtens
+19372 Matzlow-Garwitz
+17109 Demmin - Seedorf
+17111 Kletzin
+17111 Hohenmocker
+17509 Pritzwald
+Wendfeld, 17237 Blumenholz, Mecklenburg-Strelitz (Kreis)
+18181 Graal Müritz
+18292 Krakow
+17454 Zinnowitz
+17509 Hanshagen
+17248 Rechlin
+Dorfstraße 24, 17391 Neetzow OT Kagenow, Liepen
+18586 Ostseebad Sellin auf Rügen
+Lange Strasse / Jungfernstieg, 17328 Penkun, Uecker-Randow (Kreis)
+23992 Neukloster
+17099 Galenbeck
+Vor dem Fürstenhof 8, 23966 Wismar, Altstadt
+17237 Dabelow
+17237 Wokuhl
+17237 Godendorf
+Ulmenallee 3, 18586 Göhren, Rügen (Kreis)
+Zubzow 11, 18569 Trent-Zubzow, Trent
+18573 Altefähr
+Dorfstraße 25, 17237 Carpin, Thurow, Carpin
+Am alten Kreidebruch 2, 18546 Sassnitz, Rügen (Kreis)
+Bachstrasse 57, 18546 Sassnitz, Rügen (Kreis)
+18437 Stralsund
+Stralsunder Chaussee 30, 18311 Ribnitz-Damgarten, Nordvorpommern (Kreis)
+Friedenstraße 3, 17358 Torgelow, Uecker-Randow (Kreis)
+Friedenstraße 4, 17358 Torgelow, Uecker-Randow (Kreis)
+Breite Straße 13, 17373 Torgelow, Uecker-Randow (Kreis)
+19288 Kummer
+17459 Loddin
+17429 Seebad Bansin
+17033 Neubrandenburg
+17506 Gützkow
+17438 Wolgast
+17429 Benz
+19412 Brüel
+17217 Penzlin
+17258 Feldberger Seenlandschaft
+17390 Groß Polzin
+19374 Neu Ruthenbeck
+18465 Hugoldsdorf
+49084 Osnabrück
+21614 Buxtehude
+31787 Hameln
+37079 Göttingen
+21335 Lüneburg
+An der Wittenberger Bahn 109, 21335 Lüneburg, Lüneburg (Kreis)
+Drosselgang 22, 21614 Buxtehude, Stade (Kreis)
+30880 Laatzen
+Am Kahlen Lehn 8, 31303 Burgdorf, Hannover (Kreis)
+26382 Wilhelmshaven
+30974 Wennigsen
+28870 Ottersberg
+Bunsenstr. 7, 37073 Göttingen, Göttingen (Kreis)
+30625 Hannover
+38124 Braunschweig
+37073 Göttingen
+38723 Seesen
+31224 Peine
+31552 Rodenberg
+Maienhorst 5, 31582 Nienburg/Weser, Nienburg (Weser)
+27798 Hude
+38319 Remlingen
+Maienhorst 18, 31582 Nienburg/Weser, Nienburg (Weser)
+29494 Trebel
+Rosenring 9, 38154 Glentorf, Königslutter am Elm
+27318 Hoya
+21244 Buchholz
+30952 Ronnenberg
+26624 Südbrookmerland
+31275 Lehrte
+21409 Embsen
+49078 Osnabrück
+26736 Krummhörn - Pewsum
+26892 Lehe
+38729 Lutter am Barenberge
+21629 Neu Wulmstorf
+30659 Hannover
+Freiligratstr. 7, 30171 Hannover, Südstadt
+Stettiner Ring 17, 38440 Wolfsburg, Wohltberg
+Habnoversche-Heerstrasse 15b, 29221 Celle, Celle (Kreis)
+Rheingoldweg 6, 30890 Barsinghausen, Hannover (Kreis)
+Sieberthalstr. 17, 30655 Hannover, Burg
+26135 Oldenburg
+48480 Spelle
+Wülferoder Straße 50, 30880 Laatzen, Hannover (Kreis)
+21629 Neu Wulmstorf/ Schwiederstorf
+Falkenhainer Weg 16, 49324 Melle-Altenmelle, Melle
+30890 Barsinghausen
+Hannoversche Str. 10, 30629 Hannover, Misburg-Nord
+Ölhafendamm 6a, 26384 Wilhelmshaven, Heppens
+Amerigo-Vespucci-Straße 11, 26389 Wilhelmshaven, Maadebogen
+Ölhafendamm 46, 26384 Wilhelmshaven, Heppens
+Friedrich-Rückert-Straße 4, 26721 Emden, Barenburg
+31707 Bad Eilsen
+Brahmsstraße 10, 26789 Leer, Leer (Ostfriesland)
+21337 Lüneburg
+Welfenhöhe 11, 31162 Bad Salzdetfurth, Hildesheim (Kreis)
+Genthiner Str. 24, 38440 Wolfsburg, Vorsfelde
+26506 Norden
+21394 Westergellersen
+29353 Ahnsbeck
+Lange Feldstrasse 0, 30989 Gehrden, Hannover (Kreis)
+38324 Kissenbrück
+Oldersumer Straße 47 a, 26603 Aurich, Aurich (Kreis)
+Hans-Tönjes-Ring 28, 21335 Lüneburg, Lüneburg (Kreis)
+Alte Posthofstraße 28, 31167 Bockenem OT Bönnien, Bockenem
+26127 Oldenburg
+Wagenzeller Straße 9, 30855 Langenhagen, OT Kaltenweide, Langenhagen
+Sägemüllerstrasse 57a, 38678 Claustahl-Zellerfeld, Clausthal-Zellerfeld
+29331 Lachendorf
+30459 Hannover
+Bünteweg 20, 30559 Hannover, Kirchrode
+Wackenroderweg 11, 31303 Burgdorf, Hannover (Kreis)
+28857 Syke
+Döbbeckestrasse 22, 30823 Garbsen, Hannover (Kreis)
+Rudolf-Harbig-Weg 6, 30827 Garbsen, Hannover (Kreis)
+38456 Velpke
+30823 garbsen
+Leipziger Str. 89, 30179 Hannover, Vahrenheide
+Rotkleedamm 10, 21614 Buxtehude, Stade (Kreis)
+Angerstr. 14, 30851 Langenhagen, Hannover (Kreis)
+Knollstraße 117, 49088 Osnabrück, Sonnenhügel
+Plathnerstraße 56-70, 30175 Hannover, Zoo
+Erich-Förster-Weg 1-9, 31832 Springe, Hannover (Kreis)
+Lange Weihe 15, 30880 Laatzen, Hannover (Kreis)
+26789 Leer
+31855 Aerzen
+Am Uhrturm 1, 30519 Hannover, Döhren
+37085 Göttingen
+Odenwaldstraße 12-14, 30657 Hannover, Sahlkamp
+Max-Planck-Straße 18, 31135 Hildesheim, Hildesheim (Kreis)
+Paul-Keller-Straße 6, 31139 Hildesheim, Hildesheim (Kreis)
+Silberbornstr. 43, 38667 Bad Harzburg, Goslar (Kreis)
+Gerbergasse 0, 38350 Helmstedt, Helmstedt (Kreis)
+Hauenriede 51, 29525 Uelzen, Uelzen (Kreis)
+Goethestrasse 7, 29525 Uelzen, Uelzen (Kreis)
+Herouville-St. Clair Platz 1-3, 30823 Garbsen, Hannover (Kreis)
+Am Klagesmarkt 12, 30159 Hannover, Mitte
+Am Klagesmarkt 17, 30159 Hannover, Mitte
+Hägewiesen 86-100, 30657 Hannover, Sahlkamp
+Kastanienallee 16-24, 30519 Hannover, Döhren
+Plettenbergstr. 6,8,10, 30457 Hannover, Wettbergen
+Krügerskamp 4, 30539 Hannover, Bemerode
+Obere Schildwache 6, 38640 Goslar, Goslar (Kreis)
+Elsa-Brandström-Str. 2/2a, 27749 Delmenhorst, Stickgras/Annenriede
+Stilleweg Garagen 1, 30655 Hannover, Groß-Buchholz
+Lierestr. 17, 38690 Goslar, Vienenburg
+30175 Hannover
+26122 Oldenburg
+28879 Grasberg
+31188 Holle-Derneburg
+Robert-Hülsemann-Straße, 49186 Bad Iburg, Osnabrück (Kreis)
+26121 Oldenburg
+49393 Lohne
+31848 Bad Münder OT Rohrsen
+26188 Friedrichsfehn
+26203 Wardenburg
+38300 Wolfenbüttel
+30916 Isernhagen
+30926 Seelze
+21369 Pommoissel
+29549 Bad Bevensen
+30900 Wedemark
+49086 Osnabrück
+49584 Fürstenau
+31319 Sehnde-Ilten
+31621 Pennigsehl
+31249 Hohenhameln
+Stieglitzweg 6, 38176 Wendeburg, Peine (Kreis)
+Vor dem Bruche, 38667 Bad Harzburg, Goslar (Kreis)
+Lohnewinkel 26, 49459 Lembruch, Diepholz (Kreis)
+27777 Ganderkesee
+Ziegelei 101, 21769 Lamstedt-Nindorf, Lamstedt
+21357 Bardowick
+38678 Clausthal-Zellerfeld
+Nußriede 19, 30627 Hannover, Groß-Buchholz
+21680 Stade
+49565 Bramsche
+21217 Seevetal
+38524 Sassenburg
+Lotte-Gleichmann-Weg 41, 30457 Hannover, Wettbergen
+30853 Langenhagen
+26736 Krummhörn - Greetsiel
+30938 Großburgwedel
+49152 Bad Essen
+Stübchentalstraße 12, 38667 Bad Harzburg, Goslar (Kreis)
+38729 Lutter
+31832 Springe
+31188 Holle
+21776 Wanna
+30519 Hannover
+29525 Uelzen
+29664 Walsrode
+49439 Steinfeld
+31737 Rinteln
+21683 Stade
+38259 Salzgitter
+49328 Melle
+49401 Damme
+38372 Büddenstedt
+30167 Hannover
+38464 Groß Twülpstedt
+37627 Stadtoldendorf
+51381 Leverkusen
+45219 Essen Kettwig
+42857 Remscheid
+53129 Bonn
+42555 Velbert
+32427 Minden
+52379 Langerwehe / Jüngersdorf
+Pariser Straße 100, 40549 Düsseldorf, Heerdt
+52249 Eschweiler
+47803 Krefeld-Baackeshof
+48153 Münster
+Schwarzbach 00, 42277 Wuppertal, Oberbarmen
+32547 Bad Oeynhausen
+59394 Nordkirchen-Südkirchen
+47167 Duisburg
+46459 Rees
+44866 Bochum, Wattenscheid
+45966 Gladbeck
+53347 Bornheim-Alfter
+32339 Espelkamp
+Blütenweg 32, 53332 Bornheim, Rhein-Sieg-Kreis
+32469 Petershagen
+59199 Bönen
+53919 Weilerswist
+53229 Bonn/Vilich-Müldorf
+32457 Porta Westfalica
+53332 Bornheim-Merten
+53332 Bornheim
+47506 Neukirchen-Vluyn
+59071 Hamm
+50997 Köln-Godorf
+42929 Wermelskirchen
+41061 Mönchengladbach
+Aackerfährstraße 25, 47058 Duisburg, Duissern
+Voechtingstraße 10, 32825 Blomberg, Lippe (Kreis)
+48268 Greven
+40699 Erkrath
+51145 Köln-Porz-Urbach
+Am Südpark 28, 45663 Recklinghausen, Recklinghausen (Kreis)
+Lindenstraße 57, 40233 Düsseldorf, Flingern Nord
+Mainstrasse 17, 47051 Duisburg, Altstadt
+Bahnhofstraße 25, 52385 Nideggen, Düren (Kreis)
+Müggenburg xx, 42277 Wuppertal, Oberbarmen
+Vom Rath Straße 7, 47051 Duisburg, Dellviertel
+Kurze Straße 1, 42579 Heiligenhaus, Mettmann (Kreis)
+Coesfeldweg 81, 48161 Münster, Gievenbeck
+Neuenhoferstr. 120a, 42657 Solingen, Burg/Höhscheid
+Kämpenstr. 50, 45147 Essen, Frohnhausen
+Nordring 47, 45731 Waltrop, Recklinghausen (Kreis)
+46325 Borken
+Aufm Winkel 13, 42477 Radevormwald, Oberbergischer Kreis
+48161 Münster
+Drosselweg x, 52379 Langerwehe, Düren (Kreis)
+Hans-Christian-Andersen Str. 10, 53773 Hennef, Hennef (Sieg)
+Dehmer Straße 163, 32549 Bad Oeynhausen, Minden-Lübbecke (Kreis)
+51491 Overath
+52351 Düren
+Hauptstraße 000, 47877 Willich, Viersen (Kreis)
+Volmestrasse 15, 46049 Oberhausen, Alstaden-West
+46119 Oberhausen
+48167 Münster
+Bischof-Pooten-Straße 21, 52511 Geilenkirchen, Heinsberg (Kreis)
+Kauler Kreuzgasse 12, 51429 Bergisch Gladbach, Rheinisch-Bergischer Kreis
+Hoffeld 23, 52382 Niederzier, Düren (Kreis)
+46446 Emmerich
+Bettinger Weg 10, 51545 Waldbröl - Hermesdorf, Waldbröl
+An der Roßmühle 1-9, 47839 Krefeld, Hüls
+45711 Datteln
+Altenbrucher Damm 38, 47249 Duisburg, Buchholz
+Bismarckstr. 7, 50672 Köln, Altstadt & Neustadt-Nord
+51069 Köln
+Liebigstraße 11, 47441 Moers, Wesel (Kreis)
+Langerstr 9, 40233 Düsseldorf, Flingern Süd
+42349 Wuppertal
+51647 gummersbach
+42399 Wuppertal
+42119 Wuppertal
+58256 Ennepetal
+42279 Wuppertal
+42327 Wuppertal
+42111 Wuppertal
+42117 Wuppertal
+47608 Geldern
+Bartholomäusstr. 3, 40883 Ratingen, Mettmann (Kreis)
+46049 Oberhausen
+49479 Ibbenbüren
+Gartenstraße 7, 33178 Borchen, Paderborn (Kreis)
+58706 Menden
+42477 Radevormwald
+50679 Köln
+59192 Bergkamen
+33129 Delbrück
+47805 Krefeld
+45739 Oer-Erkenschwick
+41066 Mönchengladbach
+42859 Remscheid
+45138 Essen
+57334 Bad Laasphe
+45768 Marl
+44263 Dortmund
+33611 Bielefeld
+46149 Oberhausen
+53797 Lohmar
+55120 Mainz
+67071 Ludwigshafen am Rhein
+Am Damm 1-3, 67117 Altrip, Rhein-Pfalz-Kreis
+67063 Ludwigshafen
+Am Damm 1 u. 3, 67122 Altrip, Rhein-Pfalz-Kreis
+Bahnhofstraße 42, 55218 Ingelheim am Rhein, Mainz-Bingen (Kreis)
+65623 Hahnstätten
+67067 Ludwigshafen
+Schäferstrasse 23, 67547 Worms, Innenstadt SüWe, Innenstadt Nord
+67655 Kaiserslautern
+Mainzer Straße 3, 55411 Bingen/Rh., Bingen am Rhein
+76744 Wörth
+56130 Bad Ems
+56254 Müden (Mosel)
+56729 Acht
+56743 Thür
+66892 Bruchmühlbach-Miesau
+65558 Flacht
+54292 Trier
+54317 Gusterath
+55559 Bretzenheim
+67663 Kaiserslautern
+Gasgartenstr. 9, 57520 Steinebach, Steinebach/Sieg
+56291 Norath
+56075 Koblenz
+56283 Gondershausen
+56283 Morshausen
+56281 Karbach
+54451 Irsch
+66981 Münchweiler
+56281 Gondershausen
+Kantstraße 71, 67663 Kaiserslautern, Innenstadt
+67547 Worms
+Steinstraße 30, 67657 Kaiserslautern, Innenstadt
+Fritz-Kohl-Str. 12a, 55122 Mainz, Hartenberg/Münchfeld
+Ravensteynstr. 71, 56076 Koblenz, Pfaffendorf
+Umbach 8, 55116 Mainz, Altstadt
+Hanns-Fay-Str. 2, 67227 Frankenthal, Frankenthal (Pfalz)
+55278 Ludwigshöhe
+67549 Worms
+Johannes-Casel-Straße 26, 56077 Koblenz, Niederberg
+Steinstr. 17, 67547 Worms, Innenstadt Nord
+67304 Eisenberg
+55543 Bad Kreuznach
+56470 Bad Marienberg
+Backesgäßchen 3, 55296 Gau-Bischofsheim, Mainz-Bingen (Kreis)
+Douquéstraße 11, 56068 Koblenz, Lützel
+Kapellenstraße 14, 54673 Rodershausen, Bitburg-Prüm (Kreis)
+55299 Nackenheim
+67729 Sippersfeld
+67246 Dirmstein
+53518 Adenau
+An den drei Eichen 21, 66978 Clausen, Südwestpfalz (Kreis)
+Lohhohl 13, 53545 Linz Rhein, Linz am Rhein
+66901 Schönenberg-Kübelberg
+56581 Kurtscheid
+67271 Neuleiningen
+56410 Montabaur / Bladernheim
+53424 Oberwinter
+67731 Otterbach
+Rißbacher Straße 94, 56841 Traben-Trarbach, Bernkastel-Wittlich (Kreis)
+55758 Mörschied
+Amselweg 7, 56729 Kirchwald, Mayen-Koblenz (Kreis)
+Wormser Straße 34, 67593 Westhofen, Alzey-Worms (Kreis)
+67593 Westhofen
+54329 Konz
+67098 Bad Dürkheim
+Kreuzmühle 7, 76829 Landau, Landau (Stadt)
+Schützenstr. 33, 67061 Ludwigshafen, Süd
+54484 Maring
+76826 Landau
+55118 Mainz-Neutstadt
+Nachtweide 1, 76744 Wörth am Rhein / Maximiliansau, Wörth am Rhein
+Michael Müller Ring 13, 55128 Mainz- Bretzenheim, Mainz
+76887 Bad Bergzabern
+Deutschland ., 67547 Worms, Stadtzentrum
+Gratianstraße 11-15, 54294 Trier, Weismark
+67346 Speyer
+Gerichtsstraße 5, 56068 Koblenz, Altstadt
+Ermannstraße 0, 54516 Wittlich, Bernkastel-Wittlich (Kreis)
+Schäferstraße 18, 66953 Pirmasens, Stadtmitte
+Am Brand 40, 55116 Mainz, Altstadt
+Kußmaulstraße 3, 67063 Ludwigshafen, Nord/Hemshof
+Buchenlochstr. 66, 67663 Kaiserslautern, Innenstadt
+Prinzregentenstraße 9, 67063 Ludwigshafen, Nord/Hemshof
+76829 Landau
+56112 Lahnstein
+Saarlandstr. 136, 67061 Ludwigshafen, Süd
+Koblenzer Str. 158, 56073 Koblenz, Moselweiß
+Sauerbruchstr. bei 2-6, 67061 Ludwigshafen, Nord/Hemshof
+Sickinger Str. 56-64, 67663 Kaiserslautern, Innenstadt
+55218 Ingelheim
+Hintere Christofsgasse 5, 55116 Mainz, Altstadt
+Sömmeringstraße 16, 55118 Mainz, Neustadt
+Sauerbruchstr. 8, 67063 Ludwigshafen, Nord/Hemshof
+Richard-Dehmel-Str. 23, 67061 Ludwigshafen, Süd
+Münsterstraße 8, 55116 Mainz, Altstadt
+Röntgenstr. bei 2, 67063 Ludwigshafen, Nord/Hemshof
+Kurt- Schumacher- Straße 38, 67346 Speyer, Im Erlich
+57537 Wissen
+54655 Sankt Thomas
+54316 Schöndorf
+54457 Wincheringen
+Langmeiler Weg, 67724 Gonbach, Donnersbergkreis
+67368 Westheim
+67292 Kirchheimbolanden
+53474 Bad Neuenahr-Ahrweiler
+57627 Hachenburg
+Schillerstraße 1, 67593 Westhofen, Alzey-Worms (Kreis)
+67578 Gimbsheim
+67127 Rödersheim-Gronau
+67158 Ellerstadt
+67459 Böhl-Iggelheim
+Lindenweg 37, 67256 Weisenheim am Sand, Bad Dürkheim (Kreis)
+56651 Niederzissen
+57548 Kirchen-Herkersdorf
+66887 St.Julian
+53572 Bruchhausen
+55743 Idar-Oberstein - Idar
+55743 Idar-Oberstein - Göttschied
+67310 Hettenleidelheim
+76863 Herxheim
+66955 Pirmasens
+76891 Rumbach
+Frankenthaler str 1, 67259 Beindersheim, Rhein-Pfalz-Kreis
+67688 Rodenbach
+67433 Neustadt
+67061 Ludwigshafen
+67434 Neustadt
+67454 Haßloch
+56412 Nomborn
+56204 Hillscheid
+56203 Höhr-Grenzhausen
+55239 Gau Odernheim
+Eichendorffstr. 2, 67374 Hanhofen, Rhein-Pfalz-Kreis
+56626 Andernach
+Römerweg 6-8, 76726 Germersheim, Germersheim (Kreis)
+76726 Germersheim
+Elbestr. 61b, 55124 Mainz, Gonsenheim
+66482 Zweibrücken
+Kelterweg 1, 55129 Mainz, Hechtsheim
+56154 Boppard
+56472 Hardt
+56348 Patersberg
+67354 Römerberg
+66916 Breitenbach
+67307 Göllheim
+67722 Winnweiler
+66879 Steinwenden
+67112 Mutterstadt
+67806 Rockenhausen
+55118 Mainz
+67657 Kaiserslautern
+53545 Linz
+66894 Lambsborn
+67700 Niederkirchen
+66346 Püttlingen
+66787 Wadgassen
+Hanna-Kirchner-Straße 2 a, 66123 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+Am Borren 5, 66687 Wadern, Merzig-Wadern (Kreis)
+66459 Kirkel-Limbach
+66798 Wallerfangen
+66663 Merzig
+66121 Saarbrücken
+Zweibrücker Str. xxx, 66538 Neunkirchen, Neunkirchen (Kreis)
+Alte Reichsstraße xxx, 66424 Homburg, Saarpfalz-Kreis
+66123 Saarbrücken / Am Homburg
+66589 Wemmetsweiler
+66424 Einöd
+66280 Sulzbach/Saar
+66280 Sulzbach
+Bahnhofstr 5, 66121 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+66333 Völklingen
+Ormesweilerstraße 10, 66440 Blieskastel-Brenschelbach, Blieskastel
+66606 St.Wendel
+talstr 3, 66424 Blieskastel, Saarpfalz-Kreis
+Neunkircherstr 2, 66440 Blieskastel, Saarpfalz-Kreis
+Tälchenberg 2, 66121 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+66540 Neunkirchen
+Neunkircherstr 38, 66440 Blieskastel, Saarpfalz-Kreis
+66740 Saarlouis
+66793 Saarwellingen
+Saarbrückerstr 5, 66440 Bleiskastel, Blieskastel
+66606 Sankt Wendel
+66564 Ottweiler
+66538 Neunkirchen
+Holzerstraße 126A, 66287 Qierschied, Quierschied
+66629 Freisen
+66822 Lebach
+66606 St.Wendel-Hoof
+Hildebrandtstraße 1, 66117 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+Saarbrücker Allee 35, 66663 Merzig, Merzig-Wadern (Kreis)
+66132 Saarbrücken-Bischmisheim
+Heiligenhäusschen 3, 66606 Sankt Wendel, Sankt Wendel (Kreis)
+66424 Homburg
+Karlsbergstr. 1, 66424 Homburg, Saarpfalz-Kreis
+Feldstraße 32, 66787 Wadgassen, Saarlouis (Kreis)
+66123 Saarbrücken
+66271 Kleinblittersdorf
+Hauptastr. 201, 66128 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+W 16, 66123 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+Junkersstraße 17, 66117 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+Auf der Schlecht 9, 66123 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+66111 Saarbrücken
+An der Farrwiese 8, 66424 Homburg, Saarpfalz-Kreis
+66440 Blieskastel-Ballweiler
+66453 Gersheim - OT
+66450 Oberbexbach
+66701 Beckingen - Honzrath
+Klarenthalerstr 16, 66128 Saarbuecken Ottenhausen, Saarbrücken
+66625 Bosen
+66424 Homburg-Kirrberg
+Vor Ferdinandshaus 12, 66740 Saarlouis, Saarlouis (Kreis)
+66440 Blieskastel
+66450 Bexbach - Höchen
+Nillester Weg 5, 66706 Perl, Merzig-Wadern (Kreis)
+66292 Riegelsberg
+66386 St. Ingbert
+Kettelrstr 20, 66606 St. Wendel, Sankt Wendel
+66113 Saarbrücken
+Sulzbachstr. 48/Mozartstr. 15, 66111 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+Annastrasse 2, 66125 Saarbücken, Saarbrücken
+Provinzialstraße 6+8, 66740 Saarlouis, Saarlouis (Kreis)
+Bahnhofstr. 65-67, 66111 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+Mainzer Straße 125, 66121 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+St. Johanner Straße 41-43, 66111 Saarbrücken, Stadtverband Saarbrücken (Kreis)
+66287 Fischbach
+Im Flur 7a, 66539 Neunkirchen-Ludwigsthal, Neunkirchen
+66740 Saarlouis / Neuforweiler
+Saarbrückerstr. 4, 66299 Friedrichsthal, Stadtverband Saarbrücken (Kreis)
+66287 Quierschied
+66424 Homburg-Einöd
+66424 Homburg-Erbach
+66540 NK-Wiebelskirchen
+66640 Namborn
+Bezirksstraße -, 66440 Niederwürzbach, Blieskastel
+66386 Sankt Ingbert
+Köhlerstraße 49, 66333 Völklingen, Stadtverband Saarbrücken (Kreis)
+66663 Merzig / Brotdorf
+66693 Mettlach
+66440 Blieskastel-Bierbach
+66578 Stennweiler
+66131 Saarbrücken- Ensheim
+66119 Saarbrücken - Alt-Saarbrücken
+66119 Saarbrücken / Sankt Arnual
+Gutenbergstraße xxx, 66763 Dillingen, Dillingen/Saar
+66557 Hirzweiler
+Rupperstr. xxx, 66271 Kleinblittersdorf, Stadtverband Saarbrücken (Kreis)
+Homburg, Saarpfalz-Kreis
+66117 Saarbrücken
+Hauptstraße xxx, 66887 Neukirchen, Neunkirchen
+Gewerbepark Klinkenthal xxx, 66578 Schiffweiler, Neunkirchen (Kreis)
+Im Schiffelland xxx, 66386 St. Ingbert, Sankt Ingbert
+Ballweiler Str. xxx, 66399 Mandelbachtal, Saarpfalz-Kreis
+Schulstraße xxx, 66822 Lebach, Saarlouis (Kreis)
+66127 Saarbrücken
+66763 Dillingen
+66793 Dillingen
+66299 Friedrichsthal
+66809 Nalbach
+66539 Neunkirchen
+66119 Saarbrücken
+09130 Chemnitz
+04416 Markkleeberg
+01689 Weinböhla
+01257 Dresden
+04347 Leipzig
+Meußlitzer Straße 73, 01259 Dresden, Kleinzschachwitz
+04109 Leipzig
+09577 Niederwiesa - Lichtenwalde
+09599 Freiberg
+04157 Leipzig
+01277 Dresden
+01109 Dresden
+01844 Neustadt
+Marktstraße 18, 04889 Schildau, Nordsachsen (Kreis)
+04758 Oschatz
+09435 Venusberg / Grießbach
+01561 Schönfeld
+01139 Dresden
+08626 Adorf
+01458 Ottendorf-Okrilla
+04509 Krostitz
+01900 Bretnig-Hauswalde
+04808 Wurzen - Wurzen
+04680 Colditz
+04509 Löbnitz
+04838 Eilenburg
+04420 Markranstädt
+Emil-Rosenow-Straße 1a, 09112 Chemnitz, Kaßberg
+Neue Straße 8, 04683 Köhra, Belgershain
+Güterbahnhofstr. 2, 09509 Pockau, Erzgebirgskreis
+01587 Riesa
+Magazinstr. 1A, 08056 Zwickau, Innenstadt
+Leipziger Straße 3, 04552 Borna, Leipzig (Kreis)
+04105 Leipzig
+Rostiger Weg 12, 01558 Großenhain, Meißen (Kreis)
+Rhönweg 11, 01159 Dresden, Naußlitz
+Eisenacher Str. 2, 04155 Leipzig, Gohlis-Süd
+Siemeringstr. 12, 04177 Leipzig, Lindenau
+01445 Radebeul
+Otto-Hofmann-Str. 14, 09122 Chemnitz, Markersdorf
+Robinien Weg 1, 04158 Leipzig, Wiederitzsch
+Stockstraße 12, 04155 Leipzig, Gohlis-Süd
+Flemmingstraße 53, 09116 Chemnitz, Altendorf
+Max-Müller-Str. 74, 09123 Chemnitz, Markersdorf
+Charlottenstraße 73, 09126 Chemnitz, Gablenz
+Breitenfelder Straße 56, 04157 Leipzig, Gohlis-Mitte
+Witzlebenstraße 0, 04157 Leipzig, Gohlis-Nord
+01665 Klipphausen
+Naumburger Straße 4, 04229 Leipzig, Plagwitz
+09247 Chemnitz- OT Röhrsdorf
+Balthasar - Thieme - Str. 16, 01454 Radeberg, Bautzen (Kreis)
+02785 Olbersdorf
+Frankenberger Str. 26, 09669 Frankenberg OT Mühlbach, Frankenberg/Sachsen
+Südstraße 7, 04741 Roßwein, Mittelsachsen (Kreis)
+Gogolstraße 51, 04357 Leipzig, Mockau-Nord
+04159 Leipzig-Wahren
+02779 Großschönau
+04683 Naunhof
+Altlockwitz 2, 01257 Dresden, Lockwitz
+01454 Grosserkmannsdorf
+Dorfstr. 16, 01257 Dresden, Niedersedlitz
+01326 Dresden
+01328 Dresden
+Bischofsweg 114, 01099 Dresden, Äußere Neustadt (Antonstadt)
+04289 Leipzig - Probstheida
+Hans - Oster- Str. /Fleißnerstr. 0, 04157 Leipzig, Gohlis-Mitte
+08393 meerane
+01640 Coswig
+Lindenweg 1-8, 08107 Hartmannsdorf, Hartmannsdorf bei Kirchberg
+09465 Sehmatal-Sehma
+01309 Dresden
+Gustav-Adolf-Straße 42, 04105 Leipzig, Zentrum-Nordwest
+Bertrand-Roth-Straße 19, 08525 Plauen, Reißiger Vorstadt
+Georg-Schumann-Straße 215, 04155 Leipzig, Möckern
+Floßplatz 26, 04107 Leipzig, Zentrum-Süd
+Dieskaustrasse 60, 04277 Leipzig, Kleinzschocher
+Devrientstr. 1-5, 01067 Dresden, Wilsdruffer Vorstadt/Seevorstadt-West
+Kunzestraße 3 - 11, 04249 Leipzig, Großzschocher
+Hauptstraße 20, 01809 Heidenau, Sächsische Schweiz-Osterzgebirge (Kreis)
+Berlinerstr./Behringstr. 1, 01067 Dresden, Friedrichstadt
+Lockwitzgrund 123a, 01731 Kreischa, Dohna
+Am Weissiger Bach 147, 01328 Dresden, Weißig
+Bernhardstraße 30, 04315 Leipzig, Volkmarsdorf
+Angerstr. bei 20, 04509 Delitzsch, Nordsachsen (Kreis)
+Täubchenweg 71, 04109 Leipzig, Reudnitz-Thonberg
+Eichendorffstraße 8, 01159 Dresden, Löbtau-Nord
+Ernestiestraße 2, 04275 Leipzig, Connewitz
+Asternweg 9, 04416 Markkleeberg, Leipzig (Kreis)
+Kipsdorfer Str. 121, 01277 Dresden, Tolkewitz/Seidnitz-Nord
+Bahnhofstr. 2, 04565 Regis-Breitingen, Leipzig (Kreis)
+Karl-Liebknecht-Str. 110, 04275 Leipzig, Südvorstadt
+Schwarzenberger straße 7, 08280 Aue, Erzgebirgskreis
+Kamelienweg 1B, 01277 Dresden-Laubegast, Gruna
+04774 Dahlen - Schmannewitz
+08645 Bad Elster
+04159 Leipzig
+01705 Freital
+Amtsgasse 4, 04435 Schkeuditz, Nordsachsen (Kreis)
+01665 Diera-Zehren
+Sonnenweg, 04416 Markkleeberg, Leipzig (Kreis)
+Sonnenweg/Schmiedestraße .., 04416 Markkleeberg, Leipzig (Kreis)
+Schmiedestraße/Sonnenweg, 04416 Markkleeberg, Leipzig (Kreis)
+09600 Langhennersdorf
+09127 Chemnitz
+09249 Taura
+01737 Tharandt
+04655 Kohren-Sahlis
+09648 Mittweida
+04668 Pomßen
+01824 Königstein
+01156 Niederwartha
+Berlinerstrasse 22, 04105 Leipzig, Zentrum-Nord
+08539 Mehltheuer
+01662 Meißen
+09387 Jahnsdorf/Erzgebirge / Seifersdorf
+04177 Leipzig
+04315 Leipzig
+Westringstraße 15, 04435 Schkeuditz, Nordsachsen (Kreis)
+04329 Leipzig
+Am Pulverturm 1, 08349 Johanngeorgenstadt, Erzgebirgskreis
+Wettiner Straße 24, 04129 Leipzig, Zentrum-Nordwest
+Käthe-Kollwitz-Str. 6, 04668 Grimma, Leipzig (Kreis)
+04317 Leipzig
+01917 Kamenz
+09112 Chemnitz
+Klingestrasse 00, 01159 Dresden-Löbtau, Löbtau-Süd
+04318 Leipzig
+02625 Bautzen
+02826 Görlitz
+09235 Burkhardtsdorf
+09120 Chemnitz
+Zwickauer Straße 206/208, 09116 Chemnitz-Schönau, Chemnitz
+08236 Ellefeld
+09337 Callenberg
+08523 Plauen
+01819 Langenhennersdorf
+09212 Limbach-Oberfrohna
+01774 Höckendorf
+08412 Werdau
+08248 Klingenthal
+08141 Reinsdorf
+04275 Leipzig
+08529 Plauen
+04509 Wiedemar
+08525 Plauen
+04155 Leipzig
+09619 Sayda
+06844 Dessau-Roßlau
+39326 Hermsdorf
+Franz-Schubert-Str. 9, 06108 Halle (Saale), Nördliche Innenstadt
+Stresemannstraße 18/19, 39104 Magdeburg, Altstadt
+39106 Magdeburg / Alte Neustadt
+39104 Magdeburg
+06862 Dessau-Roßlau
+06766 Wolfen
+38820 Halberstadt
+06246 Bad Lauchstädt
+38855 Wernigerode
+39576 Stendal
+06886 Lutherstadt Wittenberg
+06772 Gräfenhainichen OT Möhlau
+39218 Schönebeck
+39343 Erxleben
+38871 Ilsenburg
+39179 Barleben
+Brehnaer Str. 24, 06809 Roitzsch, Anhalt-Bitterfeld (Kreis)
+Bahnhofstr. 8, 39175 Gerwisch, Jerichower Land (Kreis)
+38871 Wasserleben
+39647 Mieste
+06369 Großbadegast
+39288 Burg
+06774 Muldestausee, OT Gröbern
+06369 Radegast
+06130 Halle
+06774 Schwemsal
+Winkelgartenstraße 1, 39221 Eggersdorf, Bördeland
+06366 Köthen
+Harzstraße 18, 06536 Südharz OT Rottleberode, Mansfeld-Südharz (Kreis)
+Sagisdorfer Straße 3, 06112 Halle (Saale), Altstadt
+Leopold-Kell-Str. 57, 06667 Weißenfels, Burgenlandkreis
+Markt 16, 06333 Hettstedt, Mansfeld-Südharz (Kreis)
+Weißenfelser Straße 49, 06132 Halle, Silberhöhe
+Albert-Schweitzer-Str. 3, 06667 Weißenfels, Burgenlandkreis
+Mörikestraße 0, 39114 Magdeburg-Herrenkrug, Magdeburg
+Kirchplatz 5, 06809 Sandersdorf-Brehna, Petersroda
+Am Mühlenberg 33, 39326 Zielitz, Börde (Kreis)
+Schillerstraße 9, 06712 Zeitz, Burgenlandkreis
+Schulstr. 12, 06869 Coswig, Coswig (Anhalt)
+Brandenburger Str. 66a, 39307 Genthin, Jerichower Land (Kreis)
+Luxemburgstraße 36, 39114 Magdeburg, Cracau
+39116 Magdeburg
+06729 Elsteraue-Reuden
+06110 Halle
+06188 Landsberg
+Mittelstraße 18, 06108 Halle (Saale), Altstadt
+Kiesweg 4 / 6, 39128 Magdeburg, Nordwest
+Birkenweg 0, 39624 Kalbe (Milde), Güssefeld
+Förstereieck 2, 06888 Lutherstadt Wittenberg, Wittenberg (Kreis)
+Siedlerallee 3, 06888 Lutherstadt Wittenberg, Abtsdorf
+Bahnhofstraße 20, 06542 Allstedt, Mansfeld-Südharz (Kreis)
+Zacharias-Hildebrandt-Straße 21 und 23 11, 06618 Naumburg, Naumburg (Saale)
+Üllnitzer Str. 51, 39443 Staßfurt, Förderstedt
+Osterburger Straße 2x, 39106 Magdeburg, Alte Neustadt
+Haferbreiter Weg 33, 39576 Stendal, Stendal (Kreis)
+06846 Dessau
+Fritz-Reuter-Straße 13a, 06114 Halle/Saale, Paulusviertel
+Im Winkel 2, 06386 Diesdorf, Quellendorf
+06120 Halle
+Dorfstraße 23, 39291 Ziepel, Möckern
+Schleinitzstraße 13a, 38889 Blankenburg, Blankenburg (Harz)
+06114 Halle
+Goethestraße 6a, 39108 Magdeburg, Stadtfeld Ost
+Dryanderstraße 1a, 06110 Halle, Südliche Innenstadt
+Leipziger Str. 106, 06729 Elsteraue OT Profen, Elsteraue
+Spitze 4, 06108 Halle, Nördliche Innenstadt
+Richard-Wagner-Straße 25/26, 38820 Halberstadt, Harz (Kreis)
+Oeltzschner 2, 06217 Merseburg, Saalekreis
+Blumenstraße 15, 06108 Halle, Nördliche Innenstadt
+Schweriner Straße 5, 39104 Magdeburg, Altstadt
+Hans-Grade Str. 14, 06449 Aschersleben, Salzlandkreis
+39108 Magdeburg
+Friedrich-Ebert-Str. 7 (H), 06366 Köthen, Köthen (Anhalt)
+Ferdinand-Schrey-Str. bei 1, 39122 Magdeburg, Salbke
+Großer Werder 17, 39114 Magdeburg, Werder
+Bahnhofsplatz bei 10/11, 06366 Köthen, Köthen (Anhalt)
+Carnotstr. 46, 39120 Magdeburg, Hopfengarten
+Michael-Lotter-Straße 4 ST 205, 39108 Magdeburg, Stadtfeld Ost
+Schmidtstraße 57-59 ST 3 0, 39124 Magdeburg, Neue Neustadt
+Abendstraße 20ST 13, 39124 Magdeburg, Neue Neustadt
+Große Gosenstraße 1-5, 06114 Halle, Giebichenstein
+An der Tonkuhle 1, 39164 Wanzleben, Börde (Kreis)
+Waldseestraße, 39245 Gommern, Jerichower Land (Kreis)
+39130 Magdeburg
+39114 Magdeburg
+Bismarckerstraße, 39579 Kläden, Stendal (Kreis)
+39240 Zuchau
+Am Uchtedamm, 39576 Stendal, Stendal (Kreis)
+Guntherstr., 39167 Wellen, Börde (Kreis)
+Harzweg 16, 06449 Aschersleben, Westdorf
+39110 Magdeburg
+39291 Möser
+39291 Möckern
+39321 Wolmirstedt
+39517 Tangerhütte OT Grieben
+06749 Bitterfeld-Wolfen
+Goethestraße 36, 06114 Halle, Paulusviertel
+06785 Oranienbaum
+39118 Magdeburg
+39112 Magdeburg
+39393 Am Großen Bruch OT Gunsleben
+06184 Kabelsketal / Gröbers
+06917 Jessen (Elster)
+06122 Halle (Saale)
+39615 Zehlental
+06217 Merseburg
+06642 Nebra
+06647 Bad Bibra
+39218 Schönebeck (E)
+39249 Barby (E)
+06458 Selke-Aue
+06901 Kemberg
+39443 Staßfurt
+39448 Westeregeln
+06467 Stadt Seeland
+06449 Aschersleben
+06333 Hettstedt
+06774 Gemeinde Muldestausee
+06542 Allstedt
+06712 Zeitz
+06868 Coswig
+24211 Preetz
+22926 Ahrensburg
+23552 Lübeck
+24943 Flensburg
+24105 Düsternbrook
+22869 Schenefeld
+25451 Quickborn
+24340 Eckernförde
+25980 Rantum
+23611 Bad Schwartau
+24220 Flintbek
+25761 Büsum
+Buschkoppel 37, 24145 Kiel, Wellsee
+Allensteiner weg 22, 21465 Reinbek, Stormarn (Kreis)
+Poststraße 2, 25746 Heide, Dithmarschen (Kreis)
+25764 Wesselburen
+Hainholzer Schulstr. 29, 25337 Elmshorn, Pinneberg (Kreis)
+24850 Schuby
+24944 Flensburg-Mürwik
+25884 Viöl
+22958 Kuddewörde/Grande
+25462 Rellingen
+25917 Ladelund
+25845 Nordstrand
+Buchenweg 7, 25358 Horst, Horst (Holstein)
+25878 Drage
+24398 Winnemark
+Feine Koppel 8, 23743 Cismar, Grömitz
+23909 Ratzeburg
+25469 Halstenbek
+23619 Heilshoop
+24796 Kronsburg
+24558 Wakendorf
+24996 Sterup - Grünholz
+Liliencronweg 11, 25849 Pellworm, Nordfriesland (Kreis)
+Markt 15, 23701 Eutin, Ostholstein (Kreis)
+Albert-Schweitzer-Straße 33, 22844 Norderstedt, Segeberg (Kreis)
+Bahnhofstraße 45, 25421 Pinneberg, Pinneberg (Kreis)
+Moltkestraße 11, 24534 Neumünster, Innenstadt
+Ohmstr. 14, 24537 Neumünster, Gartenstadt
+24539 Neumünster
+Ahornweg 29, 24537 Neumünster, Gartenstadt
+24534 Neumünster
+Sachsenring 61a, 24534 Neumünster, Innenstadt
+Am neuen Fleth 29, 25348 Glückstadt, Steinburg (Kreis)
+Hamdorfer Weg 32-34, 23795 Bad Segeberg, Segeberg (Kreis)
+Rudolf-Messerschmidt-Straße 14, 21502 Geesthacht, Herzogtum Lauenburg (Kreis)
+Süderstraße 19, 24955 Harrislee, Schleswig-Flensburg (Kreis)
+Schulstraße 20f, 21465 Reinbek, Stormarn (Kreis)
+Am Finkenberg 53, 23738 Lensahn, Ostholstein (Kreis)
+Weinberg 8 b, 24147 Kiel, Elmschenhagen
+23909 Raztzeburg
+Osterrade 56, 24340 Eckernförde, Rendsburg-Eckernförde (Kreis)
+Olshausenstraße 6, 24118 Kiel, Ravensberg
+Schönmörchenstr. 24, 24534 Neumünster, Gadeland
+23744 Schönwalde
+Schinkelring 74, 22844 Norderstedt, Segeberg (Kreis)
+24119 Kronshagen
+Langstücken 9, 24220 Flintbek, Rendsburg-Eckernförde (Kreis)
+25712 Burg
+22850 Norderstedt
+24983 Handewitt
+24641 Stuvenborn
+24376 Kappeln
+23562 Lübeck
+Schobüllerstr. 43, 25813 Husum, Nordfriesland (Kreis)
+Glashütter Damm 43, 22850 Norderstedt, Segeberg (Kreis)
+24941 Flensburg
+24857 Fahrdorf
+24161 Altenholz
+24568 Kaltenkirchen
+23826 Todesfelde
+25524 Itzehoe
+24357 Fleckeby
+Fördepromenade 10a, 24944 Flensburg, Mürwik
+An der Waldkapelle 26, 23669 Timmendorfer Strand, Ostholstein (Kreis)
+Schulgasse 77, 24589 Nortorf, Rendsburg-Eckernförde (Kreis)
+23701 Eutin
+Schleusberg bei 15, 24534 Neumünster, Innenstadt
+Jungfernstieg 1, 24568 Kaltenkirchen, Segeberg (Kreis)
+Schilkseer Str./Garagen 184-194, 24159 Kiel, Schilksee
+Wulfsteert 1, 24340 Eckernförde, Rendsburg-Eckernförde (Kreis)
+23879 Mölln
+Neustadt 2a, 21481 Lauenburg/Elbe, Herzogtum Lauenburg (Kreis)
+Adalbertstr. 7/9, 24106 Kiel, Wik
+Turmstraße 7, 23843 Bad Oldesloe, Stormarn (Kreis)
+Elmshorner Str. 1, 25421 Pinneberg, Pinneberg (Kreis)
+Schulstr./Stellplätze 16-22, 24143 Kiel, Gaarden-Ost
+Michelsenstr. 18-20, 24114 Kiel, Südfriedhof
+Brockesstr. 62, 23554 Lübeck, St. Lorenz Nord
+Bergedorfer Str. 65, 21502 Geesthacht, Herzogtum Lauenburg (Kreis)
+22952 Lütjensee
+Rendsburger Landstr. bei 17, 24113 Kiel, Hassee
+Russeer Weg 225, 24109 Kiel, Mettenhof
+Danziger Straße 7, 25451 Quickborn, Pinneberg (Kreis)
+Robert-Koch-Straße TG 16-24, 23562 Lübeck, St. Jürgen
+23669 Timmendorfer Strand
+Hörnumweg 3, 22926 Ahrensburg, Stormarn (Kreis)
+23845 Bahrenhof
+24251 Osdorf-Borghorsterhütten
+22885 Barsbüttel
+23683 Scharbeutz
+Lassenweg 11, 24220 Flintbek, Rendsburg-Eckernförde (Kreis)
+Am Klev 0, 25779 Kleve, Dithmarschen (Kreis)
+25779 Bergewöhrden
+Norderstraße 7, 25779 Hennstedt, Dithmarschen (Kreis)
+25794 Pahlen
+25779 Hennstedt
+Hauptstraße 12, 25764 Schülp, Dithmarschen (Kreis)
+Hauptstr. 19, 25788 Delve, Dithmarschen (Kreis)
+25563 Föhrden Barl
+24214 Großkönigsförde
+Luise-Wagner-Str., 23701 Eutin, Ostholstein (Kreis)
+25980 Tinnum
+24148 Kiel
+24939 Flensburg
+Mühlenstraße 3, 23879 Mölln, Herzogtum Lauenburg (Kreis)
+24860 Böklund
+Waldstraße 11, 22926 Ahrensburg, Stormarn (Kreis)
+23743 Grömitz
+23558 Lübeck
+25436 Uetersen
+24229 Dänischenhagen
+23560 Lübeck
+24986 Mittelangeln/Satrup
+24113 Kiel
+24937 Flensburg
+23847 Steinhorst
+Hauptstraße 10, 22848 Norderstedt, Segeberg (Kreis)
+23769 Fehmarn
+21516 Müssen
+25709 Marne
+23815 Geschendorf
+24357 Güby
+24229 Schwedeneck
+23829 Kükels
+23843 Bad Oldesloe
+22941 Bargteheide
+22956 Grönwohld
+25926 Ladelund
+23566 Lübeck
+24558 Henstedt-Ulzburg
+22846 Norderstedt
+24601 Ruhwinkel
+23774 Heiligenhafen
+23777 Heringsdorf
+07749 Jena
+99817 Eisenach
+Fröttstädter Weg 5, 99880 Waltershausen, Gotha (Kreis)
+99085 Erfurt
+Mühlgraben 10, 99094 Erfurt, Hochheim
+99438 Bad Berka
+96528 Rauenstein
+Walter Gropius Straße 65, 99085 Erfurt, Krämpfervorstadt
+07743 Jena
+07546 Gera
+98530 Rohr/Thüringen
+99755 Ellrich
+99423 Weimar
+99974 Mühlhausen /Thüringen
+Feldstraße 1b, 99819 Eckardtshausen, Marksuhl
+07589 Münchenbernsdorf
+99955 Herbsleben
+98646 Straufhain/Linden
+99638 Kindelbrück
+99947 Bad Langensalza
+99092 Erfurt
+99098 Ollendorf
+07407 Rudolstadt
+96529 Mengersgereuth-Hämmern
+06567 Bad Frankenhausen
+99092 Marbach
+99444 Blankenhain
+99974 Mühlhausen
+99098 Erfurt
+99734 Nordhausen
+Altstadtstrasse 12, 98724 Neuhaus am Rennweg, Steinheid
+98673 Eisfeld
+99869 Brüheim
+98587 Steinbach-Hallenberg
+07768 Kahla
+99887 Gräfenhain
+07646 Stadtroda
+Rathenaustraße 4, 99085 Erfurt, Krämpfervorstadt
+Goethestraße 7a, 07545 Gera, Stadtmitte
+Kartäuser Str. 13a, 99084 Erfurt, Erfurt-Altstadt
+98693 Ilmenau
+Kurt-Keicher-Straße 84/86, 07545 Gera, Stadtmitte
+Magdeburger Allee 64, 99086 Erfurt, Ilversgehofen
+Rosa-Luxemburg-Straße 48, 99086 Erfurt, Johannesvorstadt
+Karnstedtstr. 4, 06567 Bad Frankenhausen/Kyffhäuser, Kyffhäuserkreis
+Karl-Marx-Allee 20, 07548 Gera, Debschwitz
+Schmöllnsche Str.14 - , 04600 Altenburg, Altenburger Land (Kreis)
+Andreasstr. 45, 99084 Erfurt, Andreasvorstadt
+Am Bahnhof 5, 99310 Arnstadt, Ilm-Kreis
+Elisabethstr. 8, 99096 Erfurt, Erfurt-Altstadt
+98544 Zella-Mehlis
+99819 Wolfsburg-Unkeroda
+Dalbergsweg 6, 99084 Erfurt, Brühlervorstadt
+36456 Barchfeld
+Dreifuß 8, 99310 Marlishausen, Wipfratal
+07548 Dürrenebersdorf
+Schönauerstr 50, 98544 Zella Mehlis, Zella-Mehlis
+Zur alten Mutter 7, 98724 Neuhaus/Igelshieb, Neuhaus am Rennweg
+99718 Greußen
+99947 Bad Langensalza OT Nägelstedt
+99867 Gotha
+Am Alten Gaswerk 2, 99310 Arnstadt, Ilm-Kreis
+Hauptstraße 15, 99820 Hörselberg-Hainch, Hörselberg-Hainich
+indiv. wählbar 1, 37339 Breitenworbis OT Bernterode, Breitenworbis
+Musterstraße 1, 99334 Ichtershausen Thörey, Ichtershausen
+Musterstr. 1, 99085 Erfurt, Krämpfervorstadt
+99334 Kirchheim
+Zum Pferderieth 28, 99192 Erfurt, Ermstedt
+04600 Altenburg
+99425 Weimar
+Hauptstr. 7, 98631 Mendhausen, Hildburghausen (Kreis)
+Heinrich-Heine-Straße 14, Löbervorstadt, Erfurt
+Lauentor 7, 99084 Erfurt, Brühlervorstadt
+99096 Erfurt
+Brühler Str. 40, 99084 Erfurt, Brühlervorstadt
+Melchendorfer Straße 5, 99096 Erfurt, Daberstedt
+99084 Erfurt
+Eugen-Richter-Straße 29-43, 99085 Erfurt, Johannesvorstadt
+Christian-Rohlfs-Weg 6, 99096 Erfurt, Daberstedt
+Am Ölgraben 23, 37345 Großbodungen, Eichsfeld (Kreis)
+Dornburger Straße 6, 07545 Jena, Nord
+Adelheidstr. bei 9, 98617 Meiningen, Schmalkalden-Meiningen (Kreis)
+Gutenbergstraße 13, 99867 Gotha, Gotha (Kreis)
+Lauentor 9, 99084 Erfurt, Erfurt-Altstadt
+Schillerstraße -, 99084 Erfurt, Löbervorstadt
+Querstr. 18, 99867 Gotha, Gotha (Kreis)
+Moritzstr. 12a, 99084 Erfurt, Erfurt-Altstadt
+Andreasstr. 21-25, 99084 Erfurt, Erfurt-Altstadt
+Neanderstr. bei 6, 99734 Nordhausen, Nordhausen (Kreis)
+07586 Kraftsdorf
+06578 Oldisleben
+99091 Erfurt
+99086 Erfurt
+98708 Gehren
+98693 Manebach
+98714 Stützerbach
+98704 wümbach
+98701 Böhlen
+Heynestraße 1, 99510 Apolda, Weimarer Land (Kreis)
+Faulborn 36, 99510 Apolda, Weimarer Land (Kreis)
+Erfurter Straße 97, 99510 Apolda, Weimarer Land (Kreis)
+Schwabestraße, 99510 Apolda, Weimarer Land (Kreis)
+Steinacher Str. 38, 96523 Oberland am Rennsteig, Sonneberg (Kreis)
+99310 Arnstadt
+99974 Unstruttal
+99102 Rockhausen
+Nordstraße, 07950 Zeulenroda-Triebes, Greiz (Kreis)
+Schopenhauer Sraße 3, 99423 Weimar, Nordvorstadt
+99089 Erfurt
+Marktstr. 9, 99885 Ohrdruf, Gotha (Kreis)
+Paulinenstraße 6a, 99444 Blankenhain, Weimarer Land (Kreis)
+36433 Bad Salzungen
+99427 Weimar
+99994 Schlotheim
+99090 Salomonsborn
+Nachtigallenstraße 6, 98617 Meiningen, Schmalkalden-Meiningen (Kreis)
+Lindenallee 8, 99310 Arnstadt, Ilm-Kreis
+Waldstraße 9 - 22, 07613 Crossen, Crossen an der Elster
+04639 Gößnitz
+98574 Schmalkalden
+99869 Drei Gleichen
+99636 Rastenberg
+99869 Friemar
+99996 Großmehlra
+99869 Tüttleben
+99894 Friedrichroda
+99189 Gebesee
+99887 Georgenthal
+07973 Greiz
+37355 Niederorschel
+99628 Buttstädt
+96523 Steinach
+36452 Kaltennordheim
+71069 Sindelfingen
+69121 Heidelberg
+69118 Heidelberg
+68723 Schwetzingen
+Wasserstraße 11, 79098 Freiburg, Altstadt
+Gartenstraße 33, 74223 Flein, Heilbronn (Kreis)
+71573 Allmersbach im Tal - Heutensbach
+97900 Külsheim
+70619 Stuttgart
+76467 Bietigheim
+88662 Überlingen
+71638 Ludwigsburg
+89179 Beimerstetten
+72074 Tübingen-Pfrondorf
+74572 Blaufelden
+79194 Gundelfingen
+79682 Todtmoos
+70439 Stuttgart
+Kochelseeweg 50, 70378 Stuttgart-Hofen, Stuttgart
+71642 Ludwigsburg
+74399 Walheim
+71063 Sindelfingen
+71069 Sindelfingen-Maichingen
+78052 Villingen-Schwenningen
+75015 Bretten
+77654 Offenburg
+76669 Bad Schönborn
+69115 Heidelberg
+70186 Stuttgart
+76227 Karlsruhe / Durlach
+75417 MÜhlacker
+71154 Nufringen
+U4 8, 68161 Mannheim, Innenstadt / Jungbusch
+69502 Hemsbach
+89150 Laichingen
+79774 Albbruck
+78239 Rielasingen-Worblingen
+71032 Böblingen
+76316 Malsch
+72336 Balingen-Frommern
+74653 Künzelsau
+Mühläckerstraße 28, 71686 Remseck, Remseck am Neckar
+68782 Brühl
+Pater-Kolbe-Straße 5, 71638 Ludwigsburg, Ludwigsburg (Kreis)
+Rathausstr. 5, 74391 Erligheim, Ludwigsburg (Kreis)
+70736 Fellbach
+Am Sonnenhang 40, 71384 Weinstadt, Rems-Murr-Kreis
+79664 Wehr
+Rehlingstr. 6b, 79100 Freiburg, Wiehre
+76137 Karlsruhe
+78567 Fridingen
+75179 Pforzheim
+69221 Dossenheim
+74072 Heilbronn
+74189 Weinsberg
+72144 Dußlingen
+Otto-Stoelckerstraße 28, 77955 Ettenheim, Ortenaukreis
+Neuffenstrasse 11, 70806 Kornwestheim, Ludwigsburg (Kreis)
+74523 Schwäbisch Hall
+Berghütte 4, 75392 Deckenpfronn, Böblingen (Kreis)
+79102 Freiburg
+74081 Heilbronn
+68167 Mannheim
+Luisenstr 10, 79098 Freiburg, Altstadt
+70771 Leinfelden-Echterdingen
+78647 Trossingen
+72764 Reutlingen
+71672 Marbach
+75236 Kämpfelbach-Ersingen
+74182 Obersulm
+71636 Ludwigsburg
+Maria-Scherer-Strasse 10, 68309 Mannheim, Käfertal
+Pfedelbacher Strasse 47/1-3, 74613 Öhringen, Hohenlohekreis
+Brgm. Weidemaier Str. 8, 69181 Leimen, Rhein-Neckar-Kreis
+RHEINSTRASSE 00, 77694 KEHL, Kehl
+68163 Mannheim Neuostheim
+68219 Mannheim
+70734 Fellbach-Lindle
+73240 Wendlingen am Neckar
+73642 Welzheim
+74177 Bad Friedrichshall
+74538 Rosengarten - Uttenhofen
+71364 Winnenden
+76593 Gernsbach-Obertsrot
+Riederich, Reutlingen (Kreis)
+West, Stuttgart
+Ost, Stuttgart
+73666 Baltmannsweiler
+73635 Rudersberg
+Hauptstraße 66, 71732 Tamm, Ludwigsburg (Kreis)
+76275 Ettlingen
+Esslingen am Neckar, Esslingen (Kreis)
+79395 Neuenburg am Rhein
+73079 Süßen
+71106 Magstadt
+Dresdener Str. 5, 71701 Schwieberdingen, Ludwigsburg (Kreis)
+79395 Neuenburg
+74078 Heilbronn / Neckargartach
+73430 Aalen
+76275 Ettlingen (Spessart)
+77830 Bühlertal
+72202 Nagold
+71083 Herrenberg
+70174 Stuttgart
+71065 Sindelfingen
+71691 Freiberg am Neckar
+Bregenzer Straße 0, 88239 Wangen, Wangen im Allgäu
+74343 Sachsenheim
+Fabrikstr. 2, 79183 Waldkirch-Kollnau, Waldkirch
+79359 Riegel
+88239 Wangen
+88131 Lindau
+72654 Neckartenzlingen
+74074 Heilbronn
+73033 Göppingen
+71229 Leonberg
+71404 Korb
+88250 Weingarten
+70806 Kornwestheim
+79108 Freiburg
+Kehlhofstrasse 3, 78239 Rielasingen, Rielasingen-Worblingen
+70439 Stuttgart-Stammheim
+Bahnhofstraße 3 + 5, 76297 Stutensee, Karlsruhe (Kreis)
+77694 Kehl-Auenheim
+69469 Weinheim
+Musterstraße 1, 97980 Bad Mergentheim, Main-Tauber-Kreis
+76307 Karlsbad - Langensteinbach
+76307 Karlsbad - Mutschelbach
+76706 Dettenheim - Liedolsheim
+75038 Oberderdingen - Rotland
+73337 Bad Überkingen
+76327 Pfinztal
+Talmühleweg 12, 72160 Horb, Horb am Neckar
+68526 Ladenburg
+97896 Freudenberg
+78315 Radolfzell
+Panorama 60, 72297 Seewald-Erzgrube, Seewald
+74549 Wolpertshausen
+70565 Stuttgart (Rohr)
+71263 Weil der Stadt
+68804 Altlußheim
+76476 Bischweier
+78355 Hohenfels
+71665 Vaihingen/Enz ( Enzweihingen )
+79862 Höchenschwand
+71634 Ludwigsburg
+73054 Eislingen
+74348 Lauffen am Neckar
+Reichenbergstraße 21, 77716 Fischerbach, Ortenaukreis
+76689 Karlsdorf-Neuthard
+88677 Markdorf / Ittendorf
+88696 Owingen
+72379 Hechingen
+Grafenberg, Reutlingen (Kreis)
+68794 Oberhausen-Rheinhausen
+71732 Tamm
+75447 Sternenfels
+74385 Pleidelsheim
+76676 Graben-Neudorf (Graben)
+74582 Gerabronn
+79110 Freiburg
+75180 Pforzheim/Sonnenberg
+79189 Bad Krozingen
+73479 Ellwangen
+70329 Stuttgart
+68229 Mannheim Friedrichsfeld
+72461 Albstadt
+Erligheim, Ludwigsburg (Kreis)
+71701 Schwieberdingen
+69207 Sandhausen
+89081 Ulm
+79688 Hausen
+79777 Ühlingen-Birkendorf
+74635 Kupferzell-Belzhag
+88483 Burgrieden
+88260 Argenbühl
+76448 Durmersheim
+Ermingen, Ulm
+72124 Pliezhausen
+Friedhofweg 13, 78628 Rottweil-Neukirch, Rottweil
+72582 Grabenstetten
+69231 Rotenberg Rauenberg
+76530 Baden-Baden
+89155 Erbach-Donaurieden
+74861 Herbolzheim
+72181 Starzach
+78589 Dürbheim
+72793 Pfullingen
+72149 Neustetten
+79183 Waldkirch
+75242 Neuhausen
+Windeckweg 39, 79856 Hinterzarten, Breisgau-Hochschwarzwald (Kreis)
+73655 Plüderhausen
+79639 Grenzach-Wyhlen
+72108 Rottenburg
+74869 Schwarzach
+71287 Weissach
+76593 Gernsbach
+78250 Tengen-OT
+72411 Bodelshausen
+76694 Forst
+Oberderdingen, Karlsruhe (Kreis)
+76684 Ãstringen
+69226 Nussloch
+76307 Karlsbad
+75038 Oberderdingen
+69181 Leimen
+71139 Ehningen
+Amselweg 18, 72654 Neckartenzlingen, Esslingen (Kreis)
+79801 Hohentengen
+73035 Göppingen / Schopflenberg
+88480 Achstetten-Bronnen
+Wiesenbacher Straße 6, 74572 Blaufelden, Schwäbisch Hall (Kreis)
+69254 Malsch
+72336 Balingen
+88639 Wald - Ortsteil
+Im Nägele 10, 77933 Lahr, Lahr/Schwarzwald
+79618 Rheinfelden
+69437 Neckargerach
+69226 Nußloch
+Freiburgerstraße 23, 79395 Neuenburg am Rhein, Breisgau-Hochschwarzwald (Kreis)
+74858 Aglasterhausen
+76227 Karlsruhe
+88636 Illmensee
+Mähdachäckerweg 0, 75181 Pforzheim-Hohenwart, Pforzheim
+Lindenstrasse 13-1, 74374 Zaberfeld, Heilbronn (Kreis)
+78141 Schönwald im Schwarzwald
+71720 Oberstenfeld
+88605 Meßkirch
+73107 Eschenbach
+75233 Tiefenbronn
+74196 Neuenstadt a. K.
+73447 Oberkochen
+69514 Oberlaudenbach
+69514 Laudenbach
+88267 Vogt
+72218 Wildberg
+70499 Stuttgart
+73733 Esslingen
+71336 Waiblingen
+Lohmühlenstraße 12, 78315 Radolfzell, Radolfzell am Bodensee
+Tuchmacherstr. 4, 72250 Freudenstadt, Freudenstadt (Kreis)
+Malvenweg 41, 78224 Singen, Singen (Hohentwiel)
+Josef-Bosch-Straße 13, 78315 Radolfzell, Radolfzell am Bodensee
+Römerstraße 58, 72793 Pfullingen, Reutlingen (Kreis)
+Friedrichstraße 49, 79576 Weil am Rhein , Weil am Rhein
+74223 Flein
+76185 Karlsruhe
+Kronenstraße 49B, 70174 Stuttgart, Mitte
+70374 Stuttgart
+Goldäckerstraße 3, 70771 Leinfelden-Echterdingen, Esslingen (Kreis)
+88433 Schemmerhofen
+76332 Bad Herrenalb - Stadt
+69231 Rauenberg
+72393 Burladingen
+Scharnhorststraße 12, 68259 Mannheim, Feudenheim
+Schubartweg 25, 73447 Oberkochen, Ostalbkreis
+71116 Gärtringen
+Im Speitel 56, 76229 Karlsruhe, Grötzingen
+Schwetzinger Str. 116, 66156 Mannheim, Schwetzingerstadt / Oststadt
+71229 Leonberg-Warmbronn
+Kettenmatt 3, 77815 Bühl - Oberweier, Bühl
+Mittelgewann 36, 68723 Schwetzingen, Rhein-Neckar-Kreis
+Stolzestr. 8, 75175 Pforzheim, Südoststadt
+76297 Stutensee-Blankenloch
+79206 Breisach
+Schloßbergallee 69/1, 74357 Bönnigheim, Ludwigsburg (Kreis)
+Weglängen 5, 88427 Bad Schussenried, Biberach (Kreis)
+Gartenstrasse 6, 75233 Niefern-Öschelbronn, Enzkreis
+Obere Waldparkstraße 21, 75239 Eisingen, Enzkreis
+Friedrichstrrasse 3, 79837 Sank Blasien, Sankt Blasien
+Wassily-Kandinsky-Weg 11, 71679 Asperg, Ludwigsburg (Kreis)
+72525 Münsingen
+Sindelfingen, Böblingen (Kreis)
+79100 Freiburg
+Basler-Tor-Str. 33, 76227 Karlsruhe - Durlach, Karlsruhe
+Nußdorferstraße 1, 75446 Ipfingen/Wiernsheim, Enzkreis
+68169 Mannheim
+Schlossweg 18, 74544 Michelbach an der Bilz, Schwäbisch Hall (Kreis)
+Hülben, Reutlingen (Kreis)
+75392 Deckenpfronn
+76133 Karlsruhe
+Saphirweg 8, 70174 Stuttgart, Nord
+72119 Ammerbuch
+76199 Karlsruhe
+Juliusstrasse 23, 72172 Sulz a. N., Sulz am Neckar
+69123 Heidelberg
+Schwetzinger Str. 103, 69124 Heidelberg, Kirchheim
+Pleidelsheim, Ludwigsburg (Kreis)
+Kogenäcker 15, 88630 Pfullendorf, Sigmaringen (Kreis)
+Schwetzinger Straße 103, 69124 Heidelberg, Kirchheim
+70372 Stuttgart
+Großglocknerstr. 60, 70327 Stuttgart, Untertürkheim
+Schillerstr. 3/1, 71083 Herrenberg, Böblingen (Kreis)
+72138 Rottenburg
+Neckarstadt-West, Mannheim
+71332 Waiblingen
+Erlenbach Straße 5, 74626 Adolzfurt, Bretzfeld
+88447 Warthausen
+Remchingen, Enzkreis
+68158 Mannheim
+88400 Biberach an der Riß
+Vorarlberger Str. 10, 88045 Friedrichshafen, Bodenseekreis
+Oftersheim, Rhein-Neckar-Kreis
+Hallschlag 28, 70376 Stuttgart, Bad Cannstatt
+74211 Leingarten
+Erasmusstrasse 25, 72108 Rottenburg, Rottenburg am Neckar
+73262 Reichenbach an der Fils
+77694 Kehl
+Dinkelsbühlerstr. 38, 70374 Stuttgart, Bad Cannstatt
+Streibgasse 6, 70567 Möhringen, Stuttgart
+Bachstraße 36, 73776 Altbach, Esslingen (Kreis)
+74909 Meckesheim
+78658 Zimmern ob Rottweil
+71083 Herrenberg-Gültstein
+73466 lauchheim
+88048 Friedrichshafen
+Markgröningerstrasse 55, 70435 Stuttgart, Zuffenhausen
+Freytagstr. 9, 79110 Freiburg, Betzenhausen
+Flein, Heilbronn (Kreis)
+Plöck 10-12, 69117 Heidelberg, Altstadt
+Nord, Stuttgart
+88690 Uhldingen-Mühlhofen
+Absenreuterweg 6, 88213 Ravensburg, Ravensburg (Kreis)
+78532 Tuttlingen
+76135 Karlsruhe
+Otto-Flake-Str. 10, 76530 Baden-Baden, Innenstadt
+Nibelungenstrasse 25, 75179 Pforzheim, Nordstadt
+73329 Kuchen
+Große Gasse 23, 89168 Niederstotzingen, Heidenheim (Kreis)
+Johann-Sebastian-Bach-Straße 11, 88400 Biberach, Biberach an der Riß
+Oberhofstraße 21, 88045 Friedrichshafen, Bodenseekreis
+Brählesgasse 7, 70372 Stuttgart, Bad Cannstatt
+70178 Stuttgart
+Rebbergblick 16, 77960 Seelbach, Ortenaukreis
+Kindlebildstraße 16b, 78467 Konstanz, Konstanz (Kreis)
+89129 Langenau
+89168 Niederstotzingen
+Remshalden, Rems-Murr-Kreis
+68789 St. Leon-Rot
+73098 Rechberghausen
+Mönchhofstraße 3 c, 69120 Heidelberg-Neuenheim, Heidelberg
+72525 Münsingen-Dottingen
+Aidlingen, Böblingen (Kreis)
+Heckenweg 29, Bad Boll, Göppingen (Kreis)
+Astrid-Lindgren-Weg 3, 72072 Tübingen, Tübingen (Kreis)
+Jettenburger Str. 30, 72127 Kusterdingen-Mähringen, Kusterdingen
+Ahornstrasse 21, 79761 Waldshut-Tiengen, Waldshut (Kreis)
+Dettingen unter Teck, Esslingen (Kreis)
+Bernsteinstraße 168, 70619 Stuttgart, Heumaden
+Buchenweg 12, 88457 Kirchdorf, Kirchdorf an der Iller
+Uhlbergstr. 0, 70188 Stuttgart-Ost, Stuttgart
+Daimlerstraße 48, 68526 Ladenburg, Rhein-Neckar-Kreis
+76189 Karlsruhe
+Sven-Hedin-Weg 1, 68219 Mannheim, Rheinau
+Krautstr 8/1, 71106 Magstadt, Böblingen (Kreis)
+Karlsruher Str. 36, 70771 Leinfelden Echterdingen, Leinfelden-Echterdingen
+88094 Oberteuringen
+68549 Ilvesheim
+73249 Wernau
+St. Claude Str. 4, 72108 Rottenburg, Rottenburg am Neckar
+Holbeinstraße 22, 88212 Ravensburg, Ravensburg (Kreis)
+Schützenwaldweg 21, 79540 Lörrach, Lörrach (Kreis)
+Adlerstr. 18, 76133 Karlsruhe, Innenstadt-Ost
+Schlehdornweg 2, 69469 Hirschberg, Hirschberg an der Bergstraße
+71093 Weil im Schönbuch
+Hölderlinstr. 8, 75391 Gechingen, Calw (Kreis)
+71278 Weissach
+Ida-Kerkovius-Weg 30, 70569 Stuttgart, Vaihingen
+75173 Pforzheim
+74182 Obersulm-Sülzbach
+Brüsseler Ring 7 B, 76344 Eggenstein-Leopoldshafen, Karlsruhe (Kreis)
+70195 Stuttgart
+Krebspfad 7-9, 75177 Pforzheim, Nordstadt
+72393 Burladingen-Salmendingen
+Badgasse 1, 75031 Eppingen, Heilbronn (Kreis)
+73240 Wendlingen
+76139 Karlsruhe
+Wacholderweg 4, 76327 Pfinztal, Karlsruhe (Kreis)
+72250 Freudenstadt
+78166 Donaueschingen
+73779 Deizisau
+Batzenbergstraße 10, 79227 Schallstadt, Breisgau-Hochschwarzwald (Kreis)
+Lange Gasse 7, 73312 geislingen, Geislingen an der Steige
+Schlierbach 9/1, 75031 Eppingen Richen, Eppingen
+77880 Sasbach
+Lange Gasse 14, 97947 Grünsfeld, Main-Tauber-Kreis
+77704 Oberkirch
+Wertheimerstr. 2 F, 68259 Mannheim-Wallstadt, Mannheim
+71665 Vaihingen an der Enz
+71576 burgstetten-burgstall
+Koppenrain 7, 74177 Bad Friedrichshall, Heilbronn (Kreis)
+72667 Altenriet
+Säntisblick 18, 88634 Herdwangen-Schönach, Sigmaringen (Kreis)
+Schnurgasse 20, 74653 Künzelsau, Hohenlohekreis
+Dietrich-Bonhoeffer-Str. 51, 76461 Muggensturm, Rastatt (Kreis)
+Haggenmooser Straße 24, 88361 Altshausen, Ravensburg (Kreis)
+Am Zeughaus 13/5, 89072 Ulm, Mitte
+Dieseltr. 17, 75392 Deckenpfronn, Böblingen (Kreis)
+Brunnengasse 10, 73344 Gruibingen, Göppingen (Kreis)
+Kürzeller Straße 5, 77963 Schwanau-Allmannsweier, Schwanau
+79194 Gundelfingen-Wildtal
+89584 Ehingen-Granheim
+74889 Sinsheim
+Gustav-Schönleber-Weg 70, 73760 Ostfildern, Esslingen (Kreis)
+Ellwanger Straße ,, 71229 Leonberg, Böblingen (Kreis)
+71723 Großbottwar
+79576 Weil
+69181 Leimen / Sankt Ilgen
+76332 Bad Herrenalb
+71711 Murr
+72631 Aichtal
+89616 Rottenacker
+74080 Heilbronn - Böckingen
+Kastanienweg 31b, 68789 St. Leon-Rot, Sankt Leon-Rot
+76534 Baden-Baden
+70192 Stuttgart
+79297 Winden
+Schwalbenweg 13, 69123 Heidelberg, Pfaffengrund
+74523 Hessental
+Mundelsheimer Weg 12, 70736 Fellbach, Oeffingen, Fellbach
+Freyaplatz 11, 68305 Mannheim, Gartenstadt
+Fichtestraße 4, 68799 Reilingen, Rhein-Neckar-Kreis
+Köhlgartenring 28, 79379 Müllheim, Breisgau-Hochschwarzwald (Kreis)
+72072 Tübingen
+Dühringsstraße 7, 74076 Heilbronn, Heilbronner Kernstadt
+Dornröschenweg 18, 70567 Stuttgart, Möhringen
+72175 Dornhan
+74861 Neudenau-Siglingen
+70599 Stuttgart-Schönberg
+70195 Stuttgart Botnang
+74259 Widdern
+Siermensstraße 9a, 69190 Walldorf, Rhein-Neckar-Kreis
+71277 Rutesheim
+Schulsteige 37/1, 71093 Weil im Schönbuch, Böblingen (Kreis)
+70825 Korntal-Münchingen
+Karl-Carstens-Straße 4, 74193 Schwaigern, Heilbronn (Kreis)
+68723 Plankstadt
+78266 Büsingen
+68535 Edingen
+73207 Plochingen
+78628 Rottweil -Neukirch
+Schlossgasse 34, 79112 St.Nikolaus, St. Nikolaus
+Deutschmeisterstraße 7/1, 74831 Gundelsheim, Heilbronn (Kreis)
+72144 Dusslingen
+70619 Stuttgart-Heumaden
+89542 Bolheim
+74336 Brackenheim
+88416 Steinhausen a.d. Rottum/Rottum
+88316 Isny
+Krebsbachstr. ?, 71116 Gärtringen-Rohrau, Gärtringen
+71543 Wüstenrot
+Ditzingen, Ludwigsburg (Kreis)
+72108 Rottenburg-Seebronn
+Hintere Dorfstraße 23/3, 77948 Friesenheim-Oberweier, Friesenheim
+Am Leimengraben 48, 69168 Wiesloch, Rhein-Neckar-Kreis
+Otto-Dix-Str. 11, 68789 St. Leon-Rot, Sankt Leon-Rot
+69151 Neckargemünd
+78351 Bodman-Ludwigshafen
+75334 Straubenhardt - Conweiler
+71159 Mötzingen
+Steinbeißstr. 53, 70839 Gerlingen, Ludwigsburg (Kreis)
+74592 Kirchberg
+Wackersteinweg 15, 72124 Pliezhausen, Reutlingen (Kreis)
+Lindenstrasse 51, 74232 Abstatt, Heilbronn (Kreis)
+69434 Eberbach
+Langer Anger 149, 69115 Heidelberg, Weststadt
+Gundelsheim, Heilbronn (Kreis)
+Am Ochsenrain 35, 73230 Kirchheim, Kirchheim unter Teck
+75446 Wiernsheim
+74538 Rosengarten
+88348 Bad Saulgau
+Sandhausen, Rhein-Neckar-Kreis
+76698 Ubstadt-Weiher
+73257 Köngen
+Marbacher Str. Neu, 71726 Benningen, Benningen am Neckar
+Haydnstraße 15, 74321 Bietigheim-Metterzimmern, Bietigheim-Bissingen
+70771 Leinfelden
+74199 Unterheinriet
+73547 Lorch
+73553 Alfdorf-Hellershof
+Gruobachstraße 1, 72770 Reutlingen-Gönningen, Reutlingen
+76229 Karlsruhe
+77955 Ettenheim
+Ludwigsburger Strasse 37, 74343 Sachsenheim, Ludwigsburg (Kreis)
+Stettiner Straße 45, 74078 Heilbronn- Neckargartach, Heilbronn
+71665 Vaihingen
+74575 Schrozberg
+75059 Zaisenhausen
+Westliche Brühlstraße 0, 76689 Karlsdorf-Neuthard, Karlsruhe (Kreis)
+72141 Walddorfhäslach
+70327 Stuttgart
+73035 Göppingen
+75323 Bad Wildbad
+Wört, Ostalbkreis
+73087 Bad Boll
+brändestraße 7, 79853 Lenzkirch, Breisgau-Hochschwarzwald (Kreis)
+69118 Ziegelhausen
+71665 Vaihingen Enz
+Nachtigallenweg 18, 74906 Bad Rappenau, Heilbronn (Kreis)
+Kelterwiesen 1, 74889 Dühren, Sinsheim
+Schreiberstr 24, 88348 Bad Saulgau Bierstetten, Bad Saulgau
+69250 Schönau
+75217 Birkenfeld
+79682 Todtmoos Au
+74924 Neckarbischofsheim
+76456 Kuppenheim-Oberndorf
+Sonnhaldenweg, 79843 Löffingen / Ortsteil Göschweiler, Löffingen
+Brunnenstraße 9, 72411 Bodelshausen, Tübingen (Kreis)
+70378 Stuttgart
+73432 Aalen-Ebnat
+73111 Lauterstein-Weißenstein
+76571 Gaggenau
+74199 Untergruppenbach
+Sigmaringen, Sigmaringen (Kreis)
+88630 Pfullendorf-Großstadelhofen
+72108 Rottenburg - Obernau
+77948 Friesenheim / Oberweier
+74834 Elztal
+71364 Breuningsweiler
+72800 Eningen am Achalmberg
+75365 Calw-Alzenberg
+Lettenweg 21, 79539 Lörrach, Lörrach (Kreis)
+Mädachäckerweg, 75181 Pforzheim, Hohenwart
+Klosterstraße 6, 88045 Friedrichshafen, Bodenseekreis
+Burgunderweg 12, 71364 Winnenden-Hanweiler, Winnenden
+74196 Neuenstadt am Kocher
+Salomon-Seligmann-Weg, 79379 Müllheim (Baden), Müllheim
+Lenaustrasse 8, 73776 Altbach, Esslingen (Kreis)
+In Ebnet 1, 78073 Bad Dürrheim, Schwarzwald, Bad Dürrheim
+88486 Kirchberg an der Iller
+88400 Biberach
+Winzerstrasse 13, 74626 Dimbach, Bretzfeld
+73773 Aichwald / Aichelberg
+76599 Weisenbach
+79777 Ühlingen-Birkendorf / Birkendorf
+76229 Karlsruhe / Grötzingen
+69231 Rauenberg / Malschenberg
+69256 Mauer
+75180 Pforzheim
+74374 Zaberfeld
+78343 Gaienhofen
+72224 Ebhausen
+73333 Gingen
+Gernsbach, Rastatt (Kreis)
+72639 Neuffen
+Karlsbad, Karlsruhe (Kreis)
+Eggenstein-Leopoldshafen, Karlsruhe (Kreis)
+Bruchsal, Karlsruhe (Kreis)
+88326 Aulendorf, Württ
+88299 Leutkirch im Allgäu
+78250 Tengen
+89551 Königsbronn
+Mögglingen, Ostalbkreis
+Abtsgmünd, Ostalbkreis
+Aalen, Ostalbkreis
+88662 Überlingen-Ernatsreute
+72469 Meßstetten
+75328 Schömberg-Bieselsberg
+78573 Wurmlingen
+75210 Keltern
+76676 Graben-Neudorf
+79798 Jestetten
+75177 Pforzheim
+69251 Gaiberg
+77709 Oberwolfach
+79618 Riedmatt
+79618 Rheinfelden Karsau
+La-Ciotat-Strasse, 78224 Singen, Singen (Hohentwiel)
+Häldengärten, 71543 Wüstenrot, Heilbronn (Kreis)
+Ettlingen, Karlsruhe (Kreis)
+71729 Erdmannhausen
+76307 Waldbronn
+73432 Waldhausen
+71384 Weinstadt-Strümpfelbach
+89597 Hausen am Bussen
+73630 Remshalden
+72160 Horb-Rexingen
+76228 Karlsruhe
+72270 Baiersbronn
+88518 Herbertingen
+73575 Leinzell
+Eichhörnchenweg 6, 72818 Trochtelfingen - Mägerkingen, Trochtelfingen
+71384 Weinstadt-Schnait
+73571 Göggingen
+Dorfstr. 77, 73087 Bad Boll Eckwälden, Bad Boll
+Nüblingweg 7, 70190 Stuttgart, Ost
+71134 Aidlingen
+88299 Leutkirch
+73660 Urbach
+89143 Blaubeuren
+88317 Aichstetten-Altmannshofen
+Im Kohlstatterfeld, 69439 Zwingenberg, Neckar-Odenwald-Kreis
+88364 Wolfegg-Alttann
+75045 Walzbachtal
+75031 Eppingen-Rohrbach
+Promenadenweg zw. 78-82, 73035 Göppingen, Göppingen (Kreis)
+73650 Winterbach
+Am Kraichbach 112, 68775 Ketsch, Rhein-Neckar-Kreis
+76308 Malsch
+Mittlerer Haldenweg, 73760 Ostfildern, Esslingen (Kreis)
+73441 Bopfingen
+73312 Geislingen
+76227 Karlsruhe-Durlach
+74254 Offenau
+Elisabethenstraße, 74196 Neuenstadt-Bürg, Neuenstadt am Kocher
+Hechinger Straße 6, 72810 Gomaringen, Tübingen (Kreis)
+Schönenbergstr. 30, 89134 Blaustein, Alb-Donau-Kreis
+69469 Weinheim-Lützelsachsen
+74867 Neunkirchen
+68161 Mannheim
+Ludwig-Weisser-Straße 27, 78112 Sankt Georgen im Schwarzwald, Schwarzwald-Baar-Kreis
+79761 Waldshut-Tiengen
+79410 Badenweiler
+76456 Kuppenheim
+77652 Offenburg
+72280 Dornstetten
+79725 Laufenburg
+68163 Mannheim
+71254 Ditzingen
+77960 Seelbach
+Johann-Krieger-Straße 34, 90469 Nürnberg, Gartenstadt
+82031 Grünwald
+82008 Unterhaching
+Osseckerstr. 44, 95030 Hof, Innenstadt
+Haubensteigweg 74, 87439 Kempten (Allgäu), Stiftallmey
+kolpingstr 19, 89233 neu-ulm (pfhul), Neu-Ulm
+82110 Germering
+Eschenstrasse 78, 85716 Unterschleissheim, Unterschleißheim
+63857 Waldaschaff
+84375 Kirchdorf am Inn
+93080 Pentling
+Falkenstraße 16, 90461 Nürnberg, Gugelstraße
+94572 Schöfweg
+86356 Neusäß
+81379 München
+86343 Königsbrunn
+94234 Viechtach
+89331 Burgau
+90453 Nürnberg
+83395 Freilassing
+93055 Regensburg
+81825 München-Trudering
+86169 Augsburg
+81739 München
+91207 Lauf an der Pegnitz
+80689 München
+85354 Freising
+Friaulerstr. 1, 81547 München, Untergiesing
+81479 Muenchen
+93053 Regensburg
+Philippstr. 2, 84453 Mühldorf am Inn, Mühldorf am Inn (Kreis)
+82211 Herrsching am Ammersee
+Dambacher Straße 0, 90763 Fürth, Südstadt
+82481 Mittenwald
+Tafelfeldstraße 10, 90443 Nürnberg, Steinbühl
+86179 Augsburg Haunstetten Süd
+Viehmarktstraße 7, 85368 Moosburg, Moosburg an der Isar
+Schmiedgasse 2, 89312 Günzburg, Günzburg (Kreis)
+85567 Grafing
+Karwendelstraße 1, 86356 Neusäß, Augsburg (Kreis)
+Aubing-Ost-Str. 66, 81245 Aubing, München
+86415 Mering
+83404 Ainring
+88175 Scheidegg
+82024 Taufkirchen
+81477 München
+80637 München
+95326 Kulmbach
+87600 Kaufbeuren
+87527 Sonthofen
+87509 Immenstadt
+Katharinenstraße 28, 96052 Bamberg, Ost
+Zaunwiesenweg x, 90482 Nürnberg, Laufamholz
+Wilhelm-Busch-Straße 11-13, 92318 Neumarkt, Neumarkt in der Oberpfalz
+91522 Ansbach
+83607 Holzkirchen
+85049 Ingolstadt
+bergiusstraße 78, 86199 augsburg, Göggingen
+90443 Nürnberg
+95500 Altenplos
+Farbmühlweg 20, 91247 Vorra, Nürnberger Land (Kreis)
+90489 Nürnberg
+84172 Buch am Erlbach
+Altötting, Altötting (Kreis)
+Schwanhardtstraße 40, 90478 Nürnberg, Glockenhof
+Stahlstraße 43c, 91522 Ansbach, Stadt
+Klingerstraße 38, 81369 München, Sendling-Westpark
+82166 Gräfelfing
+86956 Schongau
+Donauwörtherstraße 92, 86154 Augsburg, Oberhausen
+82538 Geretsried
+89420 Höchstädt an der Don
+Marconistr. 10, 86179 Augsburg, Haunstetten
+82275 Emmering
+Rottal-Strasse 33a, 94086 Bad Griesbach, Bad Griesbach im Rottal
+Penzendorfer Str 59, 91126 Schwabach, Limbach
+Penzendorferstr 59, 91126 Schwabach, Limbach
+Penzendorferstr. 59, 91126 Schwabach, Limbach
+86505 Münsterhausen
+89407 Dillingen
+Ludwigsvorstadt-Isarvorstadt, München
+85055 Ingolstadt
+Mitterweg 15, 81549 München, Ramersdorf
+90441 Nürnberg
+90409 Nürnberg
+80336 München
+93133 Burglengenfeld
+80995 München
+Neuhausen, München
+94060 Pocking
+85614 Kirchseeon
+86420 Diedorf
+80807 München
+85586 Poing
+91074 Herzogenaurach
+Klosterstraße 10, 91301 Forchheim, Forchheim (Kreis)
+91054 Erlangen
+Am Ängerlein 35, 95500 Heinersreuth, Bayreuth (Kreis)
+90408 Nürnberg
+94244 Teisnach
+94315 Straubing
+Siegfriedstraße 25, 86152 Augsburg, Innenstadt
+63834 Sulzbach
+63776 Mömbris - Daxberg
+93474 Nähe Arrach
+Zollhof 5, 90443 Nürnberg, Tafelhof
+81245 München
+Wiesentalstr. 36, 89250 Senden, Neu-Ulm (Kreis)
+81547 München
+82362 Weilheim
+96114 Hirschaid/Sassanfahrt
+Benzstraße 21, 93053 Regensburg, Kasernenviertel
+87497 Wertach
+Robert Bosch Str. 16 a, 86167 Augsburg, Lechhausen
+Richard-Wagner-Straße 4a, 86633 Neuburg, Neuburg an der Donau
+85375 Neufahrn
+Heinr.-Wieland-Straße 182, 81735 München, Perlach
+Saturnweg 13, 90471 Nürnberg, Rangierbahnhof-Siedlung
+Planetenring 25, 90471 Nürnberg, Rangierbahnhof-Siedlung
+94051 Hauzenberg
+80805 München
+83313 Siegsdorf
+Zwergerstr. 13, 85579 Neubiberg, München (Kreis)
+93051 Regensburg
+Königsbrunner Str. 43, 86179 Augsburg, Haunstetten
+Carl-Friedrich-Benz-Str. 19, 86899 Landsberg, Landsberg am Lech
+91334 Hemhofen
+91257 Pegnitz
+95447 Bayreuth
+97424 Schweinfurt
+83352 Altenmarkt
+Limesstr 16, 81243 München, Aubing
+Muggenhofer Str. 36, 90429 Nürnberg, Muggenhof
+Kemmern bei Bamberg 96164, 96164 Kemmern, Bamberg (Kreis)
+Burgkmairstr. 42, 80686 München, Laim
+86470 Thannhausen
+94089 Altreichenau
+87538 Obermaiselstein
+84079 Bruckberg
+86441 Zusmarshausen - Gabelbach
+87629 Hopfen am See
+92724 Trabitz
+97289 Thüngen
+Am Kies 1, 97289 Thüngen, Main-Spessart (Kreis)
+92439 Bodenwöhr
+92442 Wackersdorf
+Schillingsfürster Str. 54, 90449 Nürnberg, Röthenbach West
+92442 Wackersdorf - Meldau
+92449 Steinberg am See
+84371 Triftern
+Sonnenbachweg 41 1/3, 86169 Augsburg, Hammerschmiede
+86879 Wiedergeltingen
+Neu-Ulm, Neu-Ulm (Kreis)
+63868 Großwallstadt
+95173 Schönwald
+86732 Oettingen
+94158 Philippsreut
+86579 Waidhofen-Wangen
+89420 Höchstädt
+86938 Schondorf am Ammersee
+90475 Nürnberg
+Atting, Straubing-Bogen (Kreis)
+94496 Ortenburg
+82237 Wörthsee
+91602 Dürrwangen
+90513 Zirndorf
+90592 Schwarzenbruck
+96148 Baunach
+96355 Tettau
+95666 Mitterteich
+96145 Seßlach
+86707 Kühlenthal
+92551 Stulln
+96349 Steinwiesen
+Mühlenweg 14, 87452 Altusried - Muthmannshofen, Altusried
+86488 Breitenthal-Ortsteil
+81549 München
+Theodor-Fischer-Straße 00, 80999 München, Untermenzing
+86199 Augsburg / Göggingen
+63825 Krombach
+85419 Mauern
+86504 Merching
+97705 Burkardroth
+Herzogenauracher Straße 19 D, 90768 Fürth, Vach / Flexdorf / Ritzmannshof
+94333 Geiselhöring
+86637 Wertingen
+84051 Mettenbach bei Essenbach
+85435 Moosinning
+91580 Petersaurach
+97705 Stralsbach
+97753 Karlstadt-Gambach
+89440 Unterliezheim
+Staffelseestr. xxx, 86179 Augsburg / Haunstetten, Augsburg
+Gerhart-Hauptmann-Str. xxx, 85356 Freising, Freising (Kreis)
+97737 Gemünden
+90596 Schwanstetten
+87671 Ronsberg
+Holzbühlweg 1, 97074 Würzburg, Frauenland
+96117 Memmelsdorf
+84172 Buch
+Vogelthenne 12 b, 94481 Grafenau, Freyung-Grafenau (Kreis)
+97513 Michelau
+97714 Oerlenbach-Ebenhausen
+85221 Dachau
+96450 Coburg
+86830 Schwabegg
+81929 München
+91466 Gerhardshofen
+83052 Bruckmühl
+92266 Ensdorf
+blumenstraße 16, 97782 weickersgrüben, Gräfendorf
+Füssenerstr. 60, 87672 Roßhaupten, Ostallgäu (Kreis)
+87459 Pfronten
+92539 Schönsee
+91207 Lauf a. d. Pegnitz
+82491 Grainau
+Röntgenstr. 46, 90766 Fürth, Schwand / Eigenes Heim
+84030 Ergolding
+84518 Garching an der Alz
+91217 Hersbruck
+90475 Nürnberg-Fischbach
+90455 Nürnberg
+Am Schlauacker 1, 86514 Mödishofen, Ustersbach
+In bester Lage XX, 97295 Waldbrunn, Würzburg (Kreis)
+Heppstädt 34, 91325 Adelsdorf, Erlangen-Höchstadt (Kreis)
+84051 Unterwattenbach
+93471 Arnbruck
+Wünschgarten 3, 86609 Donauwörth, Donau-Ries (Kreis)
+Bussardstrasse 13, 84051 Unterwattenbach, Essenbach
+81249 München
+83324 Ruhpolding
+Siebenbürgenstrasse 9, 90542 Eckental, Erlangen-Höchstadt (Kreis)
+86399 Bobingen
+92637 Weiden
+84137 Vilsbiburg
+94136 Thyrnau
+Johann-Hacker-Weg ., 95463 Bindlach, Bayreuth (Kreis)
+90562 Heroldsberg
+91058 Erlangen
+91086 Aurachtal
+91056 Erlangen
+92700 Weiherhammer
+Innenstadt, Augsburg
+81925 München
+85229 Markt Indersdorf
+90584 Allersberg
+83646 Bad Tölz
+63776 Mömbris
+83026 Rosenheim
+92249 Vilseck
+96465 Neustadt bei Coburg
+83346 Bergen
+Bergstr. 45, 82380 Peißenberg, Weilheim-Schongau (Kreis)
+91096 Möhrendorf
+Dorfstr. 9, 93449 Waldmünchen, Cham (Kreis)
+Ihr Grundstück 0, 86150 Augsburg, Innenstadt
+92706 Luhe-Wildenau
+Bahnhofstraße 10, 86424 Dinkelscherben, Augsburg (Kreis)
+82549 Königsdorf
+Krautheimer Str. ., 90763 Fürth, Südstadt
+Seeweg 37 A, 83236 Übersee-Feldwies, Übersee
+Nördlingen, Donau-Ries (Kreis)
+Oberer Weinberg 45, 91522 Ansbach, Hennenbach
+87700 Memmingen
+94365 Parkstetten
+94169 Thurmansbang / Solla
+Neubessingerstraße 1, 97535 Wülfershausen, Wasserlosen
+Friedenslinde 11, 84329 Wurmannsquick, Rottal-Inn (Kreis)
+97464 Niederwerrn
+Ackerstraße 1, 84453 Mühldorf, Mühldorf am Inn
+96194 Walsdorf
+91550 Dinkelsbühl
+96364 Marktrodach -Unterrodach
+83301 Traunreut
+63741 Aschaffenburg
+81243 München
+85051 Ingolstadt an der Donau/ Zuchering
+83714 Miesbach
+97204 Höchberg
+86165 Augsburg
+89335 Ichenhausen
+90556 Cadolzburg
+84048 Mainburg
+85356 Freising
+Birkhahnweg 17, 81827 München-Waldtrudering, Trudering
+Bahnhofsplatz 11, 95028 Hof, Innenstadt
+Zollnerstr. 39, 96052 Bamberg, Ost
+Freischützstr. 51, Bogenhausen, München
+81825 München
+80939 München
+81479 München
+87629 Füssen
+Scheibenwandstr. 28, 83233 Bernau am Chiemsee, Rosenheim (Kreis)
+Theresienstrasse 60, 80333 München, Maxvorstadt
+Gustav-Heinemann-Ring 98, 81739 München, Perlach
+Dieselstr. 4, 90552 Röthenbach an der Pegnitz, Nürnberger Land (Kreis)
+63743 Aschaffenburg Obernau
+Kumpfmühler Straße 44a, 93051 Regensburg, Kumpfmühl-Ziegetsdorf-Neuprüll
+Brabanter Strasse 16, 80805 München/Schwabing, München
+Schalkhaußerstr 21b, 90453 Nürnberg, Reichelsdorf
+80798 München
+Brahmsstr. 19, 91052 Erlangen, Erlangen Süd
+Hubmaierstraße xxx, 85051 Ingolstadt Unterbrunnenreut, Süd
+Ernsbergerstraße 19, Pasing, München
+Carola-Neher- Str. 10, 81379 Obersendling, München
+97070 Würzburg
+Brunnenstraße 3, 97265 Hettstadt, Würzburg (Kreis)
+91567 Herrieden
+Anton-Bartn-Weg 1, 81245 München, Obermenzing
+Varnhagenstr 4, 81241 München, Pasing
+82061 Neuried
+Oberer Graben 51, 86152 Augsburg, Innenstadt
+Möhrendorfer Str. 14, 91056 Erlangen, Alterlangen
+Waltherstr. 9c, 80337 München, Ludwigsvorstadt-Isarvorstadt
+Heinrich-Weber-Platz 10, 96052 Bamberg, Ost
+Freischützstrasse  107, Bogenhausen, München
+80809 Nordschwabing- Milbertshofen
+Josef Fischhaber Str 5, 82319 Starnberg, Starnberg (Kreis)
+Am Hag 12, 83703 Gmund, Gmund am Tegernsee
+Schleißheimer Straße 5, 80333 München, Maxvorstadt
+91301 Forchheim
+Schwabing-West, München
+Münchner Str. 125, 82008 Unterhaching, München (Kreis)
+80687 München
+Freischützstraße 79, 81927 München, Bogenhausen
+Gärtnerstraße 62 D, 80992 München, Moosach
+85290 Geisenfeld
+85276 Pfaffenhofen
+Cosimastraße 232, Bogenhausen, München
+Kaulbachstr. 35, Maxvorstadt, München
+Schleifweg 1, 90513 Zirndorf, Fürth (Kreis)
+80809 München
+Auenstr. 10, 82281 Unterschweinbach, Egenhofen
+Faberstraße 4, 81373 München, Sendling-Westpark
+Silcherstraße 19, Milbertshofen, München
+Nürnberger Str. 98, 95448 Bayreuth, Oberkonnersreuth/Meyernreuth
+Schillerstr. 5, 83209 Prien, Prien am Chiemsee
+93047 Regesburg
+Feldmochinger 33, Moosach, München
+Breslaustr. 15, 95028 Hof, Innenstadt
+Schloßberg 3, 86399 Bobingen, Augsburg (Kreis)
+Romanplatz 11, Nymphenburg, München
+Heißstraße 11, 81369 München, Obersendling
+83727 Schliersee
+90411 Nürnberg
+Fürstenbergstr. 23, 80809 München, Schwabing-West
+Kiltrahinger Str. 20a, Gilching, Starnberg (Kreis)
+Hofangerstr. 63, 81735 München, Perlach
+85235 Odelzhausen
+81371 München
+Gebbertstr. 81, 91052 Erlangen, Erlangen Süd
+86609 Donauwörth
+86154 Augsburg
+Chiemseestr. 3, Königsbrunn, Augsburg (Kreis)
+Nibelungenstr. 28, 94032 Passau, Haidenhof Nord
+Wissmannstraße 38, 90411 Nürnberg, Ziegelstein
+Amsterdamerstr. 3, 80805 München, Schwabing
+Hessingstraße 4, 86343 Königsbrunn, Augsburg (Kreis)
+Perzheimstrasse 34, Innenstadt, Augsburg
+Gebbertstr. 38, 91058 Erlangen, Erlangen - Zentrum
+Ziegelackerstr. 10, 95030 Hof, Innenstadt
+Kössener Str. 4, 81373 München, Sendling-Westpark
+87527 Ofterschwang
+Pilotystrasse 29, 90408 Nürnberg, Pirckheimerstraße
+Straßbergerstraße 40, 80809 München, Milbertshofen
+86153 Augsburg
+Pfarrer-Fuchs-Str. 20, 89233 Neu-Ulm, Neu-Ulm (Kreis)
+Meitinger Weg 2, 86156 Augsburg, Bärenkeller
+Sudetenstr. 43, 85051 Ingolstadt, Südwest
+81827 München
+Stephanstr. 4, 95032 Hof, Innenstadt
+Wastl-Witt-Straße 21, Hadern, München
+Puchheim, Fürstenfeldbruck (Kreis)
+Anton-Bruckner-Str. 21, 95030 Hof, Innenstadt
+84579 Unterneukirchen
+Margaretenstraße 0, 82152 Krailling, Starnberg (Kreis)
+Rednitzhembach, Roth (Kreis)
+Tegernseer Landstr. 1, 82054 Sauerlach, München (Kreis)
+83404 Mitterfelden
+81241 München / Pasing
+Am Schenkenfeld 21, 97209 Veitshöchheim, Würzburg (Kreis)
+Helmpertstr. 2, 80687 München, Laim
+Lindentorstraße 1 - 3, 87700 Memmingen, Innenstadt
+Breslaustr. 53, 95028 Hof, Innenstadt
+63739 Aschaffenburg
+Lerchenauer Strasse 17, 80809 München, Schwabing-West
+Giesinger Bahnhofplatz 4, 81539 München, Obergiesing
+83308 Trostberg
+Fürstenriederstraße 171, 81377 München, Sendling-Westpark
+Münchner Straße 22, 83607 Holzkirchen, Miesbach (Kreis)
+90617 Puschendorf
+Melbergasse 4-6, 85570 Markt Schwaben, Ebersberg (Kreis)
+Pfalzstr. 22, 97688 Bad Kissingen, Bad Kissingen (Kreis)
+83278 Traunstein
+97074 Würzburg
+Dresdner Straße 48, 92318 Neumarkt, Neumarkt in der Oberpfalz
+83358 Seebruck
+Jahnstraße 21, 90537 Feucht, Nürnberger Land (Kreis)
+Kleiberstr. 7, 85591 Vaterstetten, Ebersberg (Kreis)
+80538 München
+Agilolfingerstr. 23, 81543 München, Untergiesing
+Klauckestr. 20, 86153 Augsburg, Innenstadt
+Erlangen Nord- Burgberg, Erlangen
+83059 Kolbermoor
+Bäckergasse XX, 86150 Augsburg, Innenstadt
+96047 Bamberg
+Franz-Metzner-Str. 3, 80937 München, Am Hart
+Neuburgerstr. 1, 94032 Passau, Haidenhof Nord
+Lindwurmstraße 145, 80337 München, Ludwigsvorstadt-Isarvorstadt
+87650 Baisweil
+83229 Sachrang
+Widderstraße 83 b, 86167 Augsburg, Lechhausen
+Minoritenweg 6, 93161 Sinzing, Regensburg (Kreis)
+Pinzigweg 41, 95028 Hof, Innenstadt
+Am Vogelsang 2, 85235 Odelzhausen, Dachau (Kreis)
+Knorrstraße -, 80807 München, Milbertshofen
+Gabelsbergerstr. 45, 95028 Hof, Innenstadt
+Kiefernweg 1, 87452 Altusried, Oberallgäu (Kreis)
+Carola-Neher-Straße 14, 81379 München, Obersendling, München
+80634 München
+84034 Landshut
+84051 Ohu
+84453 Mühldorf
+90459 Nürnberg
+Pleinfeld, Weißenburg-Gunzenhausen (Kreis)
+Leuchsstraße 22, 80995 München, Feldmoching
+63755 Alzenau
+Michael-Schober-Ring 28, 85778 Haimhausen, Dachau (Kreis)
+83700 Rottach-Egern
+84036 Kumhausen
+97076 Würzburg
+Frauenaurach, Erlangen
+82054 Sauerlach
+82178 Puchheim
+83131 Nußdorf am Inn
+Bachwiesenweg 4, 85235 Odelzhausen, Dachau (Kreis)
+Judenhof 10, 97525 Schwebheim, Schweinfurt (Kreis)
+95445 Bayreuth
+Geißbergstr. 20 A, 86637 Wertingen, Dillingen an der Donau (Kreis)
+Luitpoldstr. 65c, 87724 Ottobeuren, Unterallgäu (Kreis)
+85646 Anzing
+91091 Großenseebach
+Sebastian-BauerStraße 10-40, 81737 München, Perlach
+Warnbachweg 10, 83556 Griesstätt, Rosenheim (Kreis)
+Teiserstr. 17, 90610 Winkelhaid, Nürnberger Land (Kreis)
+An der Wehrinsel 3, 63785 Obernburg, Obernburg am Main
+86438 Kissing
+Breslauer Weg 45a, 82538 Geretsried, Bad Tölz-Wolfratshausen, gemeindefreies Gebiet
+93059 Regensburg
+Kieferngartenstr. 27a, 80939 München, Freimann
+94330 Aiterhofen
+92355 Velburg-Albertshofen
+Bergstraße 14, 85221 Dachau, Dachau (Kreis)
+84028 Landshut
+Salzweg, Passau (Kreis)
+82449 Uffing
+82340 Feldafing
+85462 Eitting / Reisen
+96114 Hirschaid
+94574 Wallerfing
+Am Vogelherd 27, 84028 Landshut, Peter u. Paul
+94474 Vilshofen
+Wettermühlweg 9, 85290 Geisenfeld, Pfaffenhofen an der Ilm (Kreis)
+84036 Landshut
+83539 83539 Pfaffing - Gde. Frauenneuharting
+82065 Baierbrunn
+84367 Tann
+Wiesenstraße 11, 86356 Neusäß Hammel, Neusäß
+Holzhauser Strasse 17, 86899 Landsberg-West, Landsberg am Lech
+82131 Gauting
+Urdorf 2, 94569 Stephansposching, Deggendorf (Kreis)
+92366 Hohenfels
+Enzianweg 4c, 87544 Blaichach, Oberallgäu (Kreis)
+90766 Fürth
+87650 Lauchdorf
+Witteshoferstr. 5, 86438 Holzheim, Dillingen an der Donau (Kreis)
+86850 Fischach, Ortsteil Wollmetshofen
+82291 Mammendorf
+85253 Erdweg
+96479 Weitramsdorf
+Hochfeld 12, 83135 Schechen, Rosenheim (Kreis)
+83620 Feldkirchen-Westerha
+91595 Burgoberbach
+90471 Nürnberg
+96049 Bamberg
+Landsberger Str 6a, 86949 Windach, Landsberg am Lech (Kreis)
+63834 Sulzbach-Soden
+Zugspitzstr. 0, 82131 Gauting, Starnberg (Kreis)
+81737 München
+Am Hufeisen 13, 85399 Hallbergmoos, Freising (Kreis)
+An der Ziegelei 9a, Baierbrunn, München (Kreis)
+Rodelbahn 10, 96049 Bamberg, Bug
+Karlsbaderstr. 3, 89331 Burgau, Günzburg (Kreis)
+Zehntfeldstrasse 165, 81825 München, Trudering
+91725 Ehingen
+Oberfeldstr. 12, 84367 Tann, Rottal-Inn (Kreis)
+82386 Huglfing
+Tisinstraße 11 a, 82041 Deisenhofen, Oberhaching
+Taufkirchen (Vils), Erding (Kreis)
+83410 Laufen
+Illertissen, Neu-Ulm (Kreis)
+95497 Goldkronach
+85521 Ottobrunn
+83703 Gmund am Tegernsee
+Jagdstrasse 12, 85095 Dörndorf, Denkendorf
+93055 Regensburg Nord - Keilberg
+63867 Johannesberg
+84562 Mettenheim
+85244 Röhrmoos
+89250 Senden
+86482 Aystetten
+Schlegelstraße 15, 86157 Augsburg, Pfersee
+87437 Kempten
+Spatzenweg 5, 82256 Fürstenfeldbruck, Fürstenfeldbruck (Kreis)
+Herzogenaurach, Erlangen-Höchstadt (Kreis)
+82266 Inning am Ammersee
+85107 Baar-Ebenhausen
+Wilhelm-Humser-Str. 22a, 82031 Grünwald, München (Kreis)
+80992 München
+91567 Herrieden Rauenzell
+Roith 1a, 94356 Kirchroth, Straubing-Bogen (Kreis)
+63839 Kleinwallstadt
+Burg 56a, 84543 Winhöring, Altötting (Kreis)
+Forststr. 3, 83730 Fischbachau, Miesbach (Kreis)
+85452 Moosinning
+Nockherstrasse 48, 81541 München, Au
+Pfarrer-Kolberer-Str. 12, 80995 Feldmoching, München
+Streiflacher Str 9b, 82110 Germering, Fürstenfeldbruck (Kreis)
+84144 Geisenhausen
+86757 Wallerstein
+Kohlstattweg 10 A, 82278 Althegnenberg, Fürstenfeldbruck (Kreis)
+83122 Samerberg
+82194 Gröbenzell
+86938 Schondorf
+86167 Augsburg
+85445 Oberding
+Weitenried 3, 85235 Egenburg, Pfaffenhofen an der Glonn
+Senden, Neu-Ulm (Kreis)
+81241 München
+94405 Landau a. d. Isar
+Pienzenauerstraße x, 81925 München, Bogenhausen
+81475 München
+90431 Nürnberg
+Melchior Fanger Str 34, 82205 Gilching, Starnberg (Kreis)
+90574 Roßtal
+83734 Hausham
+Siedlerstraße 38, 84518 Garching Hart an der Alz, Garching an der Alz
+97282 Retzstadt
+89269 Vöhringen
+Pfeiferstr. 16, Scherbsgraben / Billinganlage, Fürth
+90427 Nürnberg
+Lemgoer Strasse 54, 90425 Nürnberg, Wetzendorf
+97080 Dürrbachau
+85560 Ebersberg
+91586 Lichtenau
+93186 Pettendorf - Kneiting
+Brauerstraße 36, 85435 Erding, Erding (Kreis)
+83569 Vogtareuth
+Sudetenstr. 19 a, 63937 Weilbach, Miltenberg (Kreis)
+92275 Hirschbach
+Marie-Curie-Str. 13, 86156 Augsburg, Kriegshaber
+84152 Mengkofen
+90766 Fürth Unterfarrnbach
+85276 pfaffenhofen an der ilm
+Friedenstr. 9, 82166 Gräfelfing, München (Kreis)
+Frickenhöchstadt 12, 91487 Vestenbergsgreuth OT Frickenhöchstadt, Vestenbergsgreuth
+91341 Röttenbach b Forchheim, Oberfr
+86825 Bad Wörishofen, Ot.
+Gräfelfing, München (Kreis)
+85662 Hohenbrunn
+81247 München
+84088 Neufahrn / Niederbayern
+82223 Eichenau
+63831 Schöllkrippen
+95466 Weidenberg
+63928 Eichenbühl
+94526 Metten
+87662 Kaltental
+92690 Pressath
+82282 Unterschweinbach
+84543 Winhöring
+97199 Ochsenfurt
+93485 Rimbach, Oberpf
+94249 Bodenmais
+92421 Schwandorf, Bay
+94094 Rotthalmünster
+92721 Störnstein
+91233 Neunkirchen a. Sand
+84307 Eggenfelden
+94099 Ruhstorf a d Rott
+92269 Fensterbach
+95643 Tirschenreuth
+95506 Kastl b Kemnath, Stadt
+94501 Aidenbach, Niederbay
+94081 Fürstenzell
+84364 Bad Birnbach, Rottal
+92447 Schwarzhofen
+92533 Wernberg-Köblitz
+90475 Nürnberg, Mittelfr
+94051 Hauzenberg, Niederbay
+92281 Königstein
+63776 Mömbris - Dörnsteinbach
+Johannesberg, Aschaffenburg (Kreis)
+91126 Schwabach
+96149 Breitengüßbach
+85235 Oldelzhausen
+Hirschbach, Amberg-Sulzbach (Kreis)
+96215 Lichtenfels
+63863 Eschau
+96242 Sonnefeld
+97274 Leinach
+94447 Plattling
+Oberviechtach, Schwandorf (Kreis)
+83670 Bad Heilbrunn
+Nußdorfer Straße 12, 83022 Rosenheim, Rosenheim-Süd
+Nußdorfer Straße 12, 83098 Brannenburg, Rosenheim (Kreis)
+Stücklenstrasse 12, 81247 München, Obermenzing
+Soldhofstr. 4 A, 81245 München-Aubing, München
+91809 Wellheim- Konstein
+Rödental, Coburg (Kreis)
+Dürrwangen, Ansbach (Kreis)
+95482 Gefrees
+Thon, Nürnberg
+93455 Sattelpeilnstein
+83246 Unterwössen
+82319 Starnberg
+63825 Blankenbach
+92280 Kastl b Amberg, Oberpf
+Jean-Paul-Weg, 96450 Coburg, Coburg-Zentrum
+94121 Salzweg
+91365 Weilersbach
+Aschaffenburger Str. 1,3, 97762 Hammelburg, Bad Kissingen (Kreis)
+85235 Egenburg
+Möwestr. 28, 81827 München, Trudering
+92699 Irchenrieth
+Dorfäcker, 83339 Chieming, Traunstein (Kreis)
+Dorfäcker, 83257 Gstadt, Gstadt am Chiemsee
+81249 München-Lochhausen
+94113 Tiefenbach
+80997 münchen
+94569 Stephansposching
+84533 Stammham am Inn
+81377 München / Hadern
+88145 Hergatz
+Elmberg, 94475 Grafenau, Freyung-Grafenau (Kreis)
+86946 Vilgertshofen
+91207 Oedenberg
+96274 Itzgrund / Schottenstein
+86156 Augsburg-Bärenkeller
+92507 Nabburg
+92536 Pfreimd
+83259 Schleching
+97855 Triefenstein
+83101 Rohrdorf
+94530 Auerbach
+92342 Freystadt
+85521 München
+94541 Grattersdorf
+Wirthfeldweg 3, 82054 Sauerlach, München (Kreis)
+87616 Wald
+95448 Bayreuth
+Donaublick 14, 94130 Obernezll, Obernzell
+94127 Neuburg
+96364 Marktrodach
+94157 Perlesreut
+86574 Petersdorf
+95346 Stadtsteinach
+Brünnleinsweg 128, 90768 Fürth, Dambach / Unterfürberg
+91367 Weißenohe
+82237 Steinebach
+95369 Untersteinach/Kulmbach
+86465 Welden
+Steilweg 2, 95445 Bayreuth, Gartenstadt/Wendelhöfen
+93453 Neukirchen
+97702 Münnerstadt
+Flataustr. 14, 90411 Nürnberg, Marienberg
+81735 München
+Luidlstrasse 12, 86416 Mering, Aichach-Friedberg (Kreis)
+Weingartenstrasse 1, 96160 Geiselwind, Kitzingen (Kreis)
+93199 Zell
+86657 Bissingen
+83365 Nußdorf
+80935 München
+91138 Wassermungenau
+86159 Augsburg
+83022 Rosenheim, Oberbay
+Von-Soden-Str. 50, 90475 Nürnberg, Altenfurt, Moorenbrunn
+96135 Stegaurach
+85748 Garching
+83209 Prien am Chiemsee
+82402 Seeshaupt
+87727 Babenhausen
+91438 Bad Windsheim
+83536 Gars a. Inn
+83377 Vachendorf
+95478 Kemnath
+85232 Günding
+Perlach, München
+94405 Landau an der Isar
+Trudering, München
+94379 Sankt Englmar
+81667 München
+94551 Lalling
+Görzer Straße 99, Ramersdorf, München
+Frauentorstraße 49, 86152 Augsburg, Innenstadt
+Obernburg am Main, Miltenberg (Kreis)
+93086 Wörth an der Donau
+Am Schubertsgarten 10, 97705 Burkardroth, Bad Kissingen (Kreis)
+95463 Bindlach
+Altstadt, Landshut
+Wolfratshauser Str. 38, 81379 München, Obersendling
+Ortenburgerstr. 1, 94474 Vilshofen, Vilshofen an der Donau
+Altstadt, St. Lorenz, Nürnberg
+90402 Nürnberg
+90764 fürth
+Pfleggasse 28, 94469 Deggendorf, Deggendorf (Kreis)
+Breslauer Straße 1, 94526 Metten, Deggendorf (Kreis)
+97320 Buchbrunn
+89415 Laui
+87616 Marktoberdorf
+94036 Passau
+94469 Deggendorf
+Hohenwarter Straße 11, 85276 Pfaffenhofen an der Ilm, Pfaffenhofen an der Ilm (Kreis)
+Am Krautgarten 0, 81243 Pasing, München
+81541 München
+Wallstädter Straße 54, 63811 Stockstadt, Stockstadt am Main
+93155 Hemau
+81669 München
+88138 Weißensberg
+87437 Kempten (Allgäu)
+87541 Hindelang
+95473 Creußen
+Mainaschaff, Aschaffenburg (Kreis)
+91746 Triesdorf
+83714 Schliersee
+83339 Chieming Hart
+82152 Krailling
+96052 Bamberg
+91413 Neustadt a. d. Aisch
+85406 Zolling
+86836 Obermeitingen
+83329 Waging am See
+94518 Spiegelau
+96138 Burgebrach / OT Stappenbach
+63762 Großostheim / Wenigumstadt
+Baubergerstraße 5, 80992 München, Moosach
+95659 Arzberg
+90449 Nürnberg
+90475 Nürnberg / Nürnberg-Fischbach
+86551 Aichach
+63801 Kleinostheim
+86152 Augsburg
+86157 Augsburg
+Nordost, Ingolstadt
+93333 Neustadt
+Reitmayrgässchen 5a, 86152 Augsburg, Innenstadt
+Äussere Bayreuther Straße 53a, 90409 Nürnberg, Schleifweg
+85652 Pliening
+85368 Wang
+97342 Marktsteft
+92526 Oberviechtach
+92421 Schwandorf
+92546 Schmidgaden
+Bachstraße 13, 63762 Großostheim, Aschaffenburg (Kreis)
+95236 Stammbach
+80636 München
+81673 München
+87439 Kempten
+Stadtmühlenfeld 22, 86609 Donauwörth, Donau-Ries (Kreis)
+80539 München
+80801 München
+95126 Schwarzenbach a d Saale
+86825 Bad Wörishofen
+Auerfeldstraße 0, 81541 München, Haidhausen
+95188 Issigau
+Hildburghauser Straße xxx, 12279 Berlin, Lankwitz (Steglitz)
+Mathildenstraße xxx, 12459 Berlin, Oberschöneweide (Köpenick)
+12527 Berlin / Grünau
+10777 Berlin
+13585 Berlin
+Helmstedter Straße 4, 10717 Berlin / Wilmersdorf, Wilmersdorf (Wilmersdorf)
+12203 Berlin
+12357 Berlin
+10437 Berlin
+Chorinerstr 11, 10119 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+10787 Berlin
+10825 Berlin
+Rinkartstraße 18, 12437 Berlin, Baumschulenweg (Treptow)
+Georg-Blank Straße 24, 10409 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+12349 Berlin
+Herrenhausstraße 16, 12487 Berlin, Johannisthal (Treptow)
+Auerstraße 25, 10249 Berlin, Friedrichshain (Friedrichshain)
+10553 Berlin-Moabit
+Weißensee (Weißensee), Berlin
+10997 Berlin
+12103 Berlin-Tempelhof
+12101 Berlin-Tempelhof
+10711 Berlin-Wilmersdorf
+Wittelsbacherstr. 9A, 10707 Berlin, Wilmersdorf (Wilmersdorf)
+12051 Berlin Neukölln
+10178 Berlin
+10715 Berlin
+10555 Berlin
+12101 Berlin
+Alt-Moabit 104A, 10559 Berlin, Tiergarten (Tiergarten)
+Wilhelm-Stolze-Str. 32, 10249 Berlin, Friedrichshain (Friedrichshain)
+10367 Berlin
+10243 Berlin
+10439 Berlin
+12347 Berlin
+13351 Berlin
+13407 Berlin
+10627 Berlin
+10435 Berlin
+Budapester Straße 7-9, 10787 Berlin, Tiergarten (Tiergarten)
+10115 Berlin
+14199 Berlin
+Grünlingweg 15, 12351 Berlin, Buckow (Neukölln)
+12161 Berlin
+Sundgauerstr 105h, 14169 Berlin, Zehlendorf (Zehlendorf)
+10179 Berlin
+Grünlingweg 13, 12351 Berlin, Buckow (Neukölln)
+10965 Berlin
+Germaniastr.27 -, 12099 Berlin, Tempelhof (Tempelhof)
+10405 Berlin
+Eisenacher Str. 63, 10823 Berlin, Schöneberg (Schöneberg)
+Finowstrasse 12, 10247 Berlin, Friedrichshain (Friedrichshain)
+13629 Berlin
+10117 Berlin
+Schillerstraße 19, 13156 Berlin, Niederschönhausen (Pankow)
+Helmstedter Str 19, 10717 Berlin, Wilmersdorf (Wilmersdorf)
+12047 Berlin
+14052 Berlin
+Meller Bogen 18, 13403 Berlin, Reinickendorf (Reinickendorf)
+12685 Berlin
+Lübener Weg 37, 13407 Berlin, Reinickendorf (Reinickendorf)
+Falkenseer Chaussee 214, 13589 Berlin, Spandau (Spandau)
+Nicolaistraße 61a, 12247 Berlin, Lankwitz (Steglitz)
+14169 Berlin
+10709 Berlin
+14165 Berlin
+12051 Berlin
+Giesestraße xxx, 12623 Berlin, Kaulsdorf (Hellersdorf)
+Neunkircherstr 2, 10115 Berlin, Mitte (Mitte)
+Levensauer Straße 00, 12623 Berlin, Mahlsdorf (Hellersdorf)
+13439 Berlin
+Mahlsdorf (Hellersdorf), Berlin
+- 0, 13129 Berlin, Blankenburg (Weißensee)
+13435 Berlin
+13127 Berlin
+12249 Berlin
+14163 Berlin
+10409 Berlin
+- 0, 12353 Berlin, Buckow (Neukölln)
+12107 Berlin
+12307 Berlin-Lichtenrade
+12307 Berlin
+14109 Berlin
+12587 Berlin
+12043 Berlin
+Rahnsdorf (Köpenick), Berlin
+Kladow (Spandau), Berlin
+10589 Berlin
+Marie-Elisabeth-von-Humboldtstr 83, 13057 Berlin, Falkenberg (Hohenschönhausen)
+10711 Berlin
+10559 Berlin
+14055 Berlin
+Berliner Allee 73, 13088 Berlin, Weißensee (Weißensee)
+Friedenstraße 00, 12623 Berlin, Mahlsdorf (Hellersdorf)
+Badener Straße 00, 12623 Berlin, Mahlsdorf (Hellersdorf)
+Finkenwalder Weg 00, 12623 Berlin, Kaulsdorf (Hellersdorf)
+Stepenitzer Weg 00, 12623 Berlin, Kaulsdorf (Hellersdorf)
+12526 Berlin / Bohnsdorf
+12524 Berlin / Altglienicke
+14129 Berlin- Nikolassee
+14089 Berlin-Kladow
+14167 Berlin-Steglitz-Zehlendorf
+13127 Berlin-Pankow-Französisch Buchholz
+14193 Berlin - Grunewald
+14167 Berlin - Steglitz - Zehlendorf
+12107 Berlin - Lankwitz
+Johanna-Spyri-Weg 23, 12205 Berlin, Lichterfelde (Steglitz)
+Röntgentaler Weg 94, 13125 Berlin, Buch (Pankow)
+12547 Berlin
+Stadtrandstraße 546j, 13589 Berlin, Spandau (Spandau)
+12359 Berlin / Britz
+13581 Berlin
+Regattastraße 11, 12527 Berlin, Grünau (Köpenick)
+Gersweilerstraße 26, 12559 Berlin, Müggelheim (Köpenick)
+12309 Berlin-Lichtenrade
+12527 Grünau
+12589 Berlin / Rahnsdorf
+13127 Pankow
+Allee der Kosmonauten 23 c, Friedrichsfelde (Lichtenberg), Berlin
+13509 Berlin
+13505 Berlin
+12589 Berlin
+Lily-Braun-Straße 16, 12619 Berlin, Kaulsdorf (Hellersdorf)
+12247 Berlin
+Charlottenburg (Charlottenburg), Berlin
+Lichtenrade (Tempelhof), Berlin
+12623 Berlin Mahlsdorf
+12683 Berlin
+Zobeltitzstraße 33a, 13403 Berlin, Reinickendorf (Reinickendorf)
+Prinzregentenstr. 63, 10715 Berlin, Wilmersdorf (Wilmersdorf)
+Lieselotte-Berger-Str. 51, 12355 Berlin, Rudow (Neukölln)
+Kummerower Ring 24, 12619 Berlin, Kaulsdorf (Hellersdorf)
+Prinzregentenstr. 75, 10715 Berlin, Wilmersdorf (Wilmersdorf)
+Luzinstr. 26, 12619 Berlin, Kaulsdorf (Hellersdorf)
+Teterower Ring 48, 12619 Berlin, Kaulsdorf (Hellersdorf)
+Tollensestr. 28, 12619 Berlin, Kaulsdorf (Hellersdorf)
+Sonnenallee 161, 12059 Berlin, Neukölln (Neukölln)
+Zinndorfer Str. 5, 12685 Berlin, Marzahn (Marzahn)
+Tollensestr. 31, 12619 Berlin, Kaulsdorf (Hellersdorf)
+Ludwigsluster Str. 91, 12619 Berlin, Kaulsdorf (Hellersdorf)
+Am Wasserbogen 16, 13587 Berlin, Spandau (Spandau)
+David-Francke-Str. 9, 13587 Berlin, Spandau (Spandau)
+Rauchstr. 30, 13587 Berlin, Spandau (Spandau)
+Zinndorfer Str. 7, 12685 Berlin, Marzahn (Marzahn)
+Waltersdorfer Chaussee 176, 12355 Berlin, Rudow (Neukölln)
+Wiesenstraße 19b, 13357 Berlin, Wedding (Wedding)
+Aroser Allee 123, 13407 Berlin, Reinickendorf (Reinickendorf)
+12159 Berlin
+Germaniastraße 134, 12099 Berlin, Tempelhof (Tempelhof)
+Bergfelder Weg 2, 13465 Berlin, Frohnau (Reinickendorf)
+Soldiner Straße 100, 13359 Berlin, Wedding (Wedding)
+Schorfheidestraße 32, 12689 Berlin, Marzahn (Marzahn)
+Belziger Ring 28, 12689 Berlin, Marzahn (Marzahn)
+Brodowiner Ring 33, 12679 Berlin, Marzahn (Marzahn)
+Stierstraße 21, 12159 Berlin, Friedenau (Schöneberg)
+Elly-Heuss-Knapp-Straße 50, 12355 Berlin, Rudow (Neukölln)
+Elly-Heuss-Knapp-Straße 48, 12355 Berlin, Rudow (Neukölln)
+Elly-Heuss-Knapp-Straße 46, 12355 Berlin, Rudow (Neukölln)
+Elly-Heuss-Knapp-Straße 44, 12355 Berlin, Rudow (Neukölln)
+Märkische Allee 188, 12679 Berlin, Marzahn (Marzahn)
+Marchwitzastraße 35, 12681 Berlin, Marzahn (Marzahn)
+Fürstenwalder Damm 353, 12587 Berlin, Friedrichshagen (Köpenick)
+Kilianistraße 4, 12459 Berlin, Oberschöneweide (Köpenick)
+Siemensstraße 14, 12459 Berlin, Oberschöneweide (Köpenick)
+Schlangenbader Straße 38, 14197 Berlin, Wilmersdorf (Wilmersdorf)
+Max-Lingner-Str. 12B, 13189 Berlin, Pankow (Pankow)
+Ziekowstraße 89, 13509 Berlin, Tegel (Reinickendorf)
+Prenzlauer Allee 229, 10405 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Braunschweiger Straße 85, 12055 Berlin, Neukölln (Neukölln)
+Karl-Marx-Straße 221, 12055 Berlin, Neukölln (Neukölln)
+Manteuffelstr. 110, 10997 Berlin, Kreuzberg (Kreuzberg)
+Hansastraße 108 b, 13088 Berlin, Weißensee (Weißensee)
+Hansastraße 108 d, 13088 Berlin, Weißensee (Weißensee)
+Altentreptower Straße 51, 12683 Berlin, Biesdorf (Marzahn)
+Suchlandstraße 12, 12167 Berlin, Steglitz (Steglitz)
+Heinrichstrasse 1, 10317 Berlin, Lichtenberg (Lichtenberg)
+Frankenallee 12, 14052 Berlin, Charlottenburg (Charlottenburg)
+Friedrichrodaer Str. 24, 12249 Berlin, Lankwitz (Steglitz)
+Hedemannstr. 6, 10963 Berlin, Kreuzberg (Kreuzberg)
+Prenzlauer Allee 194, Prenzlauer Berg (Prenzlauer Berg), Berlin
+Ostpreußendamm 123, 12207 Berlin, Lichterfelde (Steglitz)
+Lehmbruckstraße 16, 10245 Berlin, Friedrichshain, Friedrichshain (Friedrichshain)
+Antwerpener Str 13, 13353 Berlin, Wedding (Wedding)
+Chausseestr. 106, 10115 Berlin, Mitte (Mitte)
+Florastraße 15, 12163 Berlin, Steglitz (Steglitz)
+Birkbuschstraße 23, 12167 Berlin, Steglitz (Steglitz)
+Deutschmeisterstr. 17, Lichtenberg (Lichtenberg), Berlin
+Nachtigalplatz 23, 13351 Berlin, Wedding (Wedding)
+Petersallee 12, 13351 Berlin, Wedding (Wedding)
+Emdener Str. 45, 10551 Berlin, Tiergarten (Tiergarten)
+Weißenfelser Str. 32, 12627 Berlin, Hellersdorf (Hellersdorf)
+Schneeberger Str. 19, 12627 Berlin, Hellersdorf (Hellersdorf)
+Westendallee x, 14052 Berlin, Charlottenburg (Charlottenburg)
+Hatzfeldtallee 9, 13509 Berlin, Tegel (Reinickendorf)
+Dardanellenweg 47, 12109 Berlin, Mariendorf (Tempelhof)
+Rückertstraße 14, 10627 Berlin, Charlottenburg (Charlottenburg)
+Saatwinkler Damm 127, 13629 Berlin, Siemensstadt (Spandau)
+Földerichplatz 7, 13595 Berlin, Spandau (Spandau)
+Mollwitzstr. 6, 14059 Berlin, Charlottenburg (Charlottenburg)
+Heilmannring 58a, 13627 Berlin, Charlottenburg (Charlottenburg)
+Wolliner Straße 2/DG, 10435 Berlin, Mitte (Mitte)
+Rückertstraße 11, 10627 Berlin, Charlottenburg (Charlottenburg)
+Neue Krugallee 192, 12437 Berlin, Plänterwald (Treptow)
+Köpenicker Landstr. 231, 12437 Berlin, Plänterwald (Treptow)
+Adolfstraße 0, 12167 Berlin, Steglitz (Steglitz)
+Martin-Wagner-Ring 6B, 12359 Berlin, Britz (Neukölln)
+Martin-Wagner-Ring 22, 12359 Berlin, Britz (Neukölln)
+Dardanellenweg 59, 12109 Berlin, Mariendorf (Tempelhof)
+Groninger Straße 4, 13347 Berlin, Wedding (Wedding)
+Friedrich-Wilhelm-Str. 99, 12099 Berlin, Tempelhof (Tempelhof)
+Gundelfinger Str. 18, 10318 Berlin, Karlshorst (Lichtenberg)
+Dürerplatz 5, 12157 Berlin, Schöneberg (Schöneberg)
+Schliemannstr. 48, 10435 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Liselotte-Herrmann-Straße 32, 10407 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Straßmannstraße 45, 10249 Berlin, Friedrichshain (Friedrichshain)
+Mainzer Straße 26a, 10715 Berlin, Wilmersdorf (Wilmersdorf)
+Ebelingstr. 17, 10249 Berlin, Friedrichshain (Friedrichshain)
+Bernauer Straße 108, 13507 Berlin, Tegel (Reinickendorf)
+Koppenstr. 79/80, 10243 Berlin, Friedrichshain (Friedrichshain)
+Kaiser-Wilhelm-Straße 37, 12247 Berlin, Lankwitz (Steglitz)
+Oberbaumstraße ., 10997 Berlin, Kreuzberg (Kreuzberg)
+Bizetstr. 125, 13088 Berlin, Weißensee (Weißensee)
+Wehneltsteig 6, 13629 Berlin, Siemensstadt (Spandau)
+Borkzeile 21, 13583 Berlin, Spandau (Spandau)
+12437 Berlin
+Bizetstr. 123, 13088 Berlin, Weißensee (Weißensee)
+Rückertstraße 15, 10627 Berlin, Charlottenburg (Charlottenburg)
+Kastanienallee 83, 10435 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Dovestr. 5a, 10587 Berlin-Charlottenburg, Charlottenburg (Charlottenburg)
+Xantener Straße 10, Wilmersdorf (Wilmersdorf), Berlin
+Holbeinstr. 17 b, 12203 Berlin, Lichterfelde (Steglitz)
+Ordensmeisterstr. 49a, 12099 Berlin, Tempelhof (Tempelhof)
+Bernauer Straße 102, 13507 Berlin, Tegel (Reinickendorf)
+Frankfurter Allee 14, 10247 Berlin, Friedrichshain (Friedrichshain)
+Urbanstraße 125, 10967 Berlin, Kreuzberg (Kreuzberg)
+Gierkezeile 15, 10585 Berlin, Charlottenburg (Charlottenburg)
+Drakestraße 66, 12205 Berlin, Lichterfelde (Steglitz)
+Weinbergsweg 8, 10119 Berlin, Mitte (Mitte)
+12347 Berlin-Neukölln
+12163 Berlin
+Binger Str. 1, 14197 Berlin, Wilmersdorf (Wilmersdorf)
+Harzer Str. 33, 12059 Berlin, Neukölln (Neukölln)
+Schönfließer Straße 5, 10439 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Paul-Gerhardt-Ring 31, 13589 Berlin, Spandau (Spandau)
+Königsheideweg 286, Johannisthal (Treptow), Berlin
+Groninger Straße 10, 13347 Berlin, Wedding (Wedding)
+Kilstetterstraße 44, 14167 Berlin, Zehlendorf (Zehlendorf)
+Luisenstr. 30, 12557 Berlin, Köpenick (Köpenick)
+Gehsener Str. 7, 12555 Berlin, Köpenick (Köpenick)
+Thurgauer Str. 56, 13407 Berlin, Reinickendorf (Reinickendorf)
+Goldammerstraße 31, 12351 Berlin, Buckow (Neukölln)
+Landsberger Allee 275, 13055 Berlin, Alt-Hohenschönhausen (Hohenschönhausen)
+Eisenacher Str. 36, 12109 Berlin, Mariendorf (Tempelhof)
+Martin-Wagner-Ring 11A, Britz (Neukölln), Berlin
+Thulestraße 11, 13189 Berlin, Pankow (Pankow)
+Holzkircher Straße 2a, Weißensee (Weißensee), Berlin
+Genter Strasse 58, 13353 Berlin, Wedding (Wedding)
+Silvio-Meier-Str. 3, 10247 Berlin, Friedrichshain (Friedrichshain)
+Scharnweberstraße 31, 10247 Berlin, Friedrichshain (Friedrichshain)
+Steglitz (Steglitz), Berlin
+Goldammerstraße 47, 12351 Berlin, Buckow (Neukölln)
+Gürtelstraße 28, Friedrichshain (Friedrichshain), Berlin
+Rudolf-Reusch-Str. 25, 10367 Berlin, Lichtenberg (Lichtenberg)
+Meiningenallee 1, 14052 Berlin, Charlottenburg (Charlottenburg)
+Luxemburger Strasse 6, 13353 Berlin, Wedding (Wedding)
+Singerstr. 66, 10243 Berlin, Friedrichshain (Friedrichshain)
+Wöhlertstraße 11, 10115 Berlin, Mitte (Mitte)
+Martin-Luther-Str. 125, 10825 Berlin, Schöneberg (Schöneberg)
+Greifswalder Straße 203, 10405 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Dunckerstr. 2, Prenzlauer Berg (Prenzlauer Berg), Berlin
+Knorrpormenade 8, 10245 Berlin, Friedrichshain (Friedrichshain)
+Bundesallee 192, 10717 Berlin, Wilmersdorf (Wilmersdorf)
+Witzlebenstr. 37, 14057 Berlin, Charlottenburg (Charlottenburg)
+Pfalzburger Straße 58, 10717 Berlin, Wilmersdorf (Wilmersdorf)
+Frankfurter Allee 96, 10247 Berlin, Friedrichshain (Friedrichshain)
+Matternstr. 16, 10249 Berlin, Friedrichshain (Friedrichshain)
+Kavalierstraße 6, 13187 Berlin, Pankow (Pankow)
+Bernauer Straße 44, 10435 Berlin, Mitte (Mitte)
+Oderstraße 2, 10247 Berlin, Friedrichshain (Friedrichshain)
+Mertensstraße 5 b, 13587 Berlin, Spandau (Spandau)
+Berliner Str. 23, 10715 Berlin, Wilmersdorf (Wilmersdorf)
+Kölner Damm 66, 12353 Berlin, Buckow (Neukölln)
+Barnhelmstraße 26, 14129 Berlin, Nikolassee (Zehlendorf)
+13589 Berlin
+Orchideenweg 121, 12357 Berlin, Rudow (Neukölln)
+13583 Berlin
+Zehlendorf (Zehlendorf), Berlin
+Attendorner Weg 24, 13507 Berlin, Tegel (Reinickendorf)
+Wendehalsweg 36, 12351 Berlin, Buckow (Neukölln)
+Lappiner Strasse 32, 12683 Berlin, Biesdorf (Marzahn)
+Dürerstraße 20 a, 12203 Berlin, Lichterfelde (Steglitz)
+Am Rollberg 25, 13158 Berlin, Rosenthal (Pankow)
+Lettweilerstrasse 13, 12559 Berlin, Müggelheim (Köpenick)
+Karl-Wilker-Str. 19, 10317 Berlin, Lichtenberg (Lichtenberg)
+Glarner Str. 26, 12205 Berlin, Lichterfelde (Steglitz)
+Gößweinsteiner Gang -, 14089 Berlin, Kladow (Spandau)
+Frank L. Howley Weg xx, 14167 Berlin, Lichterfelde (Steglitz)
+Hilde-Ephraim-Straße 51, 14193 Berlin, Grunewald (Wilmersdorf)
+12109 Berlin
+Viehtrift 34, 10247 Berlin, Friedrichshain (Friedrichshain)
+Grüner Wall 4, 14089 Berlin Kladow, Kladow (Spandau)
+Amselweg 18, 12526 Berlin, Bohnsdorf (Treptow)
+Malchowerstraße 18, 13089 Berlin, Heinersdorf (Weißensee)
+Donnersmarckallee 2, 13465 Berlin, Frohnau (Reinickendorf)
+Rosenfelder Ring 49A/51A, 10315 Berlin, Friedrichsfelde (Lichtenberg)
+Im Grund 9, 13591 Berlin, Staaken (Spandau)
+Lichterfelde (Steglitz), Berlin
+Wendenschloßstr. 26a, 12559 Berlin, Köpenick (Köpenick)
+Stadtrandstraße 546e, 13589 Berlin, Spandau (Spandau)
+13589 Spandau
+14129 Berlin Zehlendorf Nikolassee
+12437 Berlin / Baumschulenweg
+12205 Berlin
+Rex-Waite-Straße 98, 14089 Berlin, Kladow (Spandau)
+Rosenfelder Ring 59A, 10315 Berlin-Lichtenberg, Friedrichsfelde (Lichtenberg)
+Rahnsdorfer Str. 24, 12587 Berlin, Friedrichshagen (Köpenick)
+Distelfinkweg 31, 12357 Berlin, Buckow (Neukölln)
+Stadtrandstr. 550 H, 13589 Berlin, Spandau (Spandau)
+Triftstraße 41, 13127 Berlin, Französisch Buchholz (Pankow)
+Am Iderfenngraben 0, 13156 Berlin - Niederschönhausen, Niederschönhausen (Pankow)
+13599 Berlin
+Otto-von-Simson Str. 25, 14195 Berlin, Dahlem (Zehlendorf)
+Alt Lichtenrade 101, 12309 Berlin, Lichtenrade (Tempelhof)
+Jägerndorfer Zeile 55, 12205 Berlin, Lichterfelde (Steglitz)
+Alzeyweg 2/ Kriemhildstraße , 10365 Berlin, Lichtenberg (Lichtenberg)
+12555 Berlin Köpenick
+Meißner Weg 86 A, 12355 Berlin, Rudow (Neukölln)
+Rüdigerstraße 66 R, 10365 Berlin, Lichtenberg (Lichtenberg)
+Rüdigerstraße 66 M, 10365 Berlin, Lichtenberg (Lichtenberg)
+Drakestr. 51 B, 12205 Berlin, Lichterfelde (Steglitz)
+Finckensteinallee 101, 12205 Berlin, Lichterfelde (Steglitz)
+Horazweg 23, 12109 Berlin, Mariendorf (Tempelhof)
+Warmbrunner Straße 4, 14193 Berlin, Grunewald (Wilmersdorf)
+Daumstraße 100, 13599 Berlin, Haselhorst (Spandau)
+Viehtrift 40, 10247 Berlin, Friedrichshain (Friedrichshain)
+Brunsbütteler Damm 427, 13591 Berlin, Staaken (Spandau)
+Bondickstr. 79, 13469 Berlin, Waidmannslust (Reinickendorf)
+Bundschuhweg 20a, 13465 Berlin, Frohnau (Reinickendorf)
+Zeuschelstraße 30, 13127 Berlin, Französisch Buchholz (Pankow)
+Zeuschelstraße 30, 13227 Berlin, Französisch Buchholz (Pankow)
+Ungewitterweg 0, 13591 Berlin, Staaken (Spandau)
+Marco-Polo-Straße 13, 14089 Berlin, Kladow (Spandau)
+13467 Berlin Hermsdorf
+12681 Berlin
+Schnepfenreuther Weg 32, 13587 Berlin (Hakenfalde), Spandau (Spandau)
+Fahrlander Weg 39, 13591 Berlin, Staaken (Spandau)
+Klosterheider Weg 15, 13467 Berlin, Hermsdorf (Reinickendorf)
+Tannenweg ??, 13587 Berlin, Spandau (Spandau)
+Schwabenallee 45, 12683 Berlin, Biesdorf (Marzahn)
+Tutzinger Str. 27, 12309 Berlin, Lichtenrade (Tempelhof)
+12277 Berlin
+Verdistr. 47, 12623 Berlin, Mahlsdorf (Hellersdorf)
+Alt-Mahlsdorf 99, 12623 Berlin, Mahlsdorf (Hellersdorf)
+Neunkircher Steig 40, 13591 Berlin, Staaken (Spandau)
+12353 Buckow
+10588 berlin Weißensee
+Talweg 40, 13591 Berlin, Staaken (Spandau)
+13159 Berlin
+Eichholzbahn 188-192, 13591 Berlin, Staaken (Spandau)
+Ungewitterweg gegenüber Nr. 29, 13591 Berlin, Staaken (Spandau)
+Beilsteiner Straße 51, 12681 Berlin, Marzahn (Marzahn)
+Theodorstraße 58, 12623 Berlin, Mahlsdorf (Hellersdorf)
+Brentanostraße 42, 12163 Berlin, Steglitz (Steglitz)
+0 0, 12305 Berlin-Lichtenrade, Lichtenrade (Tempelhof)
+Plutoweg 30, 12589 Berlin, Rahnsdorf (Köpenick)
+14641 Paaren
+13587 Berlin-Spandau
+12167 Berlin
+14089 Kladow
+Wernsdorfer Straße 27, 12527 Treptow-Köpenick OT Schmöckwitz, Schmöckwitz (Köpenick)
+Mitte (Mitte), Berlin
+Weg G 27, 12559 Berlin-Müggelheim, Müggelheim (Köpenick)
+10315 Berlin
+Schragenfeldstr., 12685 Berlin, Marzahn (Marzahn)
+Dahlemer Weg 141, 14167 Berlin, Zehlendorf (Zehlendorf)
+13467 Berlin-Hermsdorf
+12589 Berlin-Rahnsdorf
+Jablonskistraße 21, 10405 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+13156 Niederschönhausen (Pankow)
+Anna-Ebermann Straße 10, 13053 Berlin, Alt-Hohenschönhausen (Hohenschönhausen)
+Rodenbacher Gang, 12559 Berlin-Müggelheim, Müggelheim (Köpenick)
+12689 Berlin
+Neuenhagener Straße 47, 12623 Berlin, Mahlsdorf (Hellersdorf)
+Johannisthal (Treptow), Berlin
+.... ..., 12589 Berlin, Rahnsdorf (Köpenick)
+Wilhelm-Stolze-Straße 27, 10249 Berlin, Friedrichshain (Friedrichshain)
+Kaulbach/Bisamstrasse, 12623 Berlin, Mahlsdorf, Mahlsdorf (Hellersdorf)
+10707 Berlin
+Müggelheimer Damm 244-252, 12559 Berlin - Köpenick, Müggelheim (Köpenick)
+Alt-Köpenick 13-Laurenzstrasse1-1a, 12555 Berlin, Köpenick (Köpenick)
+Parchwitzer Straße 171/173, 12526 Berlin, Bohnsdorf (Treptow)
+Ladiusstraße 19, 14165 Berlin, Zehlendorf (Zehlendorf)
+Friederikestraße 26, 13505 Berlin, Konradshöhe (Reinickendorf)
+Kaulbach/BisamStrasse, 12623 Berlin Mahlsdorf, Mahlsdorf (Hellersdorf)
+12562 Berlin
+13156 Berlin Niederschönhausen
+14167 Zehlendorf
+Fregestr. 79, 12159 Berlin, Schöneberg (Schöneberg)
+Dorotheastr. 4, 10318 Berlin, Karlshorst (Lichtenberg)
+Alte Jakobstraße 48, 10179 Berlin / Mitte, Mitte (Mitte)
+Albertinenstraße 5c, 13086 Berlin, Weißensee (Weißensee)
+13055 Berlin
+Alte Jakobstraße 51, 10179 Berlin / Mitte, Mitte (Mitte)
+12627 Berlin
+10781 Berlin
+Heinrich-Seidel-Str. 17, 12167 Berlin, Steglitz (Steglitz)
+Bundesallee 141, 12161 Berlin, Friedenau (Schöneberg)
+Nithackstr. 17, 10585 Berlin, Charlottenburg (Charlottenburg)
+Unter den Eichen 94b, 12205 Berlin, Lichterfelde (Steglitz)
+Wilhelmsaue 19, 10715 Berlin, Wilmersdorf (Wilmersdorf)
+Transvaalstr. 6, 13351 Berlin, Wedding (Wedding)
+Bismarckstr. 1, 12157 Berlin, Steglitz (Steglitz)
+Pichelsdorfer Str. 37, 13595 Berlin, Spandau (Spandau)
+Ahornstr. 25, 12163 Berlin, Steglitz (Steglitz)
+Schwedenstr. 3B, 13357 Berlin, Wedding (Wedding)
+12439 Berlin
+Lüderitzstr. 55, 13351 Berlin, Wedding (Wedding)
+Bismarckstr. 70, 10627 Berlin, Charlottenburg (Charlottenburg)
+Wielandstr. 6, 10625 Berlin, Charlottenburg (Charlottenburg)
+Sophie-Charlotten-Str. 105 H, 14059 Berlin, Charlottenburg (Charlottenburg)
+Babelsberger Str. 52, 10715 Berlin, Wilmersdorf (Wilmersdorf)
+Bismarckstr. 69, 10627 Berlin, Charlottenburg (Charlottenburg)
+Ringbahnstr. 14, 10711 Berlin, Wilmersdorf (Wilmersdorf)
+Darmstädter Str. 8, 10707 Berlin, Wilmersdorf (Wilmersdorf)
+Mittelstr. 8, 13585 Berlin, Spandau (Spandau)
+Oberhofer Weg 26, 12209 Berlin, Lichterfelde (Steglitz)
+Nordkapstr. 4, 10439 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Schwalbacher Str. 10, 12161 Berlin, Friedenau (Schöneberg)
+Güntzelstr. 24, 10717 Berlin, Wilmersdorf (Wilmersdorf)
+Gieselerstr. 28, 10713 Berlin, Wilmersdorf (Wilmersdorf)
+Riemenschneiderweg 22, 12157 Berlin, Schöneberg (Schöneberg)
+Riemenschneiderweg 18, 12157 Berlin, Schöneberg (Schöneberg)
+Menzelstr. 31, 12157 Berlin, Schöneberg (Schöneberg)
+Markelstr. 16, 12163 Berlin, Steglitz (Steglitz)
+Knesebeckstr. 6, 12205 Berlin, Lichterfelde (Steglitz)
+Haubachstraße 19, 10585 Berlin, Charlottenburg (Charlottenburg)
+Bismarckstraße 70, 10627 Berlin, Charlottenburg (Charlottenburg)
+Haubachstraße 17, 10585 Berlin, Charlottenburg (Charlottenburg)
+Letteallee 80, 13409 Berlin, Reinickendorf (Reinickendorf)
+Homburger Straße 8, 14197 Berlin, Wilmersdorf (Wilmersdorf)
+Heinrich-Seidel-Straße 17, 12167 Berlin, Steglitz (Steglitz)
+Kaiser-Friedrich-Straße 6, 10585 Berlin, Charlottenburg (Charlottenburg)
+Darmstädter Straße 8, 10707 Berlin, Wilmersdorf (Wilmersdorf)
+Liselotte-Herrmann-Straße 37, 10407 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Hauptstr. 77, 12159 Berlin, Friedenau (Schöneberg)
+Homburger Str. 8, 14197 Berlin, Wilmersdorf (Wilmersdorf)
+Haubachstr. 17, 10585 Berlin, Charlottenburg (Charlottenburg)
+12053 Berlin
+12459 Berlin
+Proskauer Straße 35, 10247 Berlin, Friedrichshain (Friedrichshain)
+Schliemannstr. 34, 10437 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+13593 Berlin
+13585 Berlin / Spandau
+Alt-Mariendorf 25d, 12107 Berlin, Mariendorf (Tempelhof)
+Alt-Mariendorf 27c, 12107 Berlin, Mariendorf (Tempelhof)
+Alt-Mariendorf 27d, 12107 Berlin, Mariendorf (Tempelhof)
+12555 Berlin / Köpenick
+Uhlandstr. 58 a, 13156 Berlin, Niederschönhausen (Pankow)
+Waldstr. 29, 13156 Berlin, Niederschönhausen (Pankow)
+Dänenstr. 00, 10439 Berlin, Prenzlauer Berg (Prenzlauer Berg)
+Schnellerstraße xx, 12437 Berlin, Baumschulenweg (Treptow)
+Uhlandstr. 58, 13156 Berlin, Niederschönhausen (Pankow)
+12279 Berlin
+Parrisiusstr. 31, 12555 Berlin, Köpenick (Köpenick)
+Goethestraße xx, 10625 Berlin, Charlottenburg (Charlottenburg)
+Giesensdorfer Str. 18a, 12207 Berlin, Lichterfelde (Steglitz)
+Giesensdorfer Str. 18, 12207 Berlin, Lichterfelde (Steglitz)
+Schlüterstrasse 60, 10625 Berlin, Charlottenburg (Charlottenburg)
+13407 Berlin / Reinickendorf
+Rummelsburg (Lichtenberg), Berlin
+Dietrich-Heßmer-Platz xxx, 01979 Lauchhammer, Oberspreewald-Lausitz (Kreis)
+Glienicker Dorfstraße xxx, 14469 Potsdam, Groß Glienicke
+14467 Potsdam
+14471 Potsdam
+14712 Semlin
+Birkenhof 51, 16767 Leegebruch, Oberhavel (Kreis)
+Adornostraße 36, 14612 Falkensee, Havelland (Kreis)
+16761 Hennigsdorf
+16552 Schildow
+15366 Berlin
+Berliner Straße 21 A/B, 14612 Falkensee, Havelland (Kreis)
+16761 Henningsdorf
+Ringstraße 6, 14550 Groß Kreutz OT Götz, Groß Kreutz (Havel)
+14473 Potsdam
+Yorckstraße 38 A, 15749 Mittenwalde, Dahme-Spreewald (Kreis)
+14770 Brandenburg
+An der Zeistritz 14, 14797 Kloster Lehnin OT Göhlsdorf, Kloster Lehnin
+16727 Velten
+14553 Michendorf
+16540 Hohen Neuendorf
+Im Kamp 54, 14532 Kleinmachnow, Potsdam-Mittelmark (Kreis)
+15745 Wildau
+Johann-Sebastian-Bach-Straße 4, 16833 Fehrbellin, Ostprignitz-Ruppin (Kreis)
+Stahnsdorfer Straße 91, 14482 Potsdam, Babelsberg Süd
+03044 Cottbus
+14979 Kleinbeeren
+15838 Am Mellensee OT Rehagen
+15890 Eisenhüttenstadt
+Birkenhof 17, 16767 Leegebruch, Oberhavel (Kreis)
+An der Viehtrift 35, 16321 Bernau, Bernau bei Berlin
+Zum Weiher 30, 14552 Wildenbruch, Michendorf
+Horst-Bienek-Straße 11-13, 14469 Potsdam, Bornstedt
+14827 Medewitz
+15834 Dahlewitz
+16562 Bergfelde
+15230 Frankfurt Oder
+15517 Fürstenwalde
+16547 Birkenwerder
+Gartenstraße 2, 16303 Schwedt/Oder, Uckermark (Kreis)
+Tschudistrasse 6, 14476 Potsdam-Neu Fahrland, Potsdam
+Steinstraße 128, 14482 Potsdam, Babelsberg Süd
+14467 Potdam
+Bahnhofstr. 57c, 14624 Dallgow-Döberitz, Havelland (Kreis)
+Zehlendorfer Damm 186a, 14532 Kleinmachnow, Potsdam-Mittelmark (Kreis)
+Dammstraße xxx, 14641 Nauen, Havelland (Kreis)
+Cottbuser Straße xxx, 03238 Finsterwalde, Elbe-Elster (Kreis)
+Neu Fahrland, Potsdam
+Wilhelm- Guse- Str. 18, 16321 Rüdnitz, Barnim (Kreis)
+Leipziger Straße 3-4, 14473 Potsdam, Templiner Vorstadt
+15834 Groß Machnow
+Emile-Zola-Str. 35, 16540 Hohen Neuendorf, Oberhavel (Kreis)
+An den Schäferpfühlen 53, 16321 Bernau, Bernau bei Berlin
+14476 Fahrland
+Körnerstraße 4a, 15366 Neuenhagen, Neuenhagen bei Berlin
+Niederheidenstraße 109- 111, 15366 Neuenhagen, Neuenhagen bei Berlin
+Linzer Straße x, 16341 Panketal/OT Schwanebeck, Panketal
+Harnackstr. 12, 16835 Lindow, Lindow (Mark)
+14913 Niedergörsdorf, Teltow-Fläming (Kreis)
+15366 Hoppegarten
+Bahnhofsplatz 2, 15526 Bad Saarow, Oder-Spree (Kreis)
+Geschwister Scholl Strasse 72, 14471 Potsdam, Potsdam West
+Stauffenbergstraße 4, 16356 Werneuchen, Barnim (Kreis)
+14547 Beelitz
+15345 Altlandsberg
+14974 Ludwigsfelde
+14542 Werder (Havel)
+14482 Potsdam / Babelsberg
+Am Alten Markt / Brauerstraße 1, 14467 Potsdam, Nördliche Innenstadt
+Birkenhof 65, 16767 Leegebruch, Oberhavel (Kreis)
+Dissenchener Turnstraße xxx, 03052 Dissenchen, Cottbus
+Am Eichengraben xxx, 03149 Forst (Lausitz), Spree-Neiße (Kreis)
+Luisenstraße 2, 16798 Fürstenberg, Fürstenberg/Havel
+Drosselweg 19, 14979 Großbeeren, Teltow-Fläming (Kreis)
+E.-Steinfurth-Str. 47/48, 16227 Eberswalde, Barnim (Kreis)
+Wohnpark am Stienitzsee 50, 15378 Hennickendorf, Rüdersdorf bei Berlin
+14476 Groß Glienicke
+Teltower Str. 4, 15831 Mahlow, Blankenfelde-Mahlow
+16845 Großderschau
+14797 Kloster Lehnin
+03058 Neuhausen
+14715 Havelaue OT Strodehne
+16559 Liebenwalde
+Dorfstr. 45, 16866 Schrepkow, Gumtow
+15913 Goyatz
+15370 Petershagen
+Stolpe Mühle 24, 16278 Stolpe Stadt Angermünde, Uckermark (Kreis)
+14480 Potsdam - Babelsberg
+03253 Schönborn
+15741 Gräbendorf
+15755 Teupitz
+15366 Neuenhagen bei Berlin
+15518 Steinhöfel
+16833 Protzen
+15236 Frankfurt
+14979 Großbeeren
+16845 Breddin OT Damelack
+04932 Röderland
+03222 Lübbenau
+16269 Wriezen
+16227 Erberswalde OT Finow
+03159 Neiße-Malxetal
+01983 Großräschen
+15537 Kagel - Möllensee
+14959 Trebbin
+14789 Wusterwitz
+15370 Petershagen / Eggersdorf
+14476 Potsdam OT Fahrland
+Vierwaldstätter Strasse 78A, 16341 Panketal, Barnim (Kreis)
+15738 Zeuthen , bei Königs Wusterhausen
+14979 Grossbeeren
+Schöne Sackgasse 1, 14612 Falkensee, Havelland (Kreis)
+Fercher Straße 157, 14542 Petzow, Werder (Havel)
+Martin Luther Straße 1, 17268 Templin, Uckermark (Kreis)
+Ernst Thälmann Straße 29, 17291 Nordwestückermark, Nordwestuckermark
+Weselitz 26, 17291 Uckerfelde, Uckermark (Kreis)
+16866 Kyritz
+str. der Freundschaft 2, 15518 Steinhöfel, Oder-Spree (Kreis)
+14715 Stechow-Ferchesar
+16556 Hohen Neuendorf
+Luckenwalde, Teltow-Fläming (Kreis)
+Fahrland-Ortslage ., 14476 Potsdam/Fahrland, Uetz-Paaren
+14712 Rathenow
+15913 Schwielochsee
+16949 Putlitz
+15328 Küstriner Vorland
+19309 Lenzen
+Schönefeld, Dahme-Spreewald (Kreis)
+17291 Prenzlau
+15712 Königs Wusterhausen
+16792 Zehdenick
+Fredersdorf-Vogelsdorf, Märkisch-Oderland (Kreis)
+Hoppegarten, Märkisch-Oderland (Kreis)
+Rüdersdorf bei Berlin, Märkisch-Oderland (Kreis)
+Petershagen/Eggersdorf, Märkisch-Oderland (Kreis)
+Strausberg, Märkisch-Oderland (Kreis)
+15898 Neuzelle
+15537 Gosen-Neu Zittau
+15295 Brieskow-Finkenherd
+15326 Lebus
+15846 Wendisch Rietz
+15848 Beeskow
+15526 Bad Saarow
+15859 Storkow
+15234 Frankfurt/Oder
+14542 Werder/Havel
+16775 Löwenberger Land
+16259 Oderaue
+16248 Oderberg
+16766 Kremmen
+16766 Sommerfeld
+14554 Seddin
+19273 Amt Neuhaus
+Schlepkow 10, 17337 Schlepkow, Uckerland
+15537 Erkner
+Beim Anbieter anfragen -, 14547 Fichtenwalde, Beelitz
+15569 Woltersdorf
+01968 Senftenberg
+15299 Müllrose
+03172 Schenkendöbern
+15345 Petershagen-Eggersdorf
+16775 Menz
+16515 Mühlenbecker Land / OT Zühlsdorf
+14931 Jüterbog
+16515 Oranienburg-Schmachtenhagen
+15959 Trebbin
+15806 Saalow
+15711 Königs Wusterhausen
+15827 Blankenfelde
+16341 Panketal
+16866 Gumtow OT Brüsenhagen
+03103 Neupetershain
+03130 Spremberg
+14662 Friesack
+16816 Neuruppin
+14827 Wiesenburg
+16818 Katerbow
+16548 Glienicke
+15732 Eichwalde
+15345 Rehfelde
+Bebelweg 1a, 14913 Jüterbog, Niedergörsdorf
+15562 Rüdersdorf bei Berlin
+15848 Tauche
+Mühlenstraße ., 14532 Stahnsdorf, Potsdam-Mittelmark (Kreis)
+16909 Königsberg
+Kaiser-Friedrich-Str. SW 1, 14469 Potsdam, Bornstedt
+Kaiser-Friedrich-Str. 1, 14469 Potsdam, Bornstedt
+Zielona-Gora-Straße 1, 03048 Cottbus, Sachsendorf
+Lobedanstraße 2, 03046 Cottbus, Stadtmitte
+Georg-Schlesinger-Straße 6, 03042 Cottbus, Sandow
+Schulstraße 20, 15230 Frankfurt (Oder), Gubener Vorstadt
+Werbelliner Str. 29, 16225 Eberswalde, Barnim (Kreis)
+Schwedter Straße 90, 17291 Prenzlau, Uckermark (Kreis)
+Joseph-Haydn-Str. 27, 15831 Mahlow, Blankenfelde-Mahlow
+Köhlerstraße 83, 14547 Beelitz OT Fichtenwalde, Beelitz
+Dr.-Albert-Schweitzer-Str. 12, 14554 Seddiner See OT Neuseddin, Seddiner See
+Nordstr. 5e, 15517 Fürstenwalde, Fürstenwalde/Spree
+Friedrich-Engels-Straße 19 a, 14473 Potsdam, Teltower Vorstadt
+Bahnhofstraße 12 b, 15526 Bad Saarow, Oder-Spree (Kreis)
+Bahnhofstraße 11 d, 15526 Bad Saarow, Oder-Spree (Kreis)
+Am Kolonieweg 123, 14798 Havelsee, Potsdam-Mittelmark (Kreis)
+16909 Wittstock
+15517 Fürstenwalde/Spree
+Karl-Marx-Str. 4, 15711 Königs Wusterhausen, Dahme-Spreewald (Kreis)
+Finowstr. 1, 16321 Bernau, Bernau bei Berlin
+Dorfstr. 6a, 14778 Radewege, Beetzsee
+Berliner Str. 80 a, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Berliner Str. 83, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Berliner Str. 84, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Berliner Str. 80 b, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Mittelstraße 15, 16516 Oranienburg, Oberhavel (Kreis)
+An den Schäferpfühlen 13, 16321 Bernau, Bernau bei Berlin
+Am Sportplatz 7B, 15806 Glienick bei Ludwigsfelde, Zossen
+Arthur Borghard Weg 2, 14548 Schwielowsee OT Ferch, Schwielowsee
+An den Eichen 6 b, 14513 Ruhlsdorf, Teltow
+Ernst-Thälmann-Straße 12a, 15562 Rüdersdorf, Rüdersdorf bei Berlin
+Schillerstraße 5, 14532 Kleinmachnow, Potsdam-Mittelmark (Kreis)
+Johnepark 79B, 15806 Zossen, Teltow-Fläming (Kreis)
+Fritz-Reuter-Strße 1a, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Geschw.-Scholl-Str. 8, 15907 Lübben (Spreewald), Dahme-Spreewald (Kreis)
+Theodor-Fontane-Str. 6, 15907 Lübben (Spreewald), Dahme-Spreewald (Kreis)
+Theodor-Fontane-Str. 24, 15907 Lübben (Spreewald), Dahme-Spreewald (Kreis)
+Coburger Straße 57, 14612 Falkensee, Havelland (Kreis)
+Am Wachtelberg 8, 14542 Werder, Werder (Havel)
+01990 Großkmehlen
+03253 Doberlug-Kirchhain
+14665 Mühlenberge OT Senzke
+Vincentstraße 11, 17291 Prenzlau, Uckermark (Kreis)
+Robert-Schulz-Ring 31, 17291 Prenzlau, Uckermark (Kreis)
+14776 Brandenburg an der Havel
+Erich-Mühsam-Straße 1, 16547 Birkenwerder, Oberhavel (Kreis)
+Dr.-Albert-Schweitzer-Str. 16, 14554 Seddiner See OT Neuseddin, Seddiner See
+14806 Belzig
+Am Wachtelberg 13, 14542 Werder (Havel), Potsdam-Mittelmark (Kreis)
+Humboldtring 7, 14473 Potsdam, Südliche Innenstadt
+Humboldtring 1, 14473 Potsdam, Südliche Innenstadt
+Bahnhofstraße 20A, 14943 Luckenwalde, Teltow-Fläming (Kreis)
+Fontaneplatz 1, 15711 Königs Wusterhausen, Dahme-Spreewald (Kreis)
+Biberkiez 37, 14478 Potsdam, Schlaatz
+Aprikosenweg 1, 14542 Werder, Werder (Havel)
+Berliner Str. 54, 16761 Hennigsdorf, Oberhavel (Kreis)
+Dorfstr. 51, 16816 Nietwerder, Neuruppin
+Karl-Marx-Straße 17, 15230 Frankfurt (Oder), Stadtmitte
+Breite Straße 10, 16727 Oberkrämer/OT Marwitz, Oberkrämer
+Gartenstraße 15, 14476 Potsdam OT Fahrland, Potsdam
+Ziolkowskistraße 48, 14480 Potsdam, Stern
+Leiblstraße 19 a, 14195 Potsdam, Nördliche Innenstadt
+03051 Cottbus
+Ruhlsdorfer Straße 89, 14532 Stahnsdorf, Potsdam-Mittelmark (Kreis)
+Mühlenstraße 12 + 12b, 01983 Großräschen, Oberspreewald-Lausitz (Kreis)
+Philipp-Melanchthon-Straße 40, 03050 Cottbus, Spremberger Vorstadt
+Dresdener Straße 5, 03050 Cottbus, Spremberger Vorstadt
+Leipziger Straße 16, Spremberger Vorstadt, Cottbus
+Mühlenstraße 12b, 01983 Großräschen, Oberspreewald-Lausitz (Kreis)
+Klosterstraße 4a, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Bauhofstraße 43, 14776 Brandenburg, Neustadt
+Dahmsdorfer Straße 4b, 15377 Waldsieversdorf, Märkisch-Oderland (Kreis)
+Paul-Schreier-Straße 39, 16761 Hennigsdorf, Oberhavel (Kreis)
+Geschwister-Scholl-Straße 5, 14471 Potsdam, Brandenburger Vorstadt
+Rigaer Straße 6, 16761 Hennigsdorf, Oberhavel (Kreis)
+Maxim-Gorki-Straße 14, 14974 Ludwigsfelde, Teltow-Fläming (Kreis)
+Albert-Tanneur-Straße 5/7, 14974 Ludwigsfelde, Teltow-Fläming (Kreis)
+Maxim-Gorki-Straße 8, 14974 Ludwigsfelde, Teltow-Fläming (Kreis)
+Maxim-Gorki-Straße 20, 14974 Ludwigsfelde, Teltow-Fläming (Kreis)
+Bahnhofsring 16, 16225 Eberswalde, Barnim (Kreis)
+Werbelliner Str. 8, 16225 Eberswalde, Barnim (Kreis)
+Werbelliner Str. 6, 16225 Eberswalde, Barnim (Kreis)
+Hindersinstraße 5, 16225 Eberswalde, Barnim (Kreis)
+Brunoldstraße 2, 16225 Eberswalde, Barnim (Kreis)
+Gartenstraße 27, 17268 Templin, Uckermark (Kreis)
+Oderberger Str. 30, 16278 Angermünde, Uckermark (Kreis)
+Templiner Str. 39, 16278 Angermünde, Uckermark (Kreis)
+Templiner Str. 38, 16278 Angermünde, Uckermark (Kreis)
+Templiner Str. 35, 16278 Angermünde, Uckermark (Kreis)
+01987 Schwarzheide
+Dortustraße 71A, 14467 Potsdam, Nördliche Innenstadt
+Theodor-Fontane-Straße 6, 15907 Lübben (Spreewald), Dahme-Spreewald (Kreis)
+Parkstraße 24a, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Michaelisstr. 10, 16225 Eberswalde, Barnim (Kreis)
+Robert-Havemann-Straße 1a, 15517 Fürstenwalde/Spree, Oder-Spree (Kreis)
+Schwedter Straße 52c, 17291 Prenzlau, Uckermark (Kreis)
+Flämingstr. 39, 16227 Eberswalde, Barnim (Kreis)
+14822 Borkheide
+Miersdorfer Chaussee 3, 15738 Zeuthen, Dahme-Spreewald (Kreis)
+Eisenbahnstraße 31 b, 15517 Fürstenwalde, Fürstenwalde/Spree
+Sperberstr. 0, 14532 Stahnsdorf, Potsdam-Mittelmark (Kreis)
+Brückenstr. 32, 14913 Jüterbog, Teltow-Fläming (Kreis)
+Straße des Friedens 3, 16278 Angermünde, Uckermark (Kreis)
+Saarmunder Str. 25, 14478 Potsdam, Waldstadt II
+Erich-Weinert-Str. 9, 14478 Potsdam, Waldstadt I
+Am Hirschsprung 9, 16348 Wandlitz, Barnim (Kreis)
+Zehlendorfer Damm 126, 14532 Kleinmachnow, Potsdam-Mittelmark (Kreis)
+Weinbergstr. 17, 16321 Bernau, Bernau bei Berlin
+Berliner Straße 71d, 14467 Potsdam, Berliner Vorstadt
+Linienstraße 15, 14776 Brandenburg, Neustadt
+Wittstocker Str. 12, 16227 Eberswalde, Barnim (Kreis)
+Frankfurter Allee 5, 16227 Eberswalde, Barnim (Kreis)
+Zum Schwärzesee 59, 16227 Eberswalde, Barnim (Kreis)
+Theodor-Kerkow-Allee 12, 14641 Nauen, Havelland (Kreis)
+Karl-Marx-Straße 17, 12529 Großziethen, Schönefeld
+Gubener Straße 31 b, 15230 Frankfurt (Oder), Gubener Vorstadt
+Am Kirchplatz 13, 15838 Wünsdorf, Zossen
+Wilhelmstraße 26, 16225 Eberswalde, Barnim (Kreis)
+Flämingstr. 23, 16227 Eberswalde, Barnim (Kreis)
+Wilhelmstraße 2, 16225 Eberswalde, Barnim (Kreis)
+Johann-Sebastian-Bach-Str. 30, 15732 Eichwalde, Dahme-Spreewald (Kreis)
+Zum Schwärzesee 29, 16227 Eberswalde, Barnim (Kreis)
+Zum Schwärzesee 27, 16227 Eberswalde, Barnim (Kreis)
+Karl-Liebknecht-Straße 91, 14482 Potsdam Babelsberg, Babelsberg Nord
+Felgentreuer Dorfstr. 22, 14947 Nuthe-Urstromtal (OT Felgentreu), Nuthe-Urstromtal
+Zum Schwärzesee 13, 16227 Eberswalde, Barnim (Kreis)
+An den Pfühlen 24, 16348 Wandlitz, Barnim (Kreis)
+Zum Schwärzesee 11, 16227 Eberswalde, Barnim (Kreis)
+Haslacher Str. 1, 14656 Brieselang, Havelland (Kreis)
+Brautstraße 30, 16225 Eberswalde, Barnim (Kreis)
+Hannes-Meyer-Straße 8, 14469 Potsdam, Bornstedt
+Hansastraße 1, 14612 Falkensee, Havelland (Kreis)
+Steinstraße 19, 17291 Prenzlau, Uckermark (Kreis)
+Steinstraße 7, 17291 Prenzlau, Uckermark (Kreis)
+Karl-Marx-Straße 48, 03130 Spremberg, Spree-Neiße (Kreis)
+14715 Milower Land
+Ernst-Thälmann-Straße 12, 03130 Schwarze Pumpe, Spremberg
+Walter-Korsing-Straße 6, 15230 Frankfurt (Oder), Gubener Vorstadt
+Glockenblumenweg 19, 15566 Schöneiche bei Berlin, Oder-Spree (Kreis)
+Peter-Model-Str. 41, 03044 Cottbus, Schmellwitz
+An der Feuerwehr 16, 15366 Dahlwitz-Hoppegarten, Märkisch-Oderland (Kreis)
+15378 Hennickendorf
+Carmzow 25, 17291 Carmzow-Wallmow, Uckermark (Kreis)
+15907 Lübben (Spreewald)
+Kastaniensteig 3, 16515 Oranienburg, Oberhavel (Kreis)
+Waldweg 5c, 15526 Bad Saarow, Oder-Spree (Kreis)
+14565 Brieselang
+Geschwister-Scholl-Ring 18, 15526 Bad Saarow, Oder-Spree (Kreis)
+15299 Mixdorf
+Buchenallee 101, 16341 Panketal, Barnim (Kreis)
+Verdistraße 29, 14558 Bergholz-Rehbrücke, Nuthetal
+Wiesenstraße 13, 14913 Jüterbog, Teltow-Fläming (Kreis)
+Luisenaue 7, 15859 Wendisch Rietz, Oder-Spree (Kreis)
+Luisenaue 90, 15864 Wendisch Rietz, Oder-Spree (Kreis)
+Rudolf-Breitscheid-Straße 113b, 14482 Potsdam, Babelsberg Nord
+Ginsterweg 6, 14624 Dallgow-Döberitz, Havelland (Kreis)
+Zum Schwanenufer 16 B, 16816 Neuruppin, Ostprignitz-Ruppin (Kreis)
+Ahornring 6, 15806 Zossen, Teltow-Fläming (Kreis)
+16359 Biesenthal / Danewitz
+Ringstraße 8c, 12529 Schönefeld, OT Waltersdorf, Schönefeld
+Ortwig, Bauerndorf 19 A, 15324 Letschin, Märkisch-Oderland (Kreis)
+03096 Burg
+Iserstrasse 9, 14513 Teltow, Kleinmachnow
+Iserstrasse 9, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Berkholz 29, 17268 Boitzenburger Land, Uckermark (Kreis)
+Alte Försterei 1, 15711 Königs Wusterhausen, Dahme-Spreewald (Kreis)
+Triftstr. 63, 16348 Wandlitz, Barnim (Kreis)
+Alberta-Straße 2, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Promenadenweg 31, 14532 Kleinmachnow, Potsdam-Mittelmark (Kreis)
+Kremmen, Oberhavel (Kreis)
+Gartenstraße 14, 03238 Lieskau, Lichterfeld-Schacksdorf
+Kulmbacherstr. 10A, 14612 Falkensee, Havelland (Kreis)
+An den Eisbergstücken 3A, 14476 Potsdam, Fahrland
+14776 Brandenburg
+Arndtstr. 33, 15370 Fredersdorf-Vogelsdorf, Märkisch-Oderland (Kreis)
+Am Kiesgrund 30 D, Glienicke/Nordbahn, Oberhavel (Kreis)
+Fließstraße 14, 15345 Eggersdorf, Petershagen/Eggersdorf
+Gartenstr. 1, 15562 Rüdersdorf, Rüdersdorf bei Berlin
+14662 Mühlenberge
+Ringstraße 38, 14476 Potsdam, Neu Fahrland
+Falkenweg 16, 14624 Dallgow-Döberitz, Havelland (Kreis)
+14162 Falkensee (Ortsteil Waldheim)
+Hohen Neuendorfer Weg 11, 16547 Birkenwerder, Oberhavel (Kreis)
+Manitoba-Straße 16, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Grabowseeweg 2 f, 16515 Schmachtenhagen, Oranienburg
+Hamilton-Straße 23, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Hamilton-Straße 17, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Manitoba-Str. 18, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Spitzahornweg 2, 16567 Schönfließ, Mühlenbecker Land
+von-Stechow-Str. 10a, 14476 Potsdam, Fahrland
+von-Stechow-Str. 10, 14476 Potsdam, Fahrland
+14548 Schwielowsee OT Caputh
+Roskastanie 20, 14469 Potsdam, Eiche
+Westendweg 65, 16227 Eberswalde, Barnim (Kreis)
+Am Krongut 23, 14469 Potsdam, Bornstedt
+Breitestraße Ecke Bäckerstraße 12, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Gartenstr. 2, 15562 Rüdersdorf, Rüdersdorf bei Berlin
+Am Hörstegraben 31 a, 16727 Oberkrämer, Oberhavel (Kreis)
+Hafergasse 4, 15732 Schulzendorf, Dahme-Spreewald (Kreis)
+Am Waldweg 3A, 16321 Bernau, Bernau bei Berlin
+Schrepkow 37, 16866 Gumtow, Prignitz (Kreis)
+Manitoba-Str. 6, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+16567 Mühlenbeck / OT Summt
+Hamilton-Straße 19, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Labrador-Straße 6, Teltow, Potsdam-Mittelmark (Kreis)
+19322 Wittenberge
+Amselweg 17, 15711 Königs Wusterhausen, Dahme-Spreewald (Kreis)
+Beethovenstr. 80, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Friedhofstraße 00, 16727 Berlin, Oberkrämer
+An den Eichen 12, 14513 Teltow-Ruhlsdorf, Teltow
+Roßkastanienstraße 37, 14469 Berlin, Eiche
+Mühlenweg 1, 04932 Gröden, Elbe-Elster (Kreis)
+Fürstenwalder Weg 26, 15713 Niederlehme, Königs Wusterhausen
+14476 Potsdam-Groß Glienicke
+14612 Falkensee Ortsteil Finkenkrug
+Dorfstraße 20a, 17268 Flieth-Stegelitz, Uckermark (Kreis)
+Torgauer Str. 34, 04916 Herzberg, Herzberg/Elster
+Friedensstr. 1a, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Mühlenstraße 1, 14532 Stahnsdorf, Potsdam-Mittelmark (Kreis)
+An den Kopfweiden 6, 14473 Potsdam, Teltower Vorstadt
+Akazienstraße 16, 16766 Kremmen OT Sommerfeld, Kremmen
+Karl-Marx-Straße 141 L, 12529 Schönefeld, Dahme-Spreewald (Kreis)
+Hirschsprung 84, 14612 Falkensee-Waldheim, Falkensee
+An der Koppel 36, 12529 Schönefeld, OT Siedlung Waltersdorf, Schönefeld
+14715 Nennhausen
+14552 Michendorf Widenbruch
+Meisenweg 27, 14624 Dallgow-Döberitz, OT Seeburg, Dallgow-Döberitz
+Wilmsstraße 46, 14624 Dallgow-Döberitz, Havelland (Kreis)
+16356 Werneuchen
+Ontario-Straße 20, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Lindenstr. 11, 15712 Königs Wusterhausen, Dahme-Spreewald (Kreis)
+Blankenfelde-Mahlow, Teltow-Fläming (Kreis)
+Graf-von-Schwerin-Straße 36C, 14469 Potsdam, Nauener Vorstadt
+Am Mühlenberg 59, 14798 Havelsee/Briest, Havelsee
+14467 Neu Fahrland
+16515 Mühlenbecker Land
+Stralsunder Str. 3, 16515 Oranienburg, Oberhavel (Kreis)
+15806 Zossen OT Dabendorf
+15827 Dahlewitz
+Glienicker Str. 69D, 14612 Falkensee, Havelland (Kreis)
+Hamilton-Str. 11, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Alwine 103, 04924 Domsdorf, Uebigau-Wahrenbrück
+14548 Geltow
+Wachtelberg 10 f, 15738 Hennickendorf, Rüdersdorf bei Berlin
+Peetscher Weg 10, 16798 Fürstenberg, Fürstenberg/Havel
+Börnicker Chaussee 132, 16321 Bernau, Bernau bei Berlin
+Richard-Wagner-Straße 28, 14476 Groß Glienicke, Potsdam
+Victoria-Straße 18, 14513 Teltow, Potsdam-Mittelmark (Kreis)
+Am Lehnitzsee 1, 14476 Neufahrland, Neu Fahrland
+Offenbachstraße 53, 16321 Bernau , Wandlitz
+Ziemensstraße 43 b, 14542 Werder (Havel) OT Glindow, Werder (Havel)
+Heidestrasse 27, 15712 Königs Wusterhausen , Königs Wusterhausen
+16306 Jamikow
+Werderstr. 3, 14776 Brandenburg, Neustadt
+14823 Niemegk
+Weissdornallee 5, 14624 Dallgow Döberitz, Dallgow-Döberitz
+Körperstr. 3, 15537 Grünheide, Grünheide (Mark)
+An der Aue 1, 14552 Michendorf OT Wilhelmshorst, Michendorf
+Lebbin 4, 15528 Spreenhagen, Oder-Spree (Kreis)
+Alte Kietzstraße 9, 16766 Kremmen, Oberhavel (Kreis)
+16348 Wandlitz
+Am Dämeritzsee 9, 15537 Erkner, Oder-Spree (Kreis)
+Brückenstrasse 1, 15562 Rüdersdorf, Rüdersdorf bei Berlin
+Spechtstraße 14, 14532 Stahnsdorf, Potsdam-Mittelmark (Kreis)
+16341 Bernau
+Am Ziegeleischlag 13a, 14641 Priort bei Wustermark, Havelland (Kreis)
+16547 Werneuchen
+Am Seegarten 11, 15738 Zeuthen, Dahme-Spreewald (Kreis)
+Rudolf-Breitscheid-Straße 81, 14482 Potsdam, Babelsberg Nord
+Rudolf-Breitscheid-Straße 35B, 16341 Panketal, Barnim (Kreis)
+Käthe-Kollwitz-Straße 23, 14532 Kleinmachnow, Potsdam-Mittelmark (Kreis)
+Ginsterheide 7, 14532 Kleinmachnow, Potsdam-Mittelmark (Kreis)
+Ernst-Thälmann-Straße 15, 16845 Temnitztal Wildberg, Temnitztal
+16835 Lindow (Mark)
+16868 Wusterhausen Nackel
+16515 Oranienburg OT Friedrichsthal
+17326 Brüssow
+14943 Luckenwalde
+14550 Jeserig
+15926 Luckau / Terpt
+16845 Stüdenitz
+15838 Am Mellensee
+Brücker Weg 15, 14822 Brück OT Borkwalde, Potsdam-Mittelmark (Kreis)
+Schülaring 19, 01993 Schipkau, Oberspreewald-Lausitz (Kreis)
+14547 Fichtenwalde
+03149 Forst (Lausitz)
+Zur Rolle 9, 16515 Oranienburg, Oberhavel (Kreis)
+dorfplatz 12, 14959 trebbin, Trebbin
+An den Sümpfen 22, 14959 Trebbin OT Löwendorf, Trebbin
+Friedrichsthaler Str. 9, 16515 Oranienburg, Oberhavel (Kreis)
+15741 Motzen
+15537 Grünheide (Mark) / Freienbink
+12529 Schönefeld / Rotberg
+16248 Liepe
+Zeppelinstraße 0, 15370 Fredersdorf, Fredersdorf-Vogelsdorf
+Mühlenstr. 12-14, 14532 Stahnsdorf, Potsdam-Mittelmark (Kreis)
+Oranienburger Chaussee 20a, 16515 Oranienburg, Oberhavel (Kreis)
+Rühleweg/Schützenstrasse, 14641 Nauen, Havelland (Kreis)
+16348 Wandlitz - Basdorf
+14656 Brieselang
+16727 Oberkrämer - Vehlefanz
+15837 Baruth
+03226 Vetschau
+14929 Treuenbrietzen
+von-Achenbach-Strasse 27, Trebbin, Teltow-Fläming (Kreis)
+Mittelfeldring 80, 15344 Strausberg, Märkisch-Oderland (Kreis)
+Rosenstraße 9, 15711 Königs Wusterhausen, Dahme-Spreewald (Kreis)
+Kreischaussee ., 15831 Blankenfelde-Mahlow, Teltow-Fläming (Kreis)
+14547 Beelitz - Busendorf
+16278 Angermünde
+14929 Frohnsdorf
+19322 Bentwisch
+03205 Gross Mehssow
+Mötzower Landstraße 145a, 14778 Brandenburg, Dom
+Amalienstraße -, 16727 Velten, Oberhavel (Kreis)
+Eberswalder Str 17, 16230 Melchow, Barnim (Kreis)
+Schlabendorf am See 32, 15926 Luckau, Dahme-Spreewald (Kreis)
+16548 Glienicke/Nordbahn
+Dorfaue, 15745 Wildau, Dahme-Spreewald (Kreis)
+Blumenkorso, 15745 Wildau, Dahme-Spreewald (Kreis)
+Schmöllner Weg 11, 14776 brandenburg, Neustadt
+Kirschalle 9, 15913 Sprewaldheide, Spreewaldheide
+15366 Dahlwitz-Hoppegarten
+Gartenstraße 7, 15366 Hoppegarten, Märkisch-Oderland (Kreis)
+16356 Werneuchen, OT Tiefensee
+03099 Kolkwitz / Glinzig
+Goethestraße, 16341 Panketal, OT Schwanebeck, Panketal
+Graditzer Damm 3, 15366 Neuenhagen, Neuenhagen bei Berlin
+Fernstraße 17, 15741 Bestensee OT Pätz, Bestensee
+14641 Wustermark OT Dyrotz
+14542 Werder OT Plötzin
+Siegfriedstraße 14, 15712 Königs Wusterhausen OT Zernsdorf, Königs Wusterhausen
+Wendenkönigstraße 23, 03096 Burg (Spreewald), Spree-Neiße (Kreis)
+Berner Str. 8, 16798 Fürstenberg, Fürstenberg/Havel
+14913 Markendorf
+Döberitzer Straße 55, 14612 Falkensee, Havelland (Kreis)
+Querstrasse, 03058 Komptendorf, Neuhausen/Spree
+Kiefernweg 1, 14550 Neu Bochow, Groß Kreutz (Havel)
+Chopinring 0, 15831 Blankenfelde-Mahlow, Teltow-Fläming (Kreis)
+Annenstraße 0, 15370 Fredersdorf, Petershagen/Eggersdorf
+Kutzeburger Mühle 2, 03058 Cottbus, Gallinchen
+Am Luch 21, 15732 Schulzendorf, Dahme-Spreewald (Kreis)
+16831 Rheinsberg-Kleinzerlang
+15831 Großbeeren
+04924 Bad Liebenwerda
+15864 Diensdorf-Radlow
+15328 Manschnow
+03099 Kolkwitz
+Kollwitzstraße 30, 14656 Brieselang, Havelland (Kreis)
+Wildrosenstraße 33, 15827 Blankenfelde/Mahlow, Blankenfelde-Mahlow
+01996 Senftenberg / OT Hosena
+15711 Königs Wusterhausen OT Ziegenhals
+16798 Fürstenberg/Havel OT Himmelpfort
+15562 Rüdersdorf
+14550 Groß Kreutz
+03116 Leuthen
+15345 Petershagen
+16775 Gransee
+16818 Storbeck-Frankendorf
+Kuschkower Str., 15913 Gröditsch, Märkische Heide
+Festungsgraben, 03185 Peitz, Spree-Neiße (Kreis)
+15299 Müllrose OT Dubrow
+15848 Tauche OT Briescht
+15848 Tauche OT Mittweide
+15864 Wendisch Rietz
+Meistereck, 17291 Melzow, Oberuckersee
+15234 Frankfurt (Oder) OT Kliestow
+Reiherbergstraße xxx, 14476 Golm, Potsdam
+15366 Neuenhagen b. Berlin
+15831 Blankenfelde-Mahlow
+01945 Tettau
+14554 Seddiner See
+Babelsberg Nord, Potsdam
+17279 Lychen
+16775 Löwenberg
+Berliner Str. 35, 16792 Zehdenick, Oberhavel (Kreis)
+16225 Eberswalde
+16227 Eberswalde
+14715 Hohennauen
+14913 Jüterbog
+15848 Tauche OT Stremmen
+14669 Ketzin OT Etzin
+Gartenstraße xxx, 16365 Werneuchen-Hirschfelde, Werneuchen
+Altstadtblick 3A, 14473 Potsdam, Templiner Vorstadt
+15713 Königs Wusterhausen
+Ahornallee 47, 15537 Erkner, Oder-Spree (Kreis)
+Am Mahlbusen 37, 16321 Bernau, Bernau bei Berlin
+Glienicker Straße 1, 15806 Zossen, Teltow-Fläming (Kreis)
+Mittelstraße 4, 16928 Pritzwalk, Prignitz (Kreis)
+Ulmenweg 9a, 19322 Wittenberge, Prignitz (Kreis)
+Platz der Friedens 1a, 16928 Pritzwalk, Prignitz (Kreis)
+Am Ortberg 57, 15757 Teurow, Halbe
+03149 Forst
+03054 Cottbus
+Am Körgraben 2, 14712 Rathenow, Havelland (Kreis)
+Bahnhofstraße 25, 03103 Neupetershain, Oberspreewald-Lausitz (Kreis)
+14109 Potsdam
+14641 Tietzow
+14469 Potdam
+Thierbacher Straße xxx, 03048 Cottbus-Sachsendorf, Cottbus
+Berliner Straße xxx, 03046 Cottbus, Ströbitz
+Muskauer Straße xxx, 03130 Spremberg, Spree-Neiße (Kreis)
+Brunnenstraße xxx, 16225 Eberswalde, Barnim (Kreis)
+Eberswalder Straße xxx, 15374 Müncheberg, Märkisch-Oderland (Kreis)
+16244 Schorfheide
+Grünstreifen 19, 16792 Zehdenick, Oberhavel (Kreis)
+Am Kuschelhain 28 a, 16727 Velten, Oberhavel (Kreis)
+15827 Blankenfelde-Mahlow OT Dahlewitz
+03172 Guben
+01945 Ruhland
+16868 Bantikow
+16321 Ahrensfelde
+16909 Wittstock/Dosse
+16767 Leegebruch
+15306 Lietzen
+16827 Alt Rupin
+Schöneiche bei Berlin, Oder-Spree (Kreis)
+15926 Görlsdorf
+Eulenweg 2 a - e, 15741 Bestensee, Dahme-Spreewald (Kreis)
+Mainstr 98, 16321 Bernau, Bernau bei Berlin
+Hubertusdamm 73 - 77, 14480 Potsdam, Stern
+14913 Niederer Fläming
+14974 Thyrow
+15936 Dahme
+Cottbuser Straße 58, 03149 Forst, Forst (Lausitz)
+Silostraße 16, 14770 Brandenburg, Nord
+Großbeerenstraße 7, 14480 Potsdam, Babelsberg Süd
+16949 Putlitz / Porep
+Alt Ruppiner Allee 40, 16816 Neuruppin, Ostprignitz-Ruppin (Kreis)
+Birkenstraße 2a, 14641 Wustermark, Havelland (Kreis)
+14778 Radewege
+01998 Klettwitz
+03205 Calau
+14778 Beetzsee OT Radewege
+Bergholzer Str. 3, 14473 Potsdam, Teltower Vorstadt
+04910 Elsterwerda
+14778 Wollin
+16562 Hohen Neuendorf
+Am Mahlbusen 7, 16321 Bernau, Bernau bei Berlin
+14550 Schmergow
+Fürstenau 19/20, 17268 Boitzenburger Land, Uckermark (Kreis)
+Chausseestr. 32, 15345 Lichtenow, Rüdersdorf bei Berlin
+04916 Herzberg (Elster)
+14621 Schönwalde-Glien
+28719 Burgdamm
+28309 Bremen
+Meierhofstr. 1, 28759 Bremen, St. Magnus
+Nordernfeldstraße xxx, 27572 Bremerhaven, Wulsdorf
+Lesmonastr 108, 28719 Bremen, Lesum
+Wurster Straße 197, 27580 Bremerhaven, Lehe
+28259 Bremen / Huchting
+28203 Bremen/Fesenfeld
+28203 Bremen / Östliche Vorstadt
+28325 Bremen
+Kurfürstenallee 35 C, 28211 Bremen, Gete
+28719 Bremen, Burg- Lesum
+Konsul-Smidt-Strasse 60-64, 28217 Bremen, Handelshäfen
+Sachsenstraße 21, 27570 Bremerhaven / Geestemünde, Bremerhaven
+Hermann-Heinrich-Meier Allee 66, 28213 Bremen, Neu Schwachhausen
+28197 Bremen / Woltmershausen
+28779 Bremen-Lüssum
+Konsul-Smidt-Straße 60-64, 28217 Bremen, Handelshäfen
+28759 Bremen - St. Magnus
+Gete, Bremen
+Osterholzer Landstraße 75a, 28325 Bremen, Ellenerbrok-Schevemoor
+28717 Bremen-Burglesum
+28205 Bremen
+Semmelweisstraße 2, 28309 Bremen, Sebaldsbrück
+Erlenstraße 129, 28199 Bremen, Neustadt
+Gustav-Heinemann Str. 74, 28215 Bremen, Weidedamm
+28755 Bremen
+Dasbacher Straße 28, 28307 Bremen-Arbergen, Bremen
+Lesumer Heerstr. 8, 28717 Bremen-Lesum, Bremen
+St. Pauli Deich 12, 28199 Bremen, Alte Neustadt
+Ruppertshainer Straße 13, 28307 Bremen, Arbergen
+28327 Bremen
+Grashoffstraße 32, 27570 Bremerhaven, Geestemünde
+28325 Osterholz
+Am Kapellenberg 1 a, 28759 Bremen, St. Magnus
+Recklinghauserstraße 9, Blockdiek, Bremen
+Auf Anfrage X, 28277 Bremen, Kattenturm
+28211 Bremen-Schwachhausen
+Fitgerstraße 3, 28209 Bremen, Bürgerpark
+Genter Str. 17, 28259 Bremen, Mittelshuchting
+Elbingerstraße 31, 28237 Bremen, Lindenhof
+Sankt Pauli Deich 12, 28199 Bremen, Alte Neustadt
+Oberes Emmatal 6, 28717 Bremen, Lesum
+28215 Bremen
+27570 Bremerhaven-Geestemünde
+Schwanewederstr. 60, 28779 Bremen, Lüssum-Bockhorn
+Querlandstraße 6, 28357 Bremen, Borgfeld
+28215 Bremen / Findorff
+Buntentorsteinweg 104 B, 28201 Bremen, Buntentor
+Königsberger Straße 72, 28237 Bremen, Lindenhof
+Gerhart-Hauptmann-Straße 3, 28213 Bremen, Neu Schwachhausen
+Bultenweg 7, 28325 Bremen, Tenever
+Louise-Schroeder-Straße 56 C, 27578 Bremerhaven, Leherheide
+Middelburger Straße 1, 28259 Bremen, Sodenmatt
+Den Haager Straße 22, 28259 Bremen, Sodenmatt
+Carl-Severing-Straße 61, 28329 Bremen, Neue Vahr Nord
+Auf dem Halm 27, 28717 Bremen, Lesum
+Hünertshagen 35, 28755 Bremen, Aumund-Hammersbeck
+Schubertstrasse 35, 28209 Bremen, Schwachhausen
+Dionysiusstraße 81, 27576 Bremerhaven, Lehe
+Lindenstraße 75-77, 28755 Bremen, Fähr-Lobbendorf
+Schillerstraße 52, 27570 Bremerhaven, Geestemünde
+Buchtstraße 49, 27570 Bremerhaven, Geestemünde
+Stresemannstraße 177, 27576 Bremerhaven, Lehe
+Soddernstraße 22a, 27572 Bremerhaven, Wulsdorf
+Neumarktstraße 24, 27570 Bremerhaven, Geestemünde
+Scharnhorststraße 16, 27568 Bremerhaven, Mitte
+Woltmershauser Str. 313, 28197 Bremen, Woltmershausen
+Lausanner Straße 208, 28325 Bremen, Tenever
+Finkenschlag 34, 28759 Bremen, St. Magnus
+Rönnebecker Str. 19 A, 28777 Bremen, Blumenthal
+Hamburger Straße 262, 28205 Bremen, Peterswerder
+Boschstraße 11, 27574 Bremerhaven, Geestemünde
+Züricher Straße 39, 28325 Bremen, Ellenerbrok-Schevemoor
+Hermann-Ehlers-Straße 10 A, 27578 Bremerhaven, Leherheide
+Eppenhainer Straße 13, 28307 Bremen, Mahndorf
+Heinrich-Plett-Allee 58, 28259 Bremen, Sodenmatt
+Wilhelm-Liebknecht-Straße 5, 28329 Bremen, Neue Vahr Nord
+Wilhelm-Liebknecht-Straße 52, 28329 Bremen, Neue Vahr Nord
+Lessingstr. 19, 27568 bremerhaven, Lehe
+Joseph Haydn Str. 30, 28209 Bremen, Schwachhausen
+Hannoversche Straße 115, 28309 Bremen, Hemelingen
+Batteriestr. 8, 27568 Bremerhaven, Lehe
+Fedelerstr. 2, 28757 Bremen, Vegesack
+Arensburgstr. 53, 28211 Bremen, Gete
+Industriestraße 42a, 27570 Bremerhaven, Geestemünde
+Eupenerstraße 14, 27576 Bremerhaven, Lehe
+Ramdohrstraße 20, 28205 Bremen, Hulsberg
+Pestalozzistraße 30, 27568 Bremerhaven, Mitte
+Carl-Hurtzig-Straße 13, 28259 Bremen, Mittelshuchting
+Hans-Böckler-Straße 75, 27578 Bremerhaven, Leherheide
+Antwerpener Straße 15, 28259 Bremen, Mittelshuchting
+Gustav-Radbruch-Straße 31, 28329 Bremen, Neue Vahr Nord
+Geibelstr. 10, 27576 Bremerhaven, Lehe
+Rutenbergstr. 22, 27568 Bremerhaven, Mitte
+Ottilie-Hoffmann-Straße 83, Neu Schwachhausen, Bremen
+Seewenjestr. 131, 28237 Bremen, Gröpelingen
+Kohlhökerstraße 65, 28203 Bremen, Ostertor
+Eichendorffstraße 31, 27576 Bremerhaven, Lehe
+28359 Bremen-Horn
+Richard-Wagner-Str. 20, 28209 Bremen, Bürgerweide/Barkhof
+28257 Bremen
+Fedelhören 12/13, 28203 Bremen, Ostertor
+28329 Bremen-Vahr
+Osterholzer Landstraße 48f, 28237 Bremen, Ellener Feld
+Gröpelinger Heerstraße 383, 28239 Bremen, Ohlenhof
+Elsasser Straße 170, 28211 Bremen, Gete
+Borgfelder Heerstr. 38a, 28357 Bremen, Borgfeld
+Friedrich-Ebert-Straße 16, 27570 Bremerhaven, Geestemünde
+Nettelbeckstraße 3, 27572 Bremerhaven, Wulsdorf
+Münchenerstrasse 57, 28217 Bremen, Regensburger Str.
+Wiesbadenerstrasse 9, 28199 Bremen, Neustadt
+Deichstrasse 82, 27568 Bremerhaven, Mitte
+Den Haager Straße 18, 28259 Bremen, Sodenmatt
+Sagerstr. 44, 28757 Bremen, Vegesack
+Bruchweg 90, 28309 Bremen, Hemelingen
+Bromberger Str. 61, 28237 Bremen, Gröpelingen
+Ortstr. 21 C, 28237 Bremen, Lindenhof
+Grönlandstr. 15, 28719 Bremen, Burg-Grambke
+Georg-Büchner-Straße 10, 27574 Bremerhaven, Geestemünde
+Bütteler Straße 34, 27568 Bremerhaven, Lehe
+Thunstraße 38, 27572 Bremerhaven, Wulsdorf
+Hemelinger Heerstraße 9, 28309 Bremen, Hemelingen
+Randweg 47, 28239 Bremen, Oslebshausen
+Franz-Liszt-Str. 12, 28209 Bremen, Bürgerweide/Barkhof
+Auf den Häfen 12-15, 28203 Bremen, Ostertor
+Vahrer Str. 78, 28309 Bremen, Sebaldsbrück
+Waltjenstraße 25, 28237 Bremen, Lindenhof
+Anna-Seghers-Straße 14, 28279 Bremen, Habenhausen
+Volttastr. 55, 28357 Bremen, Lehesterdeich
+Am Dobben 28, 28203 Bremen, Ostertor
+Alwin-Belger-Straße 35, 28755 Bremen, Fähr-Lobbendorf
+Finkenschlag 23, 28759 Bremen, St. Magnus
+Poelzigstraße 38, 28205 Bremen, Peterswerder
+Pestalozzistraße 28, 27568 Bremerhaven, Mitte
+Marienwerderstr. 33, 28237 Bremen, Gröpelingen
+Wummensieder Str. 61, 28239 Bremen, Ohlenhof
+Auf der Bult 10, 27574 Bremerhaven, Geestemünde
+Am Oberhamm 126 C, 27570 Bremerhaven, Geestemünde
+Kurt-Schumacher-Straße 75 A, 27578 Bremerhaven, Leherheide
+Hemelinger Heerstraße 7, 28309 Bremen, Hemelingen
+Fröbelstraße 35, 27850 Bremerhaven, Lehe
+Keplerstraße 34, 27850 Bremerhaven, Lehe
+Gellertstraße 87, 28201 Bremen, Buntentor
+Potsdamer Straße 55, 27568 Bremerhaven, Lehe
+Karl-Marx-Straße 270, 28279 Bremen, Habenhausen
+Geeststraße -, 28237 Bremen, Lindenhof
+Rickmersstraße 130, 27568 Bremerhaven, Lehe
+Prager Straße 79, 27568 Bremerhaven, Mitte
+Friedhofstr. 34, 27576 Bremerhaven, Lehe
+Sine-Wessels-Str. 2c, 28357 Bremen, Lehesterdeich
+Pappelstraße 56, 28199 bremen, Neustadt
+Rotterdamer Str. 9, 28259 Bremen, Kirchhuchting
+Hohenstaufenstr. 2a, 27568 Bremerhaven, Geestemünde
+Hafenstraße 1, 27576 Bremerhaven, Mitte
+Bgm.-Smidt-Straße 25, 27568 Bremerhaven, Mitte
+St.- Pauli-Deich 1, 28199 Bremen, Alte Neustadt
+Grazer Str. 57, 27568 Bremerhaven, Mitte
+Zur Vegesacker Fähre 39, 28757 Bremen, Vegesack
+Kurfürstenallee 50a, 28211 Bremen, Gete
+Hockenstraße 3, 28717 Bremen, Lesum
+Abbentorswallstr. 50, 28195 Bremen, Altstadt
+28717 Bremen-Lesum
+Steindamm 46, 28719 Bremen, Burgdamm
+Krögersweg 2a, 28357 Bremen, Borgfeld
+28759 Bremen
+Hollerlander Weg 102, 28355 Bremen Oberneuland, Bremen
+Lesumer Heerstraße 65, 28717 Bremen-Lesum, St. Magnus
+Am Lehester Deich 99, 28357 Bremen, Lehesterdeich
+Walter-Delius-Straße 24, 27574 Bremerhaven, Geestemünde
+Bruchhauserstr. 7, 28277 Bremen Arsten, Kattenturm
+Hirschgraben 23, 22089 Hamburg, Eilbek
+Bramfelder Chaussee 169, 22177 Hamburg / Bramfeld, Hamburg
+Trenknerweg 113, 22605 Hamburg, Othmarschen
+Fuhlsbüttler Straße 419, 22307 Hamburg, Barmbek-Nord
+22081 Hamburg
+22765 Hamburg
+Kühnbachring, Jenfelder Au 1, 22045 Hamburg, Jenfeld
+Raalandsweg 27, 22559 Hamburg, Rissen
+Reembroden 37, 22339 Hamburg, Hummelsbüttel
+20255 Hamburg
