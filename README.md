@@ -1,6 +1,6 @@
 # MrPostman
 
-MrPostman is an approach to solve the [Homeday](https://www.homeday.de/de/) coding challenge, its goal is basically to be able to parse a string containing different levels of addresses informations, normalize this data and return it in a spplited, more sane format for future usage.
+MrPostman is an approach to solve the [Homeday](https://www.homeday.de/en/) coding challenge, its goal is basically to be able to parse a string containing different levels of addresses informations, normalize this data and return it in a spplited, more sane format for future usage.
 
 ## Questions
 
