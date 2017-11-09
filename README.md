@@ -6,22 +6,18 @@ MrPostman is an approach to solve the [Homeday](https://www.homeday.de/en/) codi
 
 The app was built with the idea of being as simple and lean as possible, therefore it just requires Ruby 2.4.2 and the `bundler` gem. To run it locally just follow the steps:
 
-```
-git clone git@github.com:miguelgraz/mrpostman.git
-cd mrpostman
-bundle
-rackup
+```bash
+$ git clone git@github.com:miguelgraz/mrpostman.git
+$ cd mrpostman
+$ bundle
+$ rackup
 ```
 
-And it should be running on http://localhost:9292 allowing you to use the parser by accessing
+And it should be running on http://localhost:9292 allowing you to use the parser by accessing  
 http://localhost:9292/parse?address=YOURADDRESS
 
-Alternatively it is also running as a Heroku app so the same behaviour might be seen by accessing
+Alternatively it is also running as a Heroku app so the same behaviour might be seen by accessing  
 https://mr-homeday-postman.herokuapp.com/parse?address=ADDRESSTOBEPARSED
-
-## Questions
-
-* Given that `postal_code` seems to be a fairly easy and useful information to get, shouldn't it be returned with the rest of the response object?
 
 ## Choices
 
@@ -40,7 +36,11 @@ Considering that the system should just receive one string through one endpoint 
 ### The `ELEMENTS` constant
 This was one approach to check the many components and their types that might come from the Google's API. Even though it might've made the creation of the `results` variable a bit obscure it also allows us to easily add or remove attributes we might want from the Google's API response by editing `ELEMENTS`.
 
-## Improvements
+## Questions
+
+* Given that `postal_code` seems to be a fairly easy and useful information to get, shouldn't it be returned with the rest of the response object?
+
+## Possible Future Improvements
 
 * Find a more elegant way to convert the response to json?
 
