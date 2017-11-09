@@ -37,7 +37,7 @@ Testing a couple of examples from */data/addresses.txt* I saw a few that had wei
 ### Input and output
 Considering that the system should just receive one string through one endpoint and return a key:value it was pretty clear that returning a JSON object would be the way to go here. I considered adding a database to store the normalized return but since the description doesn't ask I chose to focus on trying to curate as many addresses as possible.
 
-### The "ELEMENTS" constant
+### The `ELEMENTS` constant
 This was one approach to check the many components and their types that might come from the Google's API. Even though it might've made the creation of the `results` variable a bit obscure it also allows us to easily add or remove attributes we might want from the Google's API response by editing `ELEMENTS`.
 
 ## Improvements
@@ -46,4 +46,8 @@ This was one approach to check the many components and their types that might co
 
 * Explicitly call `subject` when testing to be clearer?
 
-* There's still some use cases to be tested and some work to be done on handling weird requests or "zero results" situations.
+* Have a clearer message for unexpected problems when using Google's API, like a proper handler for network problems
+
+* Have a number of preset `API_KEY`s and when receive a "OVER_QUERY_LIMIT" error change the configuration to the next `API_KEY`, try the same request again
+
+* Split the `spec/mrpostman_spec.rb` tests in two different files to improve readability?
