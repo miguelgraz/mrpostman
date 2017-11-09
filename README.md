@@ -46,6 +46,10 @@ This was one approach to check the many components and their types that might co
 
 * Explicitly call `subject` when testing to be clearer?
 
+* Weird, intermittent failing specs due to Google returning a `"OVER_QUERY_LIMIT"` when there's still quota :thinking:
+
+* Warning from `rack/query_parser` due to a regex match against a non-UTF-8 string
+
 * Have a clearer message for unexpected problems when using Google's API, like a proper handler for network problems
 
 * Have a number of preset `API_KEY`s and when receive a "OVER_QUERY_LIMIT" error change the configuration to the next `API_KEY`, try the same request again
