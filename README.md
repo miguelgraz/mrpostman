@@ -2,6 +2,23 @@
 
 MrPostman is an approach to solve the [Homeday](https://www.homeday.de/en/) coding challenge, its goal is basically to be able to parse a string containing different levels of addresses informations, normalize this data and return it in a spplited, more sane format for future usage.
 
+## Dependencies and setup
+
+The app was built with the idea of being as simple and lean as possible, therefore it just requires Ruby 2.4.2 and the `bundler` gem. To run it locally just follow the steps:
+
+```
+git clone git@github.com:miguelgraz/mrpostman.git
+cd mrpostman
+bundle
+rackup
+```
+
+And it should be running on http://localhost:9292 allowing you to use the parser by accessing
+http://localhost:9292/parse?address=YOURADDRESS
+
+Alternatively it is also running as a Heroku app so the same behaviour might be seen by accessing
+https://mr-homeday-postman.herokuapp.com/parse?address=ADDRESSTOBEPARSED
+
 ## Questions
 
 * Given that `postal_code` seems to be a fairly easy and useful information to get, shouldn't it be returned with the rest of the response object?
